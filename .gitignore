@@ -1,0 +1,3 @@
+# Stuff for pyenv and virtualenv
+.python-version
+.ipynb_checkpoints/

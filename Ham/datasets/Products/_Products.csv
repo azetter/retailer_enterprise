@@ -1,0 +1,2372 @@
+0,0,'T's Restaurant Tantanmen ',42,'Cup','New Touch','Japan'
+1,1,'Noodles Spicy Hot Sesame Spicy Hot Sesame Guan-miao Noodles',76,'Pack','Just Way','Taiwan'
+2,2,'Cup Noodles Chicken Vegetable',45,'Cup','Nissin','USA'
+3,3,'GGE Ramen Snack Tomato Flavor',63,'Pack','Wei Lih','Taiwan'
+4,4,'Singapore Curry',94,'Pack','Ching's Secret','India'
+5,5,'Kimchi song Song Ramen',46,'Pack','Samyang Foods','South Korea'
+6,6,'Spice Deli Tantan Men With Cilantro',13,'Cup','Acecook','Japan'
+7,7,'Nabeyaki Kitsune Udon',57,'Tray','Ikeda Shoku','Japan'
+8,8,'Hokkaido Soy Sauce Ramen',55,'Pack','Ripe'n'Dry','Japan'
+9,9,'The Original Spicy Stir-Fried Noodles',10,'Pack','KOKA','Singapore'
+10,10,'Creamy tom Yum Kung Flavour',68,'Pack','Tao Kae Noi','Thailand'
+11,11,'Yokohama Tonkotsu Shoyu',17,'Pack','Yamachan','USA'
+12,12,'Mr. Bibim Stir-Fried Kimchi Flavor',31,'Pack','Nongshim','South Korea'
+13,13,'Deka Buto Kimchi Pork Flavor',36,'Bowl','Nissin','Japan'
+14,14,'Demae Ramen Bar Noodle Aka Tonkotsu Flavour Instant Noodle',8,'Pack','Nissin','Hong Kong'
+15,15,'Mushroom Flavour Instant Noodles',52,'Cup','KOKA','Singapore'
+16,16,'Mario Masala Noodles',34,'Pack','TRDP','India'
+17,17,'Tokyo Shoyu Ramen',31,'Pack','Yamachan','USA'
+18,18,'Mi Hai Cua',49,'Pack','Binh Tay','Vietnam'
+19,19,'Premium Gomtang',9,'Pack','Paldo','South Korea'
+20,20,'Cup Noodles Laksa Flavour',23,'Cup','Nissin','Hong Kong'
+21,21,'Beef Ramen',36,'Pack','Jackpot Teriyaki','USA'
+22,22,'Creamy Soup With Crushed Noodles Hot & Sour Fish Flavor',51,'Cup','KOKA','Singapore'
+23,23,'Sapporo Miso Ramen',35,'Pack','Yamachan','USA'
+24,24,'Hot Garlic Instant Noodles',42,'Pack','Ching's Secret','India'
+25,25,'Song Song Kimchi Big Bowl',73,'Bowl','Samyang Foods','South Korea'
+26,26,'Instant Noodles Beef In Light Soup Flavour',49,'Pack','Yum-Mie','Ghana'
+27,27,'Hakata Ramen Noodle White Tonkotsu',9,'Bowl','Nissin','Japan'
+28,28,'Penang White Curry Rice Vermicelli Soup',59,'Bowl','MyKuali','Malaysia'
+29,29,'Signature Tom Yum Flavor Instant Noodles',47,'Pack','KOKA','Singapore'
+30,30,'Paegaejang Ramen',71,'Pack','Samyang Foods','South Korea'
+31,31,'Gekikara Ramen Extra Hot Ramen Goreng',22,'Pack','Nissin','Indonesia'
+32,32,'Plain Instant Noodle No Soup Included',43,'Pack','Ottogi','South Korea'
+33,33,'Chongqing Spicy Hot Noodles',82,'Bowl','Sichuan Guangyou','China'
+34,34,'Sugo-Men Kyoto Backfat Shoyu Ramen',40,'Bowl','New Touch','Japan'
+35,35,'Instant Noodles Laksa Singapura Flavour',87,'Pack','KOKA','Singapore'
+36,36,'Cup-A-Soup Chicken Noodle With White Meat Instant Soup',85,'Box','Lipton','USA'
+37,37,'Curry Flavour Instant Noodles',14,'Cup','KOKA','Singapore'
+38,38,'Super Cup Yochan Ika Yakisoba',28,'Tray','Acecook','Japan'
+39,39,'Cup Noodles Very Veggie Spicy Chicken Flavor Ramen Noodle Soup',54,'Cup','Nissin','USA'
+40,40,'GGE Noodle Snack Wheat Crackers Mexican Spicy',13,'Pack','Wei Lih','Taiwan'
+41,41,'Demae Iccho Tonkotsu Flavour Instant Noodle',39,'Cup','Nissin','Hong Kong'
+42,42,'Cup Noodles Very Veggie Beef Flavor Ramen Noodle Soup',90,'Cup','Nissin','USA'
+43,43,'Cup NoodlesTom Yam Seafood (More Shrimptacular)',71,'Cup','Nissin','Singapore'
+44,44,'Instant Noodles Beef',9,'Pack','Lele','Ghana'
+45,45,'Cup Noodles Very Veggie Chicken Flavor Ramen Noodle Soup',53,'Cup','Nissin','USA'
+46,46,'Hokkaido Hakodate Shoyu Ramen',44,'Pack','Fujiwara','Japan'
+47,47,'Shin Ramyun Black',32,'Pack','Nongshim','South Korea'
+48,48,'Nippon Onomichi Ramen',42,'Bowl','Nissin','Japan'
+49,49,'Pickled Cabbage Beef',98,'Pack','Uni-President','China'
+50,50,'Ppushu Ppushu Noodle Snack Honey Butter ',73,'Pack','Ottogi','South Korea'
+51,51,'Gotsumori Chanpon Ramen',52,'Bowl','Maruchan','Japan'
+52,52,'Juzz's Mee Creamy Chicken Flavour (Export Version)',80,'Pack','Prima','Singapore'
+53,53,'Mushroom Flavor',44,'Pack','Uni-President','Vietnam'
+54,54,'Jjamppong Big Bowl',65,'Bowl','Samyang Foods','South Korea'
+55,55,'Curry Udon',66,'Pack','Sokensha','Japan'
+56,56,'Straits Reborn Laksa',9,'Pack','Nissin','Singapore'
+57,57,'Budae Jjigae Noodle Soup',14,'Pack','Nongshim','South Korea'
+58,58,'Hearty Japanese Style Curry Udon',24,'Pack','Takamori','Japan'
+59,59,'Cup Noodles Potato Chips Black Pepper Crab Flavour',34,'Pack','Nissin','Singapore'
+60,60,'Cup Noodles Blacl Pepper Crab Flavour (More Angry Crab)',95,'Cup','Nissin','Singapore'
+61,61,'Anchovy Flavor Guava Rice Noodles',41,'Tray','Guava Story','South Korea'
+62,62,'Umami Ramen',70,'Pack','Samurai Ramen','Japan'
+63,63,'Nabeyaki Tempura Udoin',82,'Bowl','Ikeda Shoku','Japan'
+64,64,'Hokkaido Hakodate Miso Ramen',82,'Pack','Fujiwara','Japan'
+65,65,'Man Han Feast Spicy Beef Flavor Instant Noodles',19,'Bowl','Uni-President','Taiwan'
+66,66,'Kirin Giraffe Shoyu Ramen',8,'Pack','Ogasawara','Japan'
+67,67,'Nissin Top Ramen Chicken Flavor Potato Crisps ',47,'Can','Pringles','USA'
+68,68,'Dan Dan Noodle',89,'Pack','Mom's Dry Noodle','Taiwan'
+69,69,'Samyang Ramen Classic Edition',92,'Bowl','Samyang Foods','South Korea'
+70,70,'Penang Red Tom Yum Goong Noodle',52,'Pack','MyKuali','Malaysia'
+71,71,'Hot Heads Green Chilli Noodles',78,'Pack','Maggi','India'
+72,72,'Mala Buldak Bokkeummyun',69,'Pack','Samyang Foods','South Korea'
+73,73,'RMy Noodlez Rumput Laut',48,'Pack','Indomie','Indonesia'
+74,74,'Delight Chicken Flavor Instant Non-Fried Noodles',13,'Pack','KOKA','Singapore'
+75,75,'Super Cup Torigawa Shoyu',18,'Bowl','Acecook','Japan'
+76,76,'Shin Ramyun',24,'Pack','Nongshim','South Korea'
+77,77,'Sweet Potato Instant Noodle Sout-Hot Flavor',65,'Bowl','Sichuan Guangyou','China'
+78,78,'Onion Chicken Flavor',63,'Pack','Indomie','Nigeria'
+79,79,'Toona Paste Noodle',7,'Pack','Happy Cook','Taiwan'
+80,80,'Supreme Creamy Tom Yum Noodle',92,'Box','The Ramen Rater Select','Malaysia'
+81,81,'Creamy Soup With Crushed Noodles Chicken Flavor',78,'Cup','KOKA','Singapore'
+82,82,'Demae Ramen Spicy Beef',82,'Pack','Nissin','Germany'
+83,83,'Cup Noodles Spicy',72,'Cup','Nissin','Germany'
+84,84,'Soba Thai',39,'Pack','Nissin','Germany'
+85,85,'Cup Noodles Huhn (Chicken)',7,'Cup','Nissin','Germany'
+86,86,'Demae Ramen Korean Kimchi',56,'Pack','Nissin','Germany'
+87,87,'Cup Noodles Curry',62,'Cup','Nissin','Germany'
+88,88,'Smack Chili',16,'Pack','Nissin','Hungary'
+89,89,'Soba Yakitori Chicken',83,'Cup','Nissin','Germany'
+90,90,'Demae Ramen Garlic Chicken',57,'Pack','Nissin','Germany'
+91,91,'Cup Noodles Ente (Duck)',39,'Cup','Nissin','Germany'
+92,92,'Demae Ramen Thai Tom Yum',95,'Pack','Nissin','Germany'
+93,93,'Soba Sukiyaki Beef',83,'Cup','Nissin','Germany'
+94,94,'Demae Ramen Spicy',10,'Pack','Nissin','Germany'
+95,95,'Cup Noodles Shrimps',12,'Cup','Nissin','Germany'
+96,96,'Demae Ramen Tokyo Soy Sauce',12,'Pack','Nissin','Germany'
+97,97,'Bul Jjamppong',41,'Bowl','Paldo','South Korea'
+98,98,'Chicken With Chinese Shaoxing Wine',90,'Pack','TTL','Taiwan'
+99,99,'Buldak Bokkeummyun',17,'Cup','Samyang Foods','South Korea'
+100,100,'Pork Wantan Men',72,'Bowl','Acecook','Japan'
+101,101,'Instant Noodles Chicken Flavour',83,'Pack','E-Zee','Malaysia'
+102,102,'Scallion Oil & Soy Sauce Noodle',59,'Pack','Kiki Noodle','Taiwan'
+103,103,'Sichuan Spices Flavor Noodle',91,'Pack','Kiki Noodle','Taiwan'
+104,104,'Kimchi Stew Ramyun',71,'Bowl','Samyang Foods','South Korea'
+105,105,'Seimen Red Spicy Dandan Men',18,'Bowl','Maruchan','Japan'
+106,106,'Ppushu Ppushu Noodle Snack Chilli Cheese Flavor',41,'Pack','Ottogi','South Korea'
+107,107,'Mini Instant Noodle Mild Curry Flavor',75,'Pack','Tokyo Noodle','Japan'
+108,108,'Noodle Snack Wheat Cracks Seaweed Flavor',12,'Pack','GGE','Taiwan'
+109,109,'Cup Noodles Mini Seafood Flavour',46,'Cup','Nissin','Hong Kong'
+110,110,'Udon Japanese Style Noodles With Soup Base Hot & Sour Flavor',27,'Pack','Myojo','USA'
+111,111,'Signature Curry Flavor Instant Noodles',10,'Cup','KOKA','Singapore'
+112,112,'Dossari Yasai Chanpon',17,'Cup','Acecook','Japan'
+113,113,'Volcano Curry Kkokkomyun',54,'Pack','Paldo','South Korea'
+114,114,'Instant Noodle King Pepper Duck Flavour Soup',43,'Pack','Sau Tao','Hong Kong'
+115,115,'Cup Noodles XO Sauce Seafood',35,'Cup','Nissin','China'
+116,116,'Extreme Spicy Hot Chicken Flavor Udon',14,'Bowl','Wang','South Korea'
+117,117,'Gekikara Ramen Rasa Pedas',69,'Pack','Nissin','Indonesia'
+118,118,'Sesame Oil Chicken Noodle With Rice Wine',48,'Bowl','TTL','Taiwan'
+119,119,'Hokkaido Hakodate Shio Ramen',48,'Pack','Fujiwara','Japan'
+120,120,'Katsuo Bowl Udon',31,'Bowl','Daifuku','USA'
+121,121,'Cup Noodles MUG Shoyu & Seafood',40,'Pack','Nissin','Japan'
+122,122,'Sari Ramen',90,'Pack','Samyang Foods','South Korea'
+123,123,'Instant Noodles Chicken Satay Flavour',53,'Pack','KOKA','Singapore'
+124,124,'Signature Spicy Singapore Fried Noodles Instant Noodles',95,'Pack','KOKA','Singapore'
+125,125,'Creamy Soup With Crushed Noodles Sweet Corn Flavor',43,'Cup','KOKA','Singapore'
+126,126,'Silk Beef Pho Flavor Instant Rice Fettuccine',27,'Bowl','KOKA','Singapore'
+127,127,'Delight Spicy Sesame Flavor Instant Non-Fried Noodles',87,'Pack','KOKA','Singapore'
+128,128,'Signature Laksa Singapura Instant Noodles',79,'Bowl','KOKA','Singapore'
+129,129,'Delight Spicy Black Pepper Flavor Instant Non-Fried Noodles',17,'Pack','KOKA','Singapore'
+130,130,'Purple Wheat Noodles Chili & Lime Flavor',19,'Pack','KOKA','Singapore'
+131,131,'Delight Tomato Flavor Instant Non-Fried Noodles',8,'Pack','KOKA','Singapore'
+132,132,'Seafood Flavor Instant Noodles',69,'Cup','KOKA','Singapore'
+133,133,'Signature Stir-Fry Original Flavor Instant Noodles',65,'Pack','KOKA','Singapore'
+134,134,'Creamy Soup Witrh Crushed Noodles Curry Flavor',33,'Cup','KOKA','Singapore'
+135,135,'Delight Laksa Singapura Flavor Instant Non-Fried Noodles',40,'Pack','KOKA','Singapore'
+136,136,'Silk Spicy Marinara Instant Rice Fettuccine',85,'Bowl','KOKA','Singapore'
+137,137,'Signature Chicken Flavor Instant Noodles',92,'Cup','KOKA','Singapore'
+138,138,'Cup Noodles Sopa Nissin Hot Sauce Con Camaron',80,'Cup','Nissin','Mexico'
+139,139,'Penang Hokkien Prawn Flavor Noodle',52,'Box','MyKuali','Japan'
+140,140,'Roasted Pork Noodle',38,'Pack','Master Kong','China'
+141,141,'Man Han Feast Super Hot Pot Beef Flavor Instant Noodles',66,'Bowl','Uni-President','Taiwan'
+142,142,'Mi Goreng Original Flavour Fried Noodles',96,'Pack','World O' Noodle','Indonesia'
+143,143,'Raoh Nojyuku Toro Tonkotsu Ramen',18,'Bowl','Nissin','Japan'
+144,144,'Artificial Dongpo's Braised Pork Flavour',54,'Pack','Kang Shi Fu','Hong Kong'
+145,145,'Lau Tom Chua Cay',6,'Pack','Mum Ngon','Vietnam'
+146,146,'Old Beijing Fried Bean Sauce Noodle',6,'Pack','Happy Cook','Taiwan'
+147,147,'Cup Noodles Indonesia Mie Goreng',78,'Cup','Nissin','Japan'
+148,148,'Yummy Spicy Rice Soup With Seafood',82,'Bowl','Fashion Food','Thailand'
+149,149,'Udon Japanese Style Fresh Noodle',33,'Bowl','Dream Kitchen','USA'
+150,150,'MeeKuali Bihun Sup Rempah Perisa Daging',80,'Pack','MyKuali','Malaysia'
+151,151,'T's Restaurant Sura Tanmen',35,'Cup','New Touch','Japan'
+152,152,'Sesame Oil Chicken With Rice Wine Noodle',64,'Bowl','TTL','Taiwan'
+153,153,'HALAL Chicken Shoyu Sauce Ramen',96,'Pack','Ajinatori','Japan'
+154,154,'Vegan Pad Thai Noodle Soup',92,'Cup','Dr. McDougall's','USA'
+155,155,'Seafood Flavour Rice Vermicelli',59,'Cup','Nissin','Hong Kong'
+156,156,'Cheese Type Buldak Bokkeummyun (Black Pkg)',16,'Pack','Samyang Foods','South Korea'
+157,157,'Kung-Fu Instant Oriental Noodles Soup Artificial Onion Flavor',54,'Pack','Ve Wong','Taiwan'
+158,158,'Cup Noodles Sopa Nissin Con Camaron Picante',65,'Cup','Nissin','Mexico'
+159,159,'Baseball Snack Noodle',19,'Pack','Uni-President','Taiwan'
+160,160,'Cup Noodles Spicy Seafood Flavor',55,'Cup','Nissin','China'
+161,161,'Penang Red Tom Yum Goong',60,'Box','MyKuali','Japan'
+162,162,'Yomise No Yakisoba Karashi Mentaiko Flavor',61,'Tray','Myojo','Japan'
+163,163,'Bihun Kuah Rasa Baso Sapi',61,'Pack','Super Bihun','Indonesia'
+164,164,'Hot & Sour Beef Noodles',27,'Bowl','Xiuhe','China'
+165,165,'Kitsune Udon Donbei (West)',45,'Bowl','Nissin','Japan'
+166,166,'Thailand Green Curry Instant Noodle',7,'Bowl','Little Cook','Taiwan'
+167,167,'Cup Noodles Beef Flavour',59,'Cup','Nissin','Hong Kong'
+168,168,'Sanukiya Udon Shrimp Flavor',4,'Pack','Shirakiku','USA'
+169,169,'Chicken Fajita Flavor Instant Ramen Noodles',95,'Pack','Mama Pat's','USA'
+170,170,'Lamb Stew Flavor Instant Ramen Noodles',90,'Pack','Mama Pat's','USA'
+171,171,'Seafood Gumbo Flavor Instant Ramen Noodles',39,'Pack','Mama Pat's','USA'
+172,172,'Chicken Taco Flavor Instant Ramen Noodles',67,'Pack','Mama Pat's','USA'
+173,173,'Chuan Wei Spicy Guan-miao Noodles',71,'Pack','Just Way','Taiwan'
+174,174,'Sweet Potato Instant Noodle Braised Spicy Chitterling Flavor',65,'Pack','Sichuan Guangyou','China'
+175,175,'Cup Noodles Mini Spicy Seafood',60,'Cup','Nissin','Hong Kong'
+176,176,'Penang Hokkien Prawn Noodle Soup',10,'Pack','MyKuali','Singapore'
+177,177,'Yakisoba Japanese Style Noodle',44,'Bowl','Goku-Uma','USA'
+178,178,'Nutri-licious Pazzta Tomato Twist',60,'Pack','Maggi','India'
+179,179,'Chongqing Noodles Burning Dry Noodles',55,'Bowl','Sichuan Baijia','China'
+180,180,'Cup Noodles Tom Yam Seafood Flavour',91,'Cup','Nissin','Singapore'
+181,181,'My Noodles Mi Goreng Pizza Cheese',51,'Pack','Indomie','Indonesia'
+182,182,'Shaanxi Cold Noodle: Mustard Spicy',5,'Tray','Liang Cheng Mai','China'
+183,183,'Cheese Buldak Bokkeummyun (Black)',66,'Bowl','Samyang Foods','South Korea'
+184,184,'2 Minute Noodles Chicken Flavour',65,'Pack','Maggi','Fiji'
+185,185,'Chicken Flavor Instant Noolde',28,'Pack','Master Kong','China'
+186,186,'Cup Noodles Prawn Flavour',81,'Cup','Nissin','Hong Kong'
+187,187,'Hokkaido Miso Ramen',7,'Pack','Ripe'n'Dry','Japan'
+188,188,'Penang Red Tom Yum Goong Rice Vermicelli Soup',93,'Bowl','MyKuali','Malaysia'
+189,189,'Jin Jjambbong Spicy Seafood Ramyun',4,'Pack','Ottogi','South Korea'
+190,190,'Rice Vermicelli Pickled Vegetable Pork Flavour',90,'Cup','Nissin','Hong Kong'
+191,191,'Imitation Chicken Flavor',94,'Cup','Gefen','USA'
+192,192,'Three Fresh Delicacies Instant Noodle',70,'Pack','Hua Feng','China'
+193,193,'Demae Iccho Sesame Oil Flavour Instant Noodle',2,'Bowl','Nissin','Hong Kong'
+194,194,'2 Minute Noodles Curry Flavour',82,'Pack','Maggi','Fiji'
+195,195,'Man Han Feast Chilli Beef Flavor Instant Noodles',80,'Bowl','Uni-President','Taiwan'
+196,196,'9999 Chongqing Artificial Beef Flavor Instant Noodle',93,'Pack','Sichuan Guangyou','China'
+197,197,'Cup Noodles Beef Flavor Ramen Noodle Soup (New Recipe)',93,'Cup','Nissin','USA'
+198,198,'Seaweed Instant Noodle',89,'Cup','Nongshim','South Korea'
+199,199,'Demae Iccho Seafood Flavour Instant Noodle',64,'Cup','Nissin','Hong Kong'
+200,200,'Non-Fried Ramyun With Spicy Beef Broth',76,'Pack','Pulmuone','South Korea'
+201,201,'Cup Noodles Hot & Spicy Shrimp Flavor Ramen Noodle Soup (New Recipe)',13,'Cup','Nissin','USA'
+202,202,'Non-Fried Mix Noodle Black Pepper XO Sauce Flavoured',27,'Pack','Sau Tao','Hong Kong'
+203,203,'Penang White Curry Instant Noodle (Japan Version)',64,'Box','MyKuali','Malaysia'
+204,204,'Disney Cuties Instant Chicken With Corn Flavour',24,'Cup','Nissin','Thailand'
+205,205,'Man Han Feast Braised Pork Flavor Instant Noodles',52,'Bowl','Uni-President','Taiwan'
+206,206,'Mi Goreng Garlic Flavour Fried Noodles',97,'Pack','World O' Noodle','Indonesia'
+207,207,'Top Ramen Atta Nooldes Masala',58,'Pack','Nissin','India'
+208,208,'Instant Spicy Rice Noodle',84,'Bowl','Liu Quan','China'
+209,209,'Tanuki Soba',89,'Cup','Daikoku','Japan'
+210,210,'Zzaldduck Buldak Bokkeummyun Snack',9,'Pack','Samyang Foods','South Korea'
+211,211,'Curry Buldak Bokkeummyun',93,'Pack','Samyang Foods','South Korea'
+212,212,'Cool/Ice Buldak Bokkeummyun',96,'Pack','Samyang Foods','South Korea'
+213,213,'2x Spicy Haek Buldak Bokkeummyun',3,'Pack','Samyang Foods','South Korea'
+214,214,'Buldak Bokkeummyun Snack',51,'Pack','Samyang Foods','South Korea'
+215,215,'Stew Buldak Bokkeumtangmyun',88,'Pack','Samyang Foods','South Korea'
+216,216,'Cheese Buldak Bokkeummyun',81,'Pack','Samyang Foods','South Korea'
+217,217,'Buldak Bokkeummyun (New Packaging)',41,'Pack','Samyang Foods','South Korea'
+218,218,'Bowl Instant Noodles Artificial Spicy Beef Flavor',12,'Bowl','Chuan Wei Wang','China'
+219,219,'Demae Iccho Chicken Flavour Instant Noodle (Bowl Noodle)',87,'Bowl','Nissin','Hong Kong'
+220,220,'Instant Noodles Artificial Chicken Flavoured',51,'Pack','Wai Wai','India'
+221,221,'Kitsune Udon',61,'Cup','Daikoku','Japan'
+222,222,'Pickled Cabbage Flavor Instant Vermicelli',97,'Bowl','Sichuan Baijia','China'
+223,223,'Noodle King Artificial Wonton Soup Flavored',5,'Bowl','Kamfen','Hong Kong'
+224,224,'Spicy Shrimp Cup Noodle',11,'Cup','Nongshim','South Korea'
+225,225,'Nagasaki Agodashi Shoyu Ramen',24,'Pack','Marutai','Japan'
+226,226,'Viet Cuisine Bun Rieu Cua Sour Crab Soup Instant Rice Vermicelli',95,'Bowl','Vifon','Vietnam'
+227,227,"'Cup Noodles Rich Garlic, Egg Yolk & Oxtail'",85,'Cup','Nissin','Japan'
+228,228,'Minced Pork Flavor Instant Noodles',35,'Pack','Uni-President','Taiwan'
+229,229,'Chatpat Masala',47,'Pack','1 To 3 Noodles','India'
+230,230,'Cup Noodles BIG XO Sauce Seafood Flavour',94,'Cup','Nissin','Hong Kong'
+231,231,'Noodles Chicken & Corn Flavour',51,'Cup','Fantastic','Australia'
+232,232,'Hokkaido Salt Ramen',39,'Pack','Ripe'n'Dry',Japan
+233,233,'Demae Iccho Tonkotsu Flavour Instant Noodle (Bowl Noodle)',78,'Bowl','Nissin',Hong Kong
+234,234,'Chatt Patta Instant Noodles',66,'Pack','Knorr',Pakistan
+235,235,'Clam Flavor Soup Kal-guksu',22,'Pack','Sempio',South Korea
+236,236,'Cup Noodles Sopa Nissin Sabor A Pollo',50,'Cup','Nissin',Mexico
+237,237,'Maxi Sopa Nissin Cuchareable Sabor A Jugo De Carne',50,'Cup','Nissin',Mexico
+238,238,'Sopa Nissin Sabor A Camaron Sopa Instantanea Tipo Ramen',96,'Pack','Nissin',Mexico
+239,239,'Cup Noodles Sopa Nissin Sabor A Carne De Res',87,'Cup','Nissin',Mexico
+240,240,'RapiFideo Sabor A Tomate Y Pollo',51,'Cup','Nissin',Mexico
+241,241,"'Cup Noodles Sopa Nissin Sabor Camaron, Habanero Y Limon'",79,'Cup','Nissin',Mexico
+242,242,'Sopa Nissin Sabor A Pollo Sopa Instantanea Tipo Ramen',89,'Pack','Nissin',Mexico
+243,243,'Cup Noodles Sopa Nissin Con Camaron',92,'Cup','Nissin',Mexico
+244,244,'Maxi Sopa Nissin Cuchareable Sabor A Camaron Picante',85,'Cup','Nissin',Mexico
+245,245,'Cup Noodles Gourmet Sabor A Caldo De Camaron',71,'Cup','Nissin',Mexico
+246,246,"'Sopa Nissin Sabor Mariscos, Habanero Y Limon'",89,'Cup','Nissin',Mexico
+247,247,'Maxi Sopa Nissin Cuchareable Sabor A Pollo',49,'Cup','Nissin',Mexico
+248,248,'Sopa Nissin Sabor A Res Instantanea Tipo Ramen',10,'Pack','Nissin',Mexico
+249,249,'Cup Noodles Sopa Nissin Hot Sauce Sabor A Pollo',50,'Cup','Nissin',Mexico
+250,250,'Little Prince(ss) Brand Snack Noodles Artificial Mexican Pizza Flavor',13,'Pack','Ve Wong',Taiwan
+251,251,'Atta Noodles Jhatpat Banao Befikr Khao',93,'Pack','Patanjali',India
+252,252,'Shaanxi Cold Noot Hot & Sour Flavor',69,'Pack','Qin Zong',China
+253,253,'Cup Noodles Spicy Lime Flavor Ramen Noodle Soup (New Recipe)',52,'Cup','Nissin',USA
+254,254,'Demae Iccho Tokyo Shoru Tonkotsu Instant Noodle',16,'Cup','Nissin',Hong Kong
+255,255,'Mr. Noodles Curry Flavor Instant Noodles',88,'Pack','Pran',Bangladesh
+256,256,'Bul Jjajangmyeon',71,'Pack','Paldo',South Korea
+257,257,'Kirin Giraffe Shio Ramen',55,'Pack','Ogasawara',Japan
+258,258,'Mie Kamayama Ramen Gyukotsu Misoaji',51,'Bowl','Sapporo Ichiban',Japan
+259,259,'Black Pepper XO Sauce Flavour',32,'Bowl','Sau Tao',Hong Kong
+260,260,'Nupasta Bolognese Flavour Instant Noodle',47,'Cup','Nissin',Japan
+261,261,'Saeutang Sabalmyeon',36,'Bowl','Nongshim',South Korea
+262,262,'Sichuan Spicy Flavor',58,'Pack','Happy Cook',Taiwan
+263,263,'Instant Bowl Noodles Shrimp (Tom Yum) Flavor Base',7,'Bowl','MAMA',Thailand
+264,264,'Cup Noodle Spicy Curry Chicken',32,'Cup','Nissin',Japan
+265,265,'Ramen Noodles Miso Flavor',83,'Bowl','Goku-Uma',USA
+266,266,'Cup Noodles Spicy Beef Flavour',8,'Cup','Nissin',Hong Kong
+267,267,'Sesame Oil With Garlic Flavor Thin Noodle',62,'Pack','Xiao Ban Mian',Taiwan
+268,268,'Traditional Shallot & Onion Oil Noodle',25,'Pack','Xiao Ban Mian',Taiwan
+269,269,'Sesame Sauce Matcha Noodle',7,'Pack','Xiao Ban Mian',Taiwan
+270,270,'Mr. Noodles Instant Noodles Beef Flavour',60,'Pack','Pran',Bangladesh
+271,271,'Cup Noodles Big Seafood Flavour',19,'Cup','Nissin',Hong Kong
+272,272,'Noodles Chicken Chow Mein Flavour',21,'Cup','Fantastic',Australia
+273,273,'Ramyun Sabor Pollo',47,'Pack','Ottogi',Mexico
+274,274,'Demae Iccho Black Garlic Oil Tonkotsu Flavour Instant Noodles',53,'Cup','Nissin',Hong Kong
+275,275,'Chicken Flavor Ramen',70,'Pack','Ajinatori',Japan
+276,276,'2 Minute Noodles Masala Spicy',91,'Pack','Maggi',India
+277,277,'Sopa Maruchan Sobar A Camaron',71,'Pack','Maruchan',Mexico
+278,278,'Yakisoba',61,'Tray','Nissin',Japan
+279,279,'Noodle With Oriental Chicken Flavour',48,'Cup','Suimin',Australia
+280,280,'Demae Ramen Spicy Xo Sauce Seafood Flavour Instant Noodle',9,'Pack','Nissin',Hong Kong
+281,281,'Mi Segera Mmm... Original',98,'Pack','Cintan',Malaysia
+282,282,'Cup Noodles Spicy Chile Chicken (New Recipe)',72,'Cup','Nissin',USA
+283,283,'Bowl Instant Noodles Artificial Beef With Sauerkraut Flavor',73,'Bowl','Chuan Wei Wang',China
+284,284,'Noodles With Chicken Flavour',65,'Cup','Suimin',Australia
+285,285,'Cup Noodles Seafood',96,'Cup','Nissin',China
+286,286,'Tabimen AizuKitakata Gyokai Shoyu Ramen',69,'Bowl','Sapporo Ichiban',Japan
+287,287,'Nupasta Bacon In Carbonara Sauce Flavour Instant Noodle',50,'Pack','Nissin',Hong Kong
+288,288,'Chongqing Noodles Spicy Hot Flavor',8,'Pack','Sichuan Baijia',China
+289,289,'Buldak Bokkummyun Cheese Flavor',66,'Pack','Samyang Foods',South Korea
+290,290,'Demae Ramen Straight Noodle Black Garlic Oil Tonkotsu Flavour Instant Noodle',15,'Pack','Nissin',Hong Kong
+291,291,'Shin Toyama Black Ramen',4,'Bowl','Myojo',Japan
+292,292,'Cup Noodles Tom Yum Goong Flavour',44,'Cup','Nissin',Hong Kong
+293,293,'Artificial Abalone Crab Flavor Instant Noodle',31,'Pack','Master Kong',China
+294,294,'Noodle King Artificial Abalone And Chicken Soup Flavored',44,'Bowl','Kamfen',Hong Kong
+295,295,'Noodles Beef Flavour',25,'Cup','Fantastic',Australia
+296,296,'Korean Kimchi Flavour Vermicelli',85,'Cup','Nissin',Hong Kong
+297,297,'Raoh Pork Bone Soy Soup Noodle',22,'Pack','Nissin',Japan
+298,298,'Gold Jjamppong Fried Noodle',8,'Pack','Samyang Foods',South Korea
+299,299,'Demae Iccho Red Hot Seafood Flavour Instant Noodle',88,'Cup','Nissin',Hong Kong
+300,300,'Chongqing Noodles Hot & Sour Flavor',24,'Pack','Sichuan Baijia',China
+301,301,'Demae Iccho Spicy Tonkotsu Flavour Instant Noodle (Bowl Noodle)',48,'Bowl','Nissin',Hong Kong
+302,302,'Raoh Tantanmen',26,'Pack','Nissin',Japan
+303,303,'Ramen Noodles Soy Sauce Flavor',95,'Bowl','Goku-Uma',USA
+304,304,'Cup Noodles With Shrimp Ramen Noodle Soup (New Recipe)',80,'Cup','Nissin',USA
+305,305,'Hot & Sour Beef Noodles',36,'Pack','JML',China
+306,306,'Noodles With Braised Beef Flavour',59,'Cup','Suimin',Australia
+307,307,'A Q Bucket Noodle Korean Kimchi Flavor',77,'Bowl','Uni-President',Taiwan
+308,308,'Demae Iccho Spicy Kimchi Pot Flavour Instant Noodle (Bowl Noodle)',93,'Bowl','Nissin',Hong Kong
+309,309,'Chongqing Noodles Burning Dry Noodles',16,'Pack','Sichuan Baijia',China
+310,310,'Fresh Bibimmyun Fried Noodle',80,'Pack','Samyang Foods',South Korea
+311,311,'Instant Noodles Veg Masala Flavour',73,'Pack','Wai Wai',India
+312,312,'Nupasta Neapolitan Flavour Instant Noodle',8,'Pack','Nissin',Hong Kong
+313,313,'Karami Ramen Spicy Chili Flavour Japanese Style Noodle With Soup Base',83,'Pack','Shirakiku',USA
+314,314,'Disney Cuties Instant Noodle Crab Flavour',50,'Cup','Nissin',Thailand
+315,315,'Cup Noodles Rich Soft Shelled Turle Soup',77,'Cup','Nissin',Japan
+316,316,'Instant Vegetarian Beehoon Rice Vermicelli',42,'Pack','Unif Tung-I',Taiwan
+317,317,'Broad Noodle Artificial Beef Flavor Hot Pot',43,'Pack','Sichuan Baijia',China
+318,318,'Curry Flavour Instant Noodles',8,'Cup','Dream Kitchen',USA
+319,319,'Tohokuno Aji Yonezawa Ramen',19,'Bowl','Tablemark',Japan
+320,320,'Science Noodle (X'Mas Edition)',90,'Pack','Uni-President',Taiwan
+321,321,'Pho Beef Flavor Vietnamese Rice Noodle Soup',54,'Bowl','Farmer's Heart',USA
+322,322,'Instant Wonton Noodles Scallop Lobster Soup Flavour',89,'Bowl','Kamfen',Hong Kong
+323,323,'Tom Yam Soup Instant Noodle',16,'Pack','Fuku',Hong Kong
+324,324,'Ramen Noodles Artificially Flavored Tonkotsu',90,'Bowl','Goku-Uma',USA
+325,325,'Hiroshima Flavor Yakisoba',36,'Tray','Daikoku',Japan
+326,326,'Disney Cuties Instant Noodle Seaweed Flavour',24,'Cup','Nissin',Thailand
+327,327,'Instant Noodles Mi Goreng Flavour',29,'Cup','Singa-Me',Australia
+328,328,'Sugomen Sano Ramen',77,'Bowl','New Touch',Japan
+329,329,'Ramyon Sabor Y Camaron',89,'Pack','Ottogi',Mexico
+330,330,'Demae Iccho Spicy XO Sauce Seafood Flavour',38,'Pack','Nissin',Hong Kong
+331,331,'Sun Dried Noodle - Fruity Soy Bean Paste',32,'Pack','Love Cook',Taiwan
+332,332,'Shin Noodle Soup',96,'Cup','Nongshim',USA
+333,333,'Sapporo Noukou Miso Ramen',90,'Bowl','Nissin',Japan
+334,334,'Soy Sauce',52,'Cup','Dream Kitchen',USA
+335,335,'Vietnamese Chicken Coriander Flavour Vermicelli',12,'Cup','Nissin',Hong Kong
+336,336,'Artificial Spicy Beef Flavour',29,'Pack','Kang Shi Fu',Hong Kong
+337,337,'Cup Noodles Black Pepper Crab Flavour',39,'Cup','Nissin',Hong Kong
+338,338,'Beef Style Noodles With Vegetables',26,'Cup','Great Value',Canada
+339,339,'Spicy Soup Instant Noodle Beef Flavour',97,'Pack','Fuku',Hong Kong
+340,340,'Rice Noodle Anchovy Flavor',8,'Bowl','Wang',South Korea
+341,341,'Cup Noodles Chicken Flavor Ramen Noodle Soup (New Recipe)',4,'Cup','Nissin',USA
+342,342,'Rumpum Gundruk Flavour',2,'Pack','Asian Thai Foods',Nepal
+343,343,'Cup Noodle Light+ Bagna Cauda',59,'Cup','Nissin',Japan
+344,344,'Gotsumori Koku Tonkotsu Ramen',97,'Bowl','Maruchan',Japan
+345,345,'Tom Yum Shrimp Creamy Flavour Instant Noodles',14,'Bowl','Fashion Food',Thailand
+346,346,'Bibim Men',97,'Bowl','Paldo',South Korea
+347,347,'Cup Noodles Milk Seafood Flavour',19,'Cup','Nissin',Hong Kong
+348,348,'Spicy Chikin Donburi',31,'Bowl','Nissin',Japan
+349,349,'Noodle Chicken Flavour',64,'Cup','Fantastic',Australia
+350,350,'Kuroma-Yu Tonkotsu Kumamoto Ramen',66,'Pack','Marutai',Japan
+351,351,'Artificial Beef With Sauerkraut Flavour',30,'Pack','Kang Shi Fu',Hong Kong
+352,352,'Raoh Shoyu Ramen',78,'Bowl','Nissin',Japan
+353,353,'Ramen Noodle Soup Sriracha Chicken Flavor',57,'Pack','Maruchan',USA
+354,354,'Hiyashi Soba Taidashi Goma',77,'Pack','Nagatanien',Japan
+355,355,'Bowl Chicken Flavour Instant Rice Vermicelli',12,'Bowl','Fuku',Hong Kong
+356,356,'X-Press Flavour Of Pizza In Noodles Proprietary Food',45,'Pack','Wai Wai',India
+357,357,'Rice Noodles Fragrant Chicken Pho Ga Flavour',56,'Pack','KOKA',Singapore
+358,358,'Vegetarian Penang White Curry',97,'Pack','Nyor Nyar',Malaysia
+359,359,'Cup Noodle Seafood',87,'Cup','Nissin',Japan
+360,360,'Budae Jjigae',67,'Pack','Paldo',South Korea
+361,361,'Noodles Crispy Bacon Flavour',80,'Cup','Fantastic',Australia
+362,362,'Spicy Braised Pork Flavor',25,'Pack','Tseng Noodles',Taiwan
+363,363,'Demae Ramen Spicy Seafood Flavour Instant Noodle',58,'Pack','Nissin',Hong Kong
+364,364,'Chow Mein Spicy Flavor',94,'Tray','A-Sha Dry Noodle',Taiwan
+365,365,'Mee Goreng Spicy Flavour',77,'Pack','Myojo',Singapore
+366,366,'Tabimen Nagasaki Chanpon',74,'Bowl','Sapporo Ichiban',Japan
+367,367,'Oh! Ricey Pork Flavour',91,'Pack','Acecook',Vietnam
+368,368,'Bul Jjamppong',37,'Pack','Paldo',South Korea
+369,369,'Disney Cuties Instant Noodle Roast Pork Flavour',70,'Cup','Nissin',Thailand
+370,370,'Instant Noodles Masala',36,'Pack','Morre',Pakistan
+371,371,'Demae Ramen Spicy Hot tonkotsu Flavour Instant Noodle',26,'Pack','Nissin',Hong Kong
+372,372,'Ramen Japanese Style Quick-Cooking Alimentary Paste With Chicken Artificially Flavored Soup Base',82,'Pack','Roland',USA
+373,373,'Big Cup Noodles Tonkotsu Flavour',64,'Cup','Nissin',Hong Kong
+374,374,'Deka Buto Kuro M-yu Tonkotsu',13,'Bowl','Nissin',Japan
+375,375,'Bowl Taste Of Asia Hearty Pork Flavor Tonkotsu Ramen',31,'Bowl','Maruchan',USA
+376,376,'Cup Noodles Sabor Galinha Caipira',43,'Cup','Nissin',Brazil
+377,377,'Bowl Noodle Soup Independence Day Limited Edition Spicy Chicken Flavor',41,'Bowl','Nongshim',USA
+378,378,'Nupasta Vongole Flavour Instant Noodle',3,'Cup','Nissin',Hong Kong
+379,379,'Penang Chicken Curry Laksa',66,'Cup','Mr. Lee's Noodles',UK
+380,380,'Shaolin Monk Vegetables',90,'Cup','Mr. Lee's Noodles',UK
+381,381,'Tai Chi Chicken',39,'Cup','Mr. Lee's Noodles',UK
+382,382,'Dragon Fire Mushroom',95,'Cup','Mr. Lee's Noodles',UK
+383,383,'Hong Kong Street Beef',80,'Cup','Mr. Lee's Noodles',UK
+384,384,'Warrior Fighting Shrimp',43,'Cup','Mr. Lee's Noodles',UK
+385,385,'Gyorai Inaniwa Chuka Soba',24,'Bowl','Nissin',Japan
+386,386,'Chicken Flavour Instant Noodle',36,'Pack','Fuku',Hong Kong
+387,387,'Chicken Flavored Instant Noodles',15,'Pack','Knorr',Pakistan
+388,388,'Penang White Curry Instant Noodle',49,'Pack','Nyor Nyar',Malaysia
+389,389,'XO Scallops Sauce Dry Noodles',97,'Pack','Choumama',Taiwan
+390,390,'Barikata Noukou Tonkotsu Shoyu',61,'Bowl','Myojo',Japan
+391,391,'Demae Ramen Sesame Oil Flavour Cup',67,'Cup','Nissin',Hong Kong
+392,392,'Instant Noodles Chicken Flavour',91,'Cup','Singa-Me',Australia
+393,393,'Non-Fried Ramyun Noodle (Crab Flavor)',95,'Pack','Pulmuone',South Korea
+394,394,'Assorted Seafood Noodles',37,'Pack','Master Kong',China
+395,395,'Raoh Hot & Sour Ramen',43,'Pack','Nissin',Japan
+396,396,'Coriander Instant Rice Noodles',32,'Bowl','President Rice',Thailand
+397,397,'Instant Rice Noodles Moo Nam Tok Flavour',6,'Pack','MAMA',Thailand
+398,398,'Instant Rice Vermicelli Clear Soup',73,'Pack','MAMA',Thailand
+399,399,'Instant Rice Noodles Chicken Flavour',5,'Pack','MAMA',Thailand
+400,400,'Pho Ga Rice Noodles With Artificial Chicken Flavour',33,'Bowl','MAMA',Thailand
+401,401,'Oriental Kitchen Instant Rice Vermicelli In Gravy',36,'Pack','MAMA',Thailand
+402,402,'Instant Tom Yam Rice Noodles',64,'Pack','MAMA',Thailand
+403,403,'Instant Rice Noodles Vegetable Flavour',38,'Pack','MAMA',Thailand
+404,404,'Instant Rice Vermicelli Yentafo Tom Yam Mohfai',28,'Pack','MAMA',Thailand
+405,405,'Instant Flat Noodles Clear Soup',28,'Pack','MAMA',Thailand
+406,406,'Cup Rice Noodles Tom Saab Flavour',94,'Cup','MAMA',Thailand
+407,407,'Instant Rice Noodles Stew Beef Flavour',61,'Pack','MAMA',Thailand
+408,408,'Instant Rice Noodles Phnom Penh Style',67,'Pack','MAMA',Thailand
+409,409,'Instant Flat Noodles Tom Yam Flavour',3,'Pack','MAMA',Thailand
+410,410,'Ramen Noodle soup Mushroom Flavor',76,'Pack','Maruchan',USA
+411,411,'Vegetable Flavour Instant Noodles',94,'Pack','Happy Family',Singapore
+412,412,'Rice Noodle Shallot With Braised Pork Flavor',82,'Pack','Tseng Noodles',Taiwan
+413,413,'Vegetable Flavour Noodles With Vegetables',19,'Cup','Great Value',Canada
+414,414,'Instant Noodle Artificial Beef Flavor 7 sour Pickled Cabbage',22,'Pack','JML',China
+415,415,'Noodles With Hot & Spicy Flavour',14,'Cup','Suimin',Australia
+416,416,'Rice Noodle Chinese Mushroom With Soybean Vegetarian Braised Pork Flavor',13,'Pack','Tseng Noodles',Taiwan
+417,417,'Piritto Karakuchi Tantan Udon',3,'Bowl','Nissin',Japan
+418,418,'Rice Noodle Seafood Laksa Flavour',25,'Pack','Tseng Noodles',Taiwan
+419,419,'Chal Bibim Myun',9,'Pack','Nongshim',South Korea
+420,420,'Japanese Yakisoba Umami Sauce',4,'Bowl','Menraku',Japan
+421,421,'Sazon Casero Sopa Con Tomate Y Sabor Pollo',57,'Pack','La Moderna',Mexico
+422,422,'Chow Mein Original Flavor',88,'Tray','A-Sha Dry Noodle',Taiwan
+423,423,'Artificial Mushroom Chicken Flavor Instant Noodle',2,'Pack','Master Kong',China
+424,424,'Chow Mein Oyster Sauce BBQ Flavor',28,'Tray','A-Sha Dry Noodle',Taiwan
+425,425,'Aloe Vera Guan Mian Purple Sweet Potato Noodle With Spicy Miso Sauce',72,'Pack','Jingqi',Taiwan
+426,426,'Black Eyes Bean Original Noodle With Sesame Sauce',98,'Pack','Jingqi',Taiwan
+427,427,'Aloe Vera Guan Mian Pumpkin Noodle With Basil Sauce',35,'Pack','Jingqi',Taiwan
+428,428,'Black Eyes Bean Cyanobacteria Noodle With Ginger Oil Sauce',79,'Pack','Jingqi',Taiwan
+429,429,'Aloe Vera Guan Mian Original Noodle With Sesame Sauce',63,'Pack','Jingqi',Taiwan
+430,430,'Black Eyes Bean Purple Sweet Potato Noodle With Spicy Miso Sauce',26,'Pack','Jingqi',Taiwan
+431,431,'Aloe Vera Guan Mian Cyanobacteria Noodle With Ginger Oil Sauce',45,'Pack','Jingqi',Taiwan
+432,432,'Black Eyes Bean Pumpkin Noodles With Basil Sauce',40,'Pack','Jingqi',Taiwan
+433,433,'Instant Lunch Pork Flavor Ramen Noodles With Vegetables',74,'Cup','Maruchan',USA
+434,434,'Kun Ramen Sumo-kuchikin (Smoked Chicken)',43,'Bowl','Sapporo Ichiban',Japan
+435,435,'Tonkotsu',34,'Cup','Dream Kitchen',USA
+436,436,'Lamen Sabor Picanha',43,'Pack','Nissin',Brazil
+437,437,'Lemon Chicken Flavour Instant Noodles',78,'Pack','Thien Houng Foods',Vietnam
+438,438,'Bowl Taste Of Asia Miso Chicken Flavor Spicy Miso Ramen',11,'Bowl','Maruchan',USA
+439,439,'Men Shokunin Kaoruyasai Shio',76,'Bowl','Nissin',Japan
+440,440,'Rice Noodle Seafood Flavour',74,'Bowl','Wang',South Korea
+441,441,'Superior Soup Instant Noodles (Mfg in Thailand)',42,'Pack','Fuku',Hong Kong
+442,442,'Superior Soup Instant Noodles (Mfg in Vietnam)',33,'Pack','Fuku',Hong Kong
+443,443,'Demae Ramen Spicy Curry Flavour Instant Noodles',13,'Pack','Nissin',Hong Kong
+444,444,'Demae Ramen Roast Beef Flavour Instant Noodles',49,'Pack','Nissin',Hong Kong
+445,445,'Instant Noodle Supreme Abalone And Chicken Flavour',45,'Pack','Doll',Hong Kong
+446,446,'Chicken Flavour Instant Noodle',86,'Pack','Four Seas',Hong Kong
+447,447,'Kimchi Chikin Ramen Donburi',39,'Bowl','Nissin',Japan
+448,448,'Instant Lunch Chipotle Chicken Flavor Ramen Noodle Soup',98,'Cup','Maruchan',USA
+449,449,'Mee Goreng Thai Tom Yum Flavour',47,'Pack','Myojo',Singapore
+450,450,'Artificial Salted Beef With Mushrooms Flavour',94,'Pack','Kang Shi Fu',Hong Kong
+451,451,'Hot & Spicy Dry Curry With Chives Soup',81,'Pack','CarJEN',Malaysia
+452,452,'Taimeiken Yousyoku Yasangatsukutta Omumen',21,'Cup','Sapporo Ichiban',Japan
+453,453,'Noodles With Chicken & Sweet Corn Flavour',98,'Cup','Suimin',Australia
+454,454,'Mennippon Oumi Chanpon',96,'Bowl','Nissin',Japan
+455,455,'Curry Flavour Instant Noodles',53,'Pack','Happy Family',Singapore
+456,456,'Nissin Instant Noodles Tom Yum Seafood Creamy Flavour King Cup',21,'Bowl','7 Select',Thailand
+457,457,'Cup Noodles Tom Yum Shrimp Sabb Flavour',54,'Cup','Nissin',Thailand
+458,458,'Chilli Noodles Stir Fried Holy Basil Flavour',22,'Pack','Nissin',Thailand
+459,459,'Instant Noodles Moo Manao Flavour',40,'Pack','Nissin',Thailand
+460,460,'Super Tom Yum Shrimp',35,'Cup','Nissin',Thailand
+461,461,'Cup Noodles Minced Pork Flavour',63,'Cup','Nissin',Thailand
+462,462,'Chilli Noodles Tom Yum Shrimp Creamy Soup Flavour',67,'Cup','Nissin',Thailand
+463,463,'Nissin Instant Noodles Shrimp Ma Nao Lui Suan Flavour King Cup',17,'Bowl','7 Select',Thailand
+464,464,'Instant Noodles Tom Yum Shrimp Saab Flavour',28,'Pack','Nissin',Thailand
+465,465,'Cup Noodles Moo Manao Flavour',96,'Cup','Nissin',Thailand
+466,466,'Instant Noodles Minced Pork Flavour',4,'Pack','Nissin',Thailand
+467,467,'Cup Noodles Seafood Creamy Flavour',39,'Cup','Nissin',Thailand
+468,468,'Chilli Noodles Spicy Tom Yum Flavour',55,'Pack','Nissin',Thailand
+469,469,'Cup Noodles Chilli Crab Flavour',8,'Cup','Nissin',Hong Kong
+470,470,'Vegetarian Flavour Ramen Noodles',82,'Pack','Great Value',Canada
+471,471,'Tuna With Shallot Flavor Noodle',19,'Pack','Oni Hot Pot',Taiwan
+472,472,'GGE Noodle Snack Wheat Crackers Original Ramen',57,'Pack','Weh Lih',Taiwan
+473,473,'Lamen Sabor Frango Assado Com Toque De Limao',23,'Pack','Nissin',Brazil
+474,474,'Onion Flavor Shoyu Ramen',55,'Pack','Itomen',Japan
+475,475,'Ramen Noodle Soup Chicken Tortilla Flavor',62,'Pack','Maruchan',USA
+476,476,'Rice Noodle Kimchi Flavor',88,'Bowl','Wang',South Korea
+477,477,'Ramen Japanese Style Quick-Cooking Alimentary Paste With Beef Artificially Flavored Soup Base',66,'Pack','Roland',USA
+478,478,'Cup Noodles Singapore Laksa',17,'Cup','Nissin',Japan
+479,479,'Pojangmacha Udon',97,'Pack','Samyang Foods',South Korea
+480,480,'Mee Goreng Original Flavour',82,'Pack','Myojo',Singapore
+481,481,'Yakibuta Ramen',27,'Bowl','Sanpo',Japan
+482,482,'Kimchi Flavor Noodle Soup',64,'Cup','Nongshim',USA
+483,483,'Otentiq Cheezy Mushroom Instant Noodles (Improved Taste)',7,'Pack','CarJEN',Malaysia
+484,484,'Seimen Noukou Toro Tonkotsu',48,'Bowl','Maruchan',Japan
+485,485,'Straits Kitchen Laksa',5,'Pack','Nissin',Singapore
+486,486,'Champong Noodle Soup Spicy Seafood Flavor',80,'Pack','Nongshim',South Korea
+487,487,'Seaweed Flavour Noodle',3,'Pack','Oni Hot Pot',Taiwan
+488,488,'Instant Noodle Preserved Vegetable Flavour',38,'Pack','Doll',Hong Kong
+489,489,'Penang Hokkien Prawn Noodle Authentic Taste',25,'Cup','MyKuali',Malaysia
+490,490,'Nupasta Salmon In White Sauce Flavour Instant Noodle',22,'Pack','Nissin',Hong Kong
+491,491,'Big Cup Noodles Seafood Curry Flavour',7,'Cup','Nissin',Hong Kong
+492,492,'Demae Iccho Beef Flavour Instant Noodle',14,'Bowl','Nissin',Hong Kong
+493,493,'Mie Goreng Indonesia Stir Noodle Original Flavour',90,'Pack','Nissin',Hong Kong
+494,494,'Demae Ramen Sesame Flavour Instant Noodles',59,'Pack','Nissin',Hong Kong
+495,495,'Superior Soup Instant Rice Vermicelli',21,'Bowl','Fuku',Hong Kong
+496,496,'Demae Ramen Straight Noodle Kyushu Tonkotsu Instant Noodle',22,'Pack','Nissin',Hong Kong
+497,497,'Taisho Fried Noodle Sesame Paste Flavour Instant Noodle',58,'Pack','Nissin',Hong Kong
+498,498,'Cup Noodles Pork Chowder Flavour',95,'Cup','Nissin',Hong Kong
+499,499,'Cup Mifun Spicy Beef Flavour',58,'Cup','Nissin',Hong Kong
+500,500,'Non-Fried Superior Soup Noodle',47,'Pack','Fuku',Hong Kong
+501,501,'Nupasta Carbonara Flavour Instant Noodle',43,'Cup','Nissin',Hong Kong
+502,502,'Demae Iccho Curry Beef Flavour',4,'Cup','Nissin',Hong Kong
+503,503,'Cup Noodles Big Spicy Seafood Flavour',37,'Cup','Nissin',Hong Kong
+504,504,'Demae Iccho Black Garlic Oil Tonkotsu',11,'Bowl','Nissin',Hong Kong
+505,505,'Mi Segera Mi Goreng Ayam Krispi',5,'Pack','Mi Sedaap',Indonesia
+506,506,'Cup Noodles Sabor Pollo Habanero Y Limon Sopa Instantanea',2,'Cup','Nissin',Mexico
+507,507,'Spicy Ramen Noodles',93,'Pack','Great Value',Canada
+508,508,'Bowl Taste Of Asia Beef Flavor Sukiyaki Ramen',88,'Bowl','Maruchan',USA
+509,509,'Tainan Noodle Original Sauce',8,'Pack','A-Sha Dry Noodle',Taiwan
+510,510,'Negi Ramen',35,'Bowl','Tokushima Seifun',Japan
+511,511,'Instant Noodle Vegetarian Flavour',97,'Pack','Doll',Hong Kong
+512,512,'Fusian Special Edition Ow... Ow... Spicy Cow Mi Goreng',53,'Pack','Maggi',Australia
+513,513,'Fresh Jjajang',36,'Pack','Samyang Foods',South Korea
+514,514,'Hakata Tonkotsu Ramen',15,'Pack','Marutai',Japan
+515,515,'Kung Tak Lam Vegetarian Noodle (Mushroom)',23,'Pack','Four Seas',Hong Kong
+516,516,'Arrabiata Rice Bucatini',27,'Pack','Nongshim',USA
+517,517,'Pepper Noodles Vegetarian',63,'Pack','Mamee',Hong Kong
+518,518,'Ramyon Sabor Mariscos',82,'Pack','Ottogi',Mexico
+519,519,'Dried Mix Noodles Scallop Seafood Flavoured',92,'Tray','Kamfen',Hong Kong
+520,520,'Cup Noodle Light+ Cheese Fondue',76,'Cup','Nissin',Japan
+521,521,'Beef And Radish Flavour Instant Noodle',89,'Pack','Four Seas',Hong Kong
+522,522,'Instant Noodle Shrimp Tom Yam Flavoured',62,'Pack','Zow Zow',Thailand
+523,523,'RapiFideo Sabor A Chile Y Limon',15,'Cup','Nissin',Mexico
+524,524,'Garlic Pepper Reduced Sodium Ramen',85,'Pack','Koyo',USA
+525,525,'Tokyo Tokunou Gyokai Tonkotsu',10,'Bowl','Nissin',Japan
+526,526,'Noodles Curried Prawn Flavour',36,'Cup','Suimin',Australia
+527,527,'Instant Lunch Sriracha Chicken Flavor Ramen Noodle Soup',4,'Cup','Maruchan',USA
+528,528,'Pop Mie Mi Instan Cup Rasa Ayam',37,'Cup','Indomie',Indonesia
+529,529,'Artificial Pork Ribs Flavour Instant Noodle',67,'Pack','Master Kong',China
+530,530,'Penang Red Tom Yum Goong Noodle Authentic Taste',32,'Cup','MyKuali',Malaysia
+531,531,'Ramyon Sabor A Res',9,'Pack','Ottogi',Mexico
+532,532,'Kadomen Koikoku Tonkotsu',44,'Bowl','Acecook',Japan
+533,533,'XO Sauce Noodle',66,'Pack','Oni Hot Pot',Taiwan
+534,534,'Perisa Asam Pedas Mi Segera',92,'Pack','E-Zee',Malaysia
+535,535,'Chicken Style Ramen Noodles',88,'Pack','Great Value',Canada
+536,536,'Hello Kitty Dim Sum Noodle Japanese Soy Sauce Flavour',13,'Cup','Doll',Hong Kong
+537,537,'Malaysia Green Curry Noodle',48,'Bowl','ORee Garden',Malaysia
+538,538,'Noodles Mi Goreng',89,'Cup','Suimin',Australia
+539,539,'Tomato Sauce Instant Noodle',76,'Pack','Master Kong',China
+540,540,'Cup Noodles Sabor Franhp Com Requeijao',85,'Cup','Nissin',Brazil
+541,541,'Yakibuta Ramen',82,'Bowl','Tokushima Seifun',Japan
+542,542,'Vegetarian Herbal Noodle',17,'Pack','A1',Malaysia
+543,543,'Hovenia Ramen Vegetable Flavor',72,'Pack','Migawon',South Korea
+544,544,'Hakka BBQ Sauce Noodle',28,'Pack','A-Sha Dry Noodle',Taiwan
+545,545,'Maru Uma Curry Udon',4,'Cup','Acecook',Japan
+546,546,'Noodles Oriental Flavour',8,'Cup','Fantastic',Australia
+547,547,'Instant Noodles Artificial Chicken & Shrimp Flavored',4,'Pack','Chaudhary's Wai Wai',India
+548,548,'Noodle King Artificial Beef Soup Flavored',68,'Bowl','Kamfen',Hong Kong
+549,549,'Otentiq Cheezy Curry Instant Noodles (Improved Taste)',21,'Pack','CarJEN',Malaysia
+550,550,'Charumera Atyificial Tonkotsu Shouyu Flavor',23,'Pack','Myojo',Japan
+551,551,'Instant Noodles Beef Flavour',72,'Cup','Singa-Me',Australia
+552,552,"'Sopa Maruchan Sabor a Camaron, Limon y Habanero'",31,'Pack','Maruchan',Mexico
+553,553,'Shinshu Miso Ramen',89,'Bowl','Nissin',Japan
+554,554,'Penang White Curry Authentic Taste Cup',73,'Cup','MyKuali',Malaysia
+555,555,'Authentic Street Food Chow Mein',83,'Cup','Urban Noodle',UK
+556,556,'Authentic Street Food Pad Thai',53,'Cup','Urban Noodle',UK
+557,557,'Authentic Street Food Black Bean',71,'Cup','Urban Noodle',UK
+558,558,'Authentic Street Food Thai Red Curry',29,'Cup','Urban Noodle',UK
+559,559,'Authentic Street Food Satay',84,'Cup','Urban Noodle',UK
+560,560,'Artificial Roasted Beef',22,'Pack','Kang Shi Fu',China
+561,561,'Seabura Tonkotsu Ramen',93,'Cup','Acecook',Japan
+562,562,'Noodle With Spicy Oyster Soup',59,'Pack','Pulmuone',South Korea
+563,563,'Honey & Cheese Big Bowl',96,'Bowl','Samyang Foods',South Korea
+564,564,'Chicken Style Noodles With Vegetables',36,'Cup','Great Value',Canada
+565,565,'Perisa Kari Mi Segera (Improved Taste)',62,'Pack','E-Zee',Malaysia
+566,566,'Ghost Pepper Noodle',9,'Pack','Oni Hot Pot',Taiwan
+567,567,'Beef Style Ramen Noodles',19,'Pack','Great Value',Canada
+568,568,'Vegetarian Instant Noodles Shiitake Flavour',62,'Pack','MAMA',Thailand
+569,569,'2 Minute Laksa Flavour Noodles',97,'Pack','Trident',Australia
+570,570,'Rangers Snack Noodles Popcorn Flavour',18,'Pack','MAMA',Myanmar
+571,571,'Oriental Noodles Soto Ajam',40,'Cup','Conimex',Netherlands
+572,572,'Hot spicy Flavor Instant Vermicelli',75,'Bowl','Sichuan Baijia',China
+573,573,'Rice Fettucini Alfredo',40,'Pack','Nongshim',United States
+574,574,'Wonton Noodles Beef Flavour',93,'Bowl','Kamfen',Hong Kong
+575,575,'Hakka Spicy Barbeque Sauce',80,'Pack','A-Sha Dry Noodle',Taiwan
+576,576,'Donbei Dashi Shoyu Yakiudon',4,'Bowl','Nissin',Japan
+577,577,'Raoh Rich Miso Flavor',71,'Bowl','Nissin',Japan
+578,578,'Cup Noodles Tom Yum Goong',52,'Cup','Nissin',Japan
+579,579,'Cup Noodle Big Seafood Clam Chowder',19,'Cup','Nissin',Japan
+580,580,'Chikin Ramen Donburi',55,'Bowl','Nissin',Japan
+581,581,'Curry Udon',9,'Cup','Nissin',Japan
+582,582,'Men Shokunin Shoyu',3,'Bowl','Nissin',Japan
+583,583,'Cup Noodle Vegeta Buta-kyabetsu Tonkotsu',45,'Cup','Nissin',Japan
+584,584,'Cup Noodle Pasta Style Tarako Spaghetti',51,'Cup','Nissin',Japan
+585,585,'Cup Noodle Big Cheese Mexican Chilli',90,'Cup','Nissin',Japan
+586,586,'Gyoretsu-no-Dekiru-Mise-no-Ramen (Shrimp Tantanmen)',97,'Bowl','Nissin',Japan
+587,587,'Raoh Tonkotsu',2,'Pack','Nissin',Japan
+588,588,'Cup Noodle Light Plus Ratatouille',95,'Cup','Nissin',Japan
+589,589,'Cup Noodle Milk Chikin Ramen',47,'Cup','Nissin',Japan
+590,590,'Cup Noodle',79,'Cup','Nissin',Japan
+591,591,'Penang White curry Noodle Authentic Taste',82,'Pack','MyKuali',Malaysia
+592,592,'Instant Noodles Chicken Soup Flavour',34,'Pack','MAMA',Myanmar
+593,593,'Yokohama Walker Iekei Ramen',38,'Bowl','Nissin',Japan
+594,594,'Quinoa Noodle With Oyster Sauce And Vegetables',45,'Pack','A-Sha Dry Noodle',Taiwan
+595,595,'Singapore Prawn Soup La Mian',42,'Pack','Prima Taste',Singapore
+596,596,'Chinese Tan Tan Vermicelli',91,'Cup','Nissin',Hong Kong
+597,597,'Tokushima Ramen',96,'Pack','Tokushima Seifun',Japan
+598,598,'Assorted Pork Bone Noodle',2,'Pack','Master Kong',China
+599,599,'Penang Red tom Yum Goong Noodle Authentic Taste',5,'Pack','MyKuali',Malaysia
+600,600,'Noodles Witrh Prawn & Chicken Flavour',97,'Cup','Suimin',Australia
+601,601,'BIG Cup Noodle Ajillo',44,'Cup','Nissin',Japan
+602,602,'Nyonya Curry Laksa (Improved Taste)',85,'Pack','CarJEN',Malaysia
+603,603,'Malaysia Penang Green Curry Vermicelli (New Package)',24,'Pack','MyOri',Malaysia
+604,604,'Kumamoto Spicy Ramen',11,'Pack','Itsuki',Japan
+605,605,'Soba Fried Noodles Classic',52,'Pack','Nissin',Germany
+606,606,'Cheese Curry Ramyun',65,'Pack','Samyang Foods',South Korea
+607,607,'Cup Noodles Sabor Calabresa',21,'Pack','Nissin',Brazil
+608,608,'Spicy Flavour Instant Mifun',23,'Pack','Doll',Hong Kong
+609,609,'Horse Crab Flavour Ramen',4,'Pack','Fujiwara',Japan
+610,610,'Malaysia Penang Red Curry Noodle',76,'Pack','MyOri',Malaysia
+611,611,'Noodle Soup Seasoned With Real Kimchi',85,'Pack','Nongshim',USA
+612,612,'Top Ramen Chicken Flavor Ramen Noodle Soup (New Packaging)',7,'Pack','Nissin',USA
+613,613,'Kinchan Ramen',79,'Pack','Tokushima Seifun',Japan
+614,614,'GGE Noodle Snack Wheat Crackers Soy Sauce Ramen',49,'Pack','Wei Lih',Taiwan
+615,615,'Penang Spicy Prawn Soup Noodle Authentic Taste',85,'Pack','MyKuali',Malaysia
+616,616,'Instant Noodles Coconut Milk Flavour',70,'Pack','MAMA',Myanmar
+617,617,'Rice Noodles Vegetable Laksa',60,'Cup','Kabuto Noodles',UK
+618,618,'Rice Noodles Chicken Pho',79,'Cup','Kabuto Noodles',UK
+619,619,'Chicken Ramen',86,'Cup','Kabuto Noodles',UK
+620,620,'Chilli Chicken Ramen',9,'Cup','Kabuto Noodles',UK
+621,621,'Charumera Shoyu Ramen',36,'Pack','Myojo',Japan
+622,622,'Mi Goreng Bento Noodles In A Box Curry Masala Flavour',93,'Tray','IbuRamen',USA
+623,623,'Cup Vegetarian Instant Noodles Tom Yum Flavour',82,'Cup','MAMA',Thailand
+624,624,'Spicy Tomato Salsa Ramen',73,'Cup','Maruchan',Japan
+625,625,'Raoh Ramen Noodle Soup Umami Soy Sauce Flavor',98,'Pack','Nissin',USA
+626,626,'Island Of Flavours Spicy Thai Chicken Instant Noodles Soup',11,'Pack','Koh Thai',Netherlands
+627,627,'Singapore Fish Soup La Mian',83,'Pack','Prima Taste',Singapore
+628,628,'Kung-Fu Brand Instant Oriental Noodle Soup Artificial Beef Flavor',40,'Pack','Ve Wong',Taiwan
+629,629,'Cup Noodles Ramen Noodle Soup Hearty Chicken Flavor [New Package]',82,'Cup','Nissin',USA
+630,630,'Red King Crab Flavour Ramen',11,'Pack','Fujiwara',Japan
+631,631,'Oriental Style Instant Noodles Shrimp Flavour (Tom Yum)',7,'Pack','Bamee',Thailand
+632,632,'Artificial Pickled Cabbage Fish Flavor Instant Vermicelli',50,'Pack','Sichuan Baijia',China
+633,633,'Singapore Laksa Wholegrain La Mian',55,'Pack','Prima Taste',Singapore
+634,634,'Raoh Shio Ramen',78,'Pack','Nissin',Japan
+635,635,'Oriental Style Instant Noodles Masala Flavour',29,'Pack','MAMA',Bangladesh
+636,636,'GGE Noodle Snack Wheat Crackers Hot Spicy',63,'Pack','Wei Lih',Taiwan
+637,637,'Sugomen Niigata Seabura Shoyu Ramen',67,'Bowl','New Touch',Japan
+638,638,'Always Mi Goreng Perisa Sambal Udang',51,'Pack','Ibumie',Malaysia
+639,639,'Good Noodles Tandoori',80,'Pack','Unox',Netherlands
+640,640,'Cup Noodle Pasta Style Bolognese',34,'Cup','Nissin',Japan
+641,641,'Instant Noodles Shrimp Creamy Tom Yum Flavour',13,'Pack','MAMA',Myanmar
+642,642,'Donbei Kamodashi Soba',32,'Bowl','Nissin',Japan
+643,643,'Chicken Soup Flavour Cup Noodles',38,'Cup','MAMA',Myanmar
+644,644,'Rice Noodle Coconut Curry',8,'Pack','Fortune',USA
+645,645,'Guanmiao Dried Noodles With Oleum Sesami',37,'Pack','Love Cook',Taiwan
+646,646,'Guanmiao Dried Noodles With Spicy Sauce',36,'Pack','Love Cook',Taiwan
+647,647,'Guanmiao Dried Noodles With Authentic Sauce',46,'Pack','Love Cook',Taiwan
+648,648,'Guanmiao Dried Noodles With Shallot Flavor',26,'Pack','Love Cook',Taiwan
+649,649,'Instant Noodles chicken Flavour',40,'Pack','Bonasia',Hungary
+650,650,'Island Of Flavours Lemongrass Instant Noodles Soup',41,'Pack','Koh Thai',Netherlands
+651,651,'Instant Noodles Minced Pork Flavour',27,'Pack','MAMA',Cambodia
+652,652,'Instant Noodles Oriental Style Chicken Flavour',32,'Pack','Bamee',Thailand
+653,653,'Kogashi Megiiri Tonkotsu Kagoshima Ramen',23,'Bowl','Marutai',Japan
+654,654,'Bowl Noodles Hot & Spicy Chicken Flavor Less Sodium Ramen Noodle Soup',64,'Bowl','Nissin',USA
+655,655,'Juzz's Mee Creamy Chicken Flavour',21,'Pack','Prima',Singapore
+656,656,'Broad Noodle Artificial Beef Flavor',97,'Pack','Sichuan Baijia',China
+657,657,'Oriental Noodles Teriyaki',59,'Cup','Conimex',Netherlands
+658,658,'Instant Cup Mi Kuah Rasa Baso Spesial',75,'Cup','Mie Sedaap',Indonesia
+659,659,'Cup Noodles Ramen Noodle Soup Chicken Flavor [New Package]',26,'Cup','Nissin',USA
+660,660,'Ramen Tonkotudou Kumamoto Noodles',17,'Pack','Itsuki',Japan
+661,661,'Shiroi Chikara Mochi Udon',67,'Bowl','Maruchan',Japan
+662,662,'Instant Noodles chicken Flavour',22,'Pack','iMee',Netherlands
+663,663,'Mi Goreng Bento Noodles In A Box Hot Sweet & Sour Flavor',6,'Tray','IbuRamen',USA
+664,664,'Soba Fried Noodles Teriyaki',18,'Pack','Nissin',Germany
+665,665,'Yuzu Sesame Sauce Udon',16,'Bowl','Itsuki',Japan
+666,666,'Juzz's Mee Curry Flavour',47,'Pack','Prima',Singapore
+667,667,'Mushroom Rice Noodle Soup Bowl',4,'Bowl','Thai Smile',USA
+668,668,'Instant Noodles Chicken Sichek Flavour',28,'Pack','MAMA',Myanmar
+669,669,'Emergency Chikin Ramen Cup Noodle',28,'Cup','Nissin',Japan
+670,670,'Chow Mein Pad Thai',9,'Tray','Nissin',USA
+671,671,'Instant Noodles With Chicken Flavouring',62,'Pack','Asia Gold',Hungary
+672,672,'Kuroma-yu Tonkotsu Kumamoto Ramen',55,'Bowl','Nissin',Japan
+673,673,'Singapore Curry Wholegrain La Mian',35,'Pack','Prima Taste',Singapore
+674,674,'Chicken Flavour Asian Style Instant Noodles',35,'Pack','Vifon',Vietnam
+675,675,'Nuudeli Kana Nudlar Kyckling',81,'Pack','Pirkka',Finland
+676,676,'Instant Noodles Duck Flavour',57,'Pack','Bonasia',Hungary
+677,677,'Tonkotsu Ramen',53,'Pack','Higashimaru',Japan
+678,678,'Seafood Tom Yum Sichek Flavour',78,'Pack','MAMA',Myanmar
+679,679,'Juzz's Mee Original Spicy Flavour',66,'Pack','Prima',Singapore
+680,680,'Always Mi Goreng Perisa Kari Kapitan',55,'Pack','Ibumie',Malaysia
+681,681,'Island Of Flavours Thai Royal Shrimp Instant Noodles',66,'Pack','Koh Thai',Netherlands
+682,682,'Spicy Fish Noodle',81,'Bowl','Master Kong',China
+683,683,'Cup Noodle Massaman Curry',72,'Cup','Nissin',Japan
+684,684,'Instant Noodles Duck Flavour',8,'Pack','Asia Gold',Hungary
+685,685,'Seimen Houjyun Koku Shoyu',6,'Bowl','Maruchan',Japan
+686,686,'Rangers Snack Noodles BBQ Flavour',41,'Pack','MAMA',Myanmar
+687,687,'Cup Noodle Sio',77,'Cup','Nissin',Japan
+688,688,'Cheese Ramen',91,'Pack','Ottogi',South Korea
+689,689,'Cup Noodles Homestyle Chicken',97,'Cup','Nissin',USA
+690,690,'Beef Tongue Shio Mayo Ramen',42,'Pack','Kuriki',Japan
+691,691,'Rangers Snack Noodles Sour Cream Flavour',79,'Pack','MAMA',Myanmar
+692,692,'Cup Noodles Kyushu White Flavour',16,'Cup','Nissin',Singapore
+693,693,'Mee Poh Dry',47,'Pack','Myojo',Singapore
+694,694,'Chicken Abalone Flavour',30,'Bowl','Myojo',Singapore
+695,695,'Ramen Char Mee 100',42,'Pack','Myojo',Singapore
+696,696,'La Ramen Spicy Mushroom Flavour Big Bowl',53,'Bowl','Myojo',Singapore
+697,697,'Mee Goreng',8,'Pack','Myojo',Singapore
+698,698,'La Ramen Spicy Lobster Hot Pot Flavour Big Bowl',81,'Bowl','Myojo',Singapore
+699,699,'Chicken Abalone Flavour',20,'Pack','Myojo',Singapore
+700,700,'Thai Tom Yam Flavour',14,'Bowl','Myojo',Singapore
+701,701,'Chicken Tanmen Flavour',25,'Pack','Myojo',Singapore
+702,702,'Extra Spicy Singapore Curry Big Bowl',87,'Bowl','Myojo',Singapore
+703,703,'La Ramen Spicy Mushroom Flavour',47,'Pack','Myojo',Singapore
+704,704,'Chicken Flavour',34,'Pack','Myojo',Singapore
+705,705,'Tonkotsu Ramen Artificially Flavored Tonkotsu White Chicken Broth',26,'Pack','Sapporo Ichiban',USA
+706,706,'Always Mi Goreng Perisa Thai Tom Yam',93,'Pack','Ibumie',Malaysia
+707,707,'Wei Wei A Instant Noodles Chicken Flavor',30,'Bowl','Vedan',Taiwan
+708,708,'Hakata Ossyoi',79,'Pack','Itsuki',Japan
+709,709,'Cup Noodles Minced Pork Flavour',75,'Cup','Nissin',Thailand
+710,710,'Instant Noodles With Beef Flavouring',16,'Pack','Asia Gold',Hungary
+711,711,'Soba Fried Noodles Chili',93,'Pack','Nissin',Germany
+712,712,'Kuroma-yu Tonkotsu Kumamoto Ramen',23,'Bowl','Marutai',Japan
+713,713,'Premier Bowl Instant Noodles Stewed Pork Flavour',16,'Bowl','Yum Yum',Thailand
+714,714,'Penang Spicy Prawn Soup Noodle',76,'Pack','MyKuali',Malaysia
+715,715,'Shrimp Tom Yum Flavour Cup Noodles',91,'Cup','Mama',Myanmar
+716,716,'Raoh Ramen Noodle Soup Umami Tonkotsu Flavor',8,'Pack','Nissin',USA
+717,717,'Broad Noodle Pickled Vegetable Artificial Beef Flavor',19,'Pack','Baijia',China
+718,718,'Always Mi Goreng Perisa Asli',40,'Pack','Ibumie',Malaysia
+719,719,'Oriental Noodles Groene Curry',24,'Cup','Conimex',Netherlands
+720,720,'Cupo Noodle Pasta Style Vongole',43,'Cup','Nissin',Japan
+721,721,'Instant Noodles chicken Green Curry Flavour',81,'Pack','Mama',Cambodia
+722,722,'Wantan Men',56,'Bowl','Myojo',Japan
+723,723,'Mi Goreng Bento Noodles In A Box Shallot Teriyaki Flavor',27,'Tray','IbuRamen',USA
+724,724,'Instant Cup Noodles Mi Goreng Fried Noodles',25,'Cup','Indomie',Indonesia
+725,725,'Negi Man Ramen',75,'Pack','Daraz',Japan
+726,726,'Chinese Kitchen Chinese Style Instant Noodles',66,'Pack','Mama',Myanmar
+727,727,'Instant Noodles Shrimp Flavour',80,'Pack','Bonasia',Hungary
+728,728,'Udon Japanese Style Precooked Noodles With Soup Hot & Spicy Flavor',16,'Bowl','Myojo',USA
+729,729,'Snow Crab Flavour Shio Ramen',79,'Pack','Fujiwara',Japan
+730,730,'Raoh Ramen Noodle Soup Umami Miso Flavor',48,'Pack','Nissin',USA
+731,731,'Instant Rice Vermicelli Clear Soup Flavour',81,'Pack','Pama',Malaysia
+732,732,'Penang Red tom Yum Goong Noodle (New Version)',15,'Pack','MyKuali',Malaysia
+733,733,'Oriental Noodles Hot & Spicy',51,'Pack','Conimex',Netherlands
+734,734,'Chow Mein Savory Sauce And Restayrant Quality Noodles Roast Chicken Flavor ',49,'Tray','Nissin',USA
+735,735,'Oriental Style Instant Noodles Shrimp Flavour',57,'Pack','Mama',Bangladesh
+736,736,'Gold Sumire Ramen',26,'Bowl','Seven & I',Japan
+737,737,'Sunbaked Noodles With Sesame Sauce',56,'Pack','Forest Noodles',Taiwan
+738,738,'Purple Sweet Potato Noodles With Taiwanese Sauce',59,'Pack','Forest Noodles',Taiwan
+739,739,'Sunbaked Noodles With Spicy Sauce',14,'Pack','Forest Noodles',Taiwan
+740,740,'Sweet Potato Noodles With Sesame Paste Sauce',13,'Pack','Forest Noodles',Taiwan
+741,741,'Taste Of Malaysia Penang White Curry Ramen',13,'Pack','Vit's',Malaysia
+742,742,'Taste Of Malaysia Penang Asam Laksa Fried Instant Noodle',89,'Pack','Vit's',Malaysia
+743,743,'Taste Of Malaysia Penang Hokkien Mee Ramen',7,'Pack','Vit's',Malaysia
+744,744,'Taste Of Malaysia Penang White Curry Fried Instant Noodle',94,'Pack','Vit's',Malaysia
+745,745,'Taste Of Malaysia Penang Asam Laksa Ramen',53,'Pack','Vit's',Malaysia
+746,746,'Taste Of Malaysia Penang Hokkien Mee Fried Instant Noodle',84,'Pack','Vit's',Malaysia
+747,747,'Instant Noodles With Chicken Flavour',16,'Pack','Vit's',Malaysia
+748,748,'Instant Flat Shaped Noodles Boat Noodles Nam Tok Flavour',96,'Pack','Yum Yum',Thailand
+749,749,'Plum Mayo Ramen',31,'Pack','Kuriki',Japan
+750,750,'Sichuan Pepper Flavor',65,'Pack','Tseng Noodles',Taiwan
+751,751,'Hu Sesame Flavor',2,'Pack','Tseng Noodles',Taiwan
+752,752,'Scallion With Sichuan Pepper  Flavor',79,'Pack','Tseng Noodles',Taiwan
+753,753,'Zha Wang ((Jjawang) Noodles With Chajang Sauce',24,'Pack','Nongshim',South Korea
+754,754,'Instant Noodles Stewed Beef Flavour',96,'Pack','Mama',Cambodia
+755,755,'Broad Noodle Chilli Oil Flavor',97,'Pack','Sichuan Baijia',China
+756,756,'Soon Veggie Noodle Soup',48,'Cup','Nongshim',USA
+757,757,'MeeKuali spicy Fried Noodle',48,'Pack','MyKuali',Malaysia
+758,758,'Mi Kuah Rasa Baso Spesial',81,'Pack','Mi Sedaap',Indonesia
+759,759,'Udon Japanese Style Pre-Cooked Noodles With Soup Beef Flavor',63,'Bowl','Myojo',USA
+760,760,'Veggie King Buddha Jump Instant Noodles',65,'Bowl','Ten-In',Taiwan
+761,761,'Premier Bowl Instant Noodles Suki Flavour',98,'Bowl','Yum Yum',Thailand
+762,762,'Nara Tenri Shoyu Ramen',37,'Bowl','Sugakiya Foods',Japan
+763,763,'Penang Vegetarian Prawn Instant Bowl Noodles',42,'Bowl','Hao Way',Malaysia
+764,764,'Asian Style Instant Noodles Artificial Beef Flavor',68,'Bowl','Vifon',Vietnam
+765,765,'Hingya no Shio Ramen',51,'Pack','Nakaya Shouten',Japan
+766,766,'Island Of Flavours Tom Yum Instant Noodles Soup',91,'Pack','Koh Thai',Netherlands
+767,767,'Soba Fried Noodles Curry',78,'Pack','Nissin',Germany
+768,768,'Mushroom Instant Noodle',50,'Bowl','Master Kong',China
+769,769,'Oriental Noodles Oosterse Groenten',77,'Pack','Conimex',Netherlands
+770,770,'Penang White Curry Noodle (New Version)',73,'Pack','MyKuali',Malaysia
+771,771,'Nagahama Hakata Tonkotsu Ramen',48,'Bowl','Marutai',Japan
+772,772,'Vegetarian Instant Cup Noodle Tofu & Shiitake Flavour',36,'Cup','Mama',Thailand
+773,773,'Tom Yum Goong Flavour Instant Noodle',84,'Cup','Wai Wai',Thailand
+774,774,'Mi Segera Mmm... Perisa Goreng Ala Indonesia',40,'Pack','Cintan',Malaysia
+775,775,'Oriental Style Instant Noodles Tandoori Flavour',13,'Pack','Mama',Bangladesh
+776,776,'Oriental Style Instant Noodles Shrimp Creamy Tom Yum Flavour',9,'Pack','Thai Chef',Hungary
+777,777,'Vegetarian Instant Noodles Tom Yum Flavour',23,'Pack','Mama',Thailand
+778,778,'Cup Noodles Ramen Noodles Ramen Noodle Soup Beef Flavor (New Package) ',59,'Cup','Nissin',USA
+779,779,'Spicy Artificial Fei Chang Instant Vermicelli (New Recipe)',5,'Pack','Baijia',China
+780,780,'Soup All Natural Hot & Sour',21,'Cup','Crystal Noodle',USA
+781,781,'Spring Onion Rice Noodle Soup Bowl',80,'Bowl','Thai Smile',USA
+782,782,'Instant Noodles Vegetable Flavour',84,'Pack','iMee',Netherlands
+783,783,'Instant Rice Vermicelli Crab Flavour',10,'Pack','Wai Wai',Thailand
+784,784,'Salty Taste Chanko Noodle',17,'Pack','Fujiwara',Japan
+785,785,'Kimchee Flavour Noodle Soup',87,'Pack','Azami',Canada
+786,786,'Shallot Chicken Instant Noodles',51,'Pack','Vit's',Malaysia
+787,787,'Mi Segera Mmm... Perisa Asam Laksa',32,'Pack','Cintan',Malaysia
+788,788,'Soup Spices Noodle Mee Rempahan Sup',59,'Pack','A1',Malaysia
+789,789,'Tom Yam Instant Noodles',22,'Pack','Vit's',Malaysia
+790,790,'Kimchi',46,'Cup','Super',Malaysia
+791,791,'Mi Segera Mmm... Perisa Ayam Cendawan',48,'Pack','Cintan',Malaysia
+792,792,'Curry Flavour Noodles',26,'Cup','Super',Malaysia
+793,793,'Kua Teaw Segera',33,'Pack','Pama',Malaysia
+794,794,'Chow Mein Premium Savory Sauce And Restaurant Quality Noodles Sriracha Flavor',23,'Tray','Nissin',USA
+795,795,'Instant Noodles Black Pepper Crab Mi Goreng',61,'Cup','Super',Malaysia
+796,796,'Hakata Tonkotsu Ramen',72,'Pack','Torishi',Japan
+797,797,'Instant Noodles Creamy Tom Yum Shrimp Flavour',78,'Pack','iMee',Netherlands
+798,798,'Beef Flavour Instant Noodles',4,'Pack','Western Family',Canada
+799,799,'Penang Hokkien Prawn Soup Rice Vermicelli (Bihun)',29,'Bowl','MyKuali',Malaysia
+800,800,'Non-Fried Noodle Blackbean Sauce Noodle With Squid',73,'Pack','Pulmuone',South Korea
+801,801,'Instant Non-Fried Noodles Tomato Flavour',67,'Pack','Chering Chang',Taiwan
+802,802,'Spicy King Spicy Chicken',96,'Pack','JML',China
+803,803,'Supereme Bowl Noodles With Stewed Egg Spicy Flavour',95,'Bowl','JML',China
+804,804,'Spicy King Bowl Noodle Spicy Chicken',8,'Bowl','JML',China
+805,805,'Spicy King Bowl Noodle Spicy Beef',22,'Bowl','JML',China
+806,806,'Spicy King Spicy Pork',85,'Pack','JML',China
+807,807,'Supreme Bowl Noodles With Stewed Egg Sour Beans With Pork Flavour',16,'Bowl','JML',China
+808,808,'Spicy King Spicy Beef',30,'Pack','JML',China
+809,809,'Supreme Bowl Noodles With Stewed Egg Braised Beef Flavour',21,'Bowl','JML',China
+810,810,'Spicy King Bowl Noodle Spicy Pork',31,'Bowl','JML',China
+811,811,'Chef Lontong Flavour',51,'Pack','Mamee',Malaysia
+812,812,'Negi Miso No Ippin Ramen',95,'Bowl','New Touch',Japan
+813,813,'Instant Noodles Shrimp Tom Yum Flavour',26,'Pack','Mama',Cambodia
+814,814,'Bulnak Boeummyun King Noodle',40,'Bowl','Paldo',South Korea
+815,815,'Cup Noodles Ramen Noodles With Shrimp (New Package) ',66,'Cup','Nissin',USA
+816,816,'Nuudeli Tom Yum Katkarapu',34,'Pack','Pirkka',Finland
+817,817,'Tuna Flavor Ramen',13,'Pack','Ishimaru',Japan
+818,818,'Sesame & Pepper',4,'Pack','Mom's Dry Noodle',Taiwan
+819,819,'Natural Quality Foods Pad Thai Noodle Bowl',61,'Bowl','Authentically Asian',USA
+820,820,'Homestyle Tonjiru',5,'Bowl','New Touch',Japan
+821,821,'Cup Noodles Moo Manao Flavour',6,'Cup','Nissin',Thailand
+822,822,'Duck Instant Noodles',9,'Pack','Vit's',Malaysia
+823,823,'Instant Noodles Beef Flavour',60,'Pack','iMee',Netherlands
+824,824,'Veggie Noodle Carrot Noodle With Original Sauce',64,'Pack','A-Sha Dry Noodle',Taiwan
+825,825,'Oriental Style Instant Noodles Hot & Spicy Flavour',16,'Pack','Mama',Bangladesh
+826,826,'King Bowl Super Spicy Pan Stirfried Noodle',14,'Bowl','Paldo',South Korea
+827,827,'Garlic Rice Noodle Soup Bowl',83,'Bowl','Thai Smile',USA
+828,828,'Mayo Ramen',93,'Pack','Kuriki',Japan
+829,829,'Spicy & Sour Flavor',10,'Pack','Mom's Dry Noodle',Taiwan
+830,830,'Instant Cup Mi Kuah Rasa Soto',30,'Cup','Mi Sedaap',Indonesia
+831,831,'Jumbo Instant Noodles Tom Yum Kung Creamy Flavour',87,'Pack','Yum Yum',Thailand
+832,832,'Chili Chicken Flavour Noodle Soup',31,'Cup','Azami',Canada
+833,833,'Curry Instant Noodles',52,'Pack','Vit's',Malaysia
+834,834,'Ramen Shoyu Taste',70,'Bowl','Marutai',Japan
+835,835,'Good Noodles Kerrie',32,'Pack','Unox',Netherlands
+836,836,'Veggie Noodle Baby Grass Noodle With Toona Sauce',89,'Pack','A-Sha Dry Noodle',Taiwan
+837,837,'Rangers Snack Noodles Shrimp Tom Yum Flavour',11,'Pack','Mama',Myanmar
+838,838,'Curry Me! Penang White Curry Stir-fry Noodle',90,'Pack','Aroi',Malaysia
+839,839,'Udon Japanese Style Pre-Cooked Noodles With Soup Chicken Flavor',26,'Bowl','Myojo',USA
+840,840,'Braised Beef Noodle',16,'Pack','Master Kong',China
+841,841,'Raoh Tanrei Koku Shio Ramen',76,'Bowl','Nissin',Japan
+842,842,'Instant Noodles Shrimp Tom Yum Flavour',53,'Cup','Little Cook',Thailand
+843,843,'Instant Cup Mi Goreng',91,'Cup','Mi Sedaap',Indonesia
+844,844,'Monster Snek Mi Pedas',57,'Pack','Mamee',Malaysia
+845,845,'Tomato Sauce Instant Noodle',25,'Bowl','Master Kong',China
+846,846,'Laksa Singapura',66,'Pack','Koka',Singapore
+847,847,'Instant Noodles Beef Flavour',6,'Pack','Bonasia',Germany
+848,848,'Seafood Flavour Noodles',6,'Cup','Super',Malaysia
+849,849,'Instant Noodles Creamy Shrimp Tom Yum Flavour',14,'Pack','Mama',Cambodia
+850,850,'BBQ Pork Flavor Chow Mein',57,'Pack','Wu-Mu',Taiwan
+851,851,'Zan Vegetarian Instant Noodle Series Shiitake Mushroom Flavour',96,'Cup','Vedan',Taiwan
+852,852,'Tenobe Somen',16,'Bowl','Yamadai',Japan
+853,853,'Jah Jan Men',5,'Bowl','Wei Lih',Taiwan
+854,854,'Oh! Ricey Pho Ga',22,'Bowl','Vina Acecook',Vietnam
+855,855,'Veggie Noodle Black Sesame Noodle',8,'Pack','A-Sha Dry Noodle',Taiwan
+856,856,'Nuudeli Liha Nudlar Kott',79,'Pack','Pirkka',Finland
+857,857,'Artificial Beef Instant Noodles With Soup Base',12,'Pack','Baixiang Noodles',China
+858,858,'Otentiq Cheezy Curry Instant Noodles',67,'Pack','CarJEN',Malaysia
+859,859,'Mi Goreng Dengan Abon',91,'Pack','Salam Mie',Indonesia
+860,860,'Chef Lontong Flavour',43,'Cup','Mamee',Malaysia
+861,861,'Grilled Pork Flavour Instant Noodles',40,'Bowl','Wai Wai',Thailand
+862,862,'Hao Hao Sate Onion Flavour',91,'Cup','Vina Acecook',Vietnam
+863,863,'Sarawak White Laksa Instant Noodle',78,'Pack','Lee Fah Mee',Sarawak
+864,864,'Instant Noodles Egg Protein Noodles',43,'Pack','Mama',Myanmar
+865,865,'Instant Noodles Minced Pork Flavor',57,'Pack','Yum Yum',Thailand
+866,866,'Sichuan Hot Spicy Fish',37,'Pack','Master Kong',China
+867,867,'Otentiq Cheezy Mushroom Instant Noodles',71,'Pack','CarJEN',Malaysia
+868,868,'Organic Miso Ramen',41,'Pack','Sakurai Foods',Japan
+869,869,'Vegetarian Penang Laksa',47,'Pack','Hao Way',Malaysia
+870,870,'Instant Non-Fried Noodles Vegetable Curry Flavor',13,'Pack','Chering Chang',Taiwan
+871,871,'Instant Noodles With Shrimp Flavouring',51,'Pack','Asia Gold',Hungary
+872,872,'Sibu Instant Kampua Original',17,'Pack','The Kitchen Food',Sarawak
+873,873,'Hot & Spicy Flavour Noodle Soup',42,'Bowl','Azami',Canada
+874,874,'Hot Cup Goreng Perencah Cili Fiesta',87,'Cup','Maggi',Malaysia
+875,875,'Gold Bihun Kari Heritage Instant Rice Vermicelli',37,'Pack','Premiere',Malaysia
+876,876,'Sour & Spicy Flavour',48,'Pack','Baixiang Noodles',China
+877,877,'Super Tom Yum Shrimp',69,'Cup','7 Select/Nissin',Thailand
+878,878,'Seafood Noodle',3,'Cup','Samyang Foods',Japan
+879,879,'Organic Shoyu Ramen',56,'Pack','Sakurai Foods',Japan
+880,880,'Hakka Flat Noodle With Za Jiang Sauce',88,'Pack','A-Sha Dry Noodle',Taiwan
+881,881,'Mi goreng Pedas Chewy & springy',21,'Pack','Vit's',Malaysia
+882,882,'Instant Lunch Chicken Tortilla Flavor Ramen Noodles With Vegetables',70,'Cup','Maruchan',USA
+883,883,'Instant Kampua Dark Soy Sauce',59,'Pack','The Kitchen Food',Sarawak
+884,884,'Cup Yentafo Tom Yum Mohfai',45,'Cup','Mama',Thailand
+885,885,'Cup Shrimp Creamy Tom Yum',83,'Cup','Mama',Thailand
+886,886,'Instant Rice Vermicelli Bihun Goreng Original Flavour',2,'Pack','Mama',Thailand
+887,887,'Instant Noodles coconut Milk Flavour',77,'Cup','Mama',Myanmar
+888,888,'Oriental Style Instant Noodles Chicken Flavour',16,'Pack','Mama',Bangladesh
+889,889,'Instant Cup Noodles Minced Prok Flavor',29,'Cup','Mama',Thailand
+890,890,'Sour Bamboo Shoot & Beef If Hot Pot Flavor Noodles',44,'Bowl','Wugudaochang',China
+891,891,'Tomato Beef Brisket Flavor Purple Potato Noodle',29,'Pack','Wugudaochang',China
+892,892,'Sea Tangle & Sparerins Flavor Noodles',13,'Bowl','Wugudaochang',China
+893,893,'Chef's Grains Millet Noodle',9,'Pack','Wugudaochang',China
+894,894,'Chef's Grains Buckwheat Noodle',67,'Pack','Wugudaochang',China
+895,895,'Chef's Grains Pea Noodle',48,'Pack','Wugudaochang',China
+896,896,'Sichuan Pepper & Chicken Flavor Noodle',73,'Bowl','Wugudaochang',China
+897,897,'Sour Soup & Minced Meat Flavor Chef's Grain Naked Oat Noodles',85,'Pack','Wugudaochang',China
+898,898,'Sour Bamboo Shoot & Beef If Hot Pot Flavor Noodles',7,'Pack','Wugudaochang',China
+899,899,'Sea Tangle & Sparerins Flavor Noodles',46,'Bowl','Wugudaochang',China
+900,900,'Curry Me! Penang White Curry Soup Noodle',75,'Pack','Aroi',Malaysia
+901,901,'Veggie World Vegetarian Braised Beef Instant Noodles',84,'Bowl','Ten-In',Taiwan
+902,902,'Shin Black Spicy Po-Au-Feu Flavor (Mew Edition)',41,'Pack','Nongshim',USA
+903,903,'Raobokki Noodle (Export Version)',73,'Pack','Paldo',South Korea
+904,904,'Emporer Herbs Chicken Noodle',61,'Pack','A1',Malaysia
+905,905,'Sauerkraut Flavor',67,'Pack','Baixiang Noodles',China
+906,906,'Dare You! Habanero Ramen (New Edition)',49,'Cup','Emart',South Korea
+907,907,'Black Cock Brand Vegetarian Chicken Noodle',40,'Pack','Lishan Food Manufacturing',Taiwan
+908,908,'Chili Seafood Flavor Noodle Soup',53,'Cup','Azami',Canada
+909,909,'Penang Favourite White Curry Rice Vermicelli',66,'Pack','Ah Lai',Malaysia
+910,910,'Less Fat Noodles Grilled Chicken',64,'Pack','Tropicana Slim',Indonesia
+911,911,'Mi Ly Instant Noodles Mi Chay Vegetarian Flavor',18,'Cup','A-One',Vietnam
+912,912,'Cup Rice Vermicelli With Clear Soup',77,'Cup','Mama',Thailand
+913,913,'Aloe Thin Noodles With Camelia Oil Vegetable Sauce Flavor',76,'Pack','Deshome',Taiwan
+914,914,'Curry Instant Noodle With Chicken',32,'Cup','Vifon',Vietnam
+915,915,'Koreno Premium Mushroom Flavor',88,'Pack','Paldo Vina',Vietnam
+916,916,'Oriental Noodles Prawn Flavor',69,'Pack','Mamee',Malaysia
+917,917,'King Chef Authentic Kimchi Flavour',20,'Pack','Vina Acecook',Vietnam
+918,918,'Non-Fried Instant Noodles Ramen Tonkotsu Flavor',51,'Pack','Mama',Thailand
+919,919,'Senior Food Rice Noodle Fragrant Peppery Beef',46,'Cup','Chencun',China
+920,920,'Ho Fan Wonton Soup Flavored',6,'Pack','Sau Tao',Hong Kong
+921,921,'Xi Gon Satay Onion Flavor',73,'Pack','United',Vietnam
+922,922,'Hurricane Rice Cake (Topokki)',35,'Bowl','ChoripDong',South Korea
+923,923,'Shoop Instant Noodles Bombay Biryani Flavour',20,'Pack','Shan',Pakistan
+924,924,'JokCup Instant Porridge Soup Seafood Flavour',60,'Cup','Mama',Thailand
+925,925,'Artificial Pickled Vegetable Beef Flavor',15,'Pack','Baijia',China
+926,926,'Malaysia Penang White Curry Noodle Super Spicy',76,'Pack','MyOri',Malaysia
+927,927,'Malaysia Penang Green Curry Rice Vermicelli',17,'Pack','MyOri',Malaysia
+928,928,'Malaysia Penang White Curry Noodle Original',55,'Pack','MyOri',Malaysia
+929,929,'Chicken Flavour Instant Noodles',69,'Pack','Ruski',Malaysia
+930,930,'Sesame Flavor Ramen Korean Style Instant Noodle',8,'Pack','Ottogi',South Korea
+931,931,'Seafood Flavour Instant Cooking Noodles',56,'Pack','Master Kong',China
+932,932,'Instant Noodles With Onion Flavour',66,'Pack','Wei Lih',Taiwan
+933,933,'Shrimp Flavour Oriental Noodles And Soup Mix',40,'Cup','No Name',Canada
+934,934,'Spaghetti Instant Noodles',47,'Tray','New Way',Vietnam
+935,935,'Supreme Jjamppong Korean Style Spicy Seafood Soup',11,'Bowl','Lucky Me!',Philippines
+936,936,'Vegetarian Penang Laksa Instant Bowl Noodles',28,'Bowl','Hao Way',Malaysia
+937,937,'Dare You! Habanero Jjajang Ramen',7,'Cup','Emart',South Korea
+938,938,'Hearty Noodles Savoury Beef Flavour',16,'Cup','Campbell's',Canada
+939,939,'Japanese Ramen Noodle',88,'Bowl','One Dish Asia',USA
+940,940,'Taiwan Dried Noodles With Onion Oil Sauce',93,'Pack','Long Jun Hang',Taiwan
+941,941,'Bihun Creamy Tom Yam Flavour',11,'Cup','Pama',Malaysia
+942,942,'Veggie Noodle Tomato Noodle With Vine Ripened Tomato Sauce',53,'Pack','A-Sha Dry Noodle',Taiwan
+943,943,'Instant Nudelsuppe Huhn Geschmack',30,'Pack','Thai Chef',Germany
+944,944,'Shoop Instant Noodles Masala Flavour',40,'Pack','Shan',Pakistan
+945,945,'Quick Zabb Tom Klong Flavour Instant Noodles',52,'Pack','Wai Wai',Thailand
+946,946,'Shoyu Noodle',92,'Cup','Samyang Foods',South Korea
+947,947,'Mi Ly Instant Noodles Mi Bo Beef Flavor',28,'Cup','A-One',Vietnam
+948,948,'Mi Segera Mmm... Perisa Kari',5,'Pack','Cintan',Malaysia
+949,949,'Donbei Tempura Soba Mini',75,'Bowl','Nissin',Japan
+950,950,'Korean Clay Pot Ramyun',19,'Bowl','Nongshim',China
+951,951,'Penang Laksa Instant Bowl Noodles',9,'Bowl','Hao Way',Malaysia
+952,952,'Kimchee Noodle Soup',47,'Cup','Azami',Canada
+953,953,'Wei Wei A Instant Noodles Hot Beef Flavour',43,'Bowl','Vedan',Taiwan
+954,954,'Gonbuto Kistune Udon',53,'Bowl','Nissin',Japan
+955,955,'Instant Rice Noodle Soup Spicy Shrimp Flavour',35,'Bowl','Mama',Thailand
+956,956,'Artificial Pork Flavour',57,'Pack','Baixiang Noodles',China
+957,957,'Penang White Curry Noodle (New Improved Tatse)',58,'Pack','MyKuali',Malaysia
+958,958,'Quick2 Hot & Spicy Noodle Soup With Habanero & Lime',3,'Pack','Nongshim',USA
+959,959,'MenWhite Creamy Tonkotsu',36,'Bowl','Myojo',Japan
+960,960,'Gold Penang Asam Laksa Bihun',83,'Pack','Premiere',Malaysia
+961,961,'Chu Qian Yi Ding Tom Yum Instant Noodles With Soup Base',87,'Pack','Nissin',Singapore
+962,962,'Aloe This Noodles With Camellia Oil Spicy Bean Sauce Flavor',19,'Pack','Deshome',Taiwan
+963,963,'Penang Hokkien Prawn Noodle (New Improved Taste)',15,'Pack','MyKuali',Malaysia
+964,964,'Instant Noodles Artificial Spicy Beef Flavor (New Package)',84,'Pack','Unif-100',China
+965,965,'Shanghai Kaiyang Noodle',81,'Pack','Hankow',China
+966,966,'Penang White Curry Noodle',13,'Pack','The Bridge',Malaysia
+967,967,'Kaoru Maitake Tempura Udon',43,'Bowl','Maruchan',Japan
+968,968,'Shoop Instant Noodles Spicy Lemon Flavour',93,'Pack','Shan',Pakistan
+969,969,'Supreme Seafood Flavor Big Cup',29,'Bowl','Lucky Me!',Philippines
+970,970,'Koreno Premium Ginseng Flavor',91,'Pack','Paldo Vina',Vietnam
+971,971,'Brown Rice Ramen',32,'Pack','Mitoku',Japan
+972,972,'Penang Vegetarian Prawn Instant Noodles',44,'Pack','Hao Way',Malaysia
+973,973,'Nyumen Desse Shoyu',38,'Bowl','Myojo',Japan
+974,974,'Perencah Kari Letup Mi Segera',72,'Pack','Maggi',Malaysia
+975,975,'Demae Iccho Mushroom With Vegetables Flavour Macaroni',17,'Pack','Nissin',Hong Kong
+976,976,'Mushroom Honpo Shiitake Nutritious Noodle',92,'Pack','Unzen',Japan
+977,977,'Mi Goreng Ala Jawa Dengan Sambal Cabe Asli',12,'Pack','Salam Mie',Indonesia
+978,978,'Mikochi Tom Yum Flavor Instant Noodles',72,'Pack','Vina Acecook',Vietnam
+979,979,'Jinjja Jinjja (New)',53,'Pack','Nongshim',South Korea
+980,980,'Instant Non-Fried Noodles Shallot Pork Flavour',9,'Pack','Chering Chang',Taiwan
+981,981,'Top Ramen Super Noodles Tomato',72,'Pack','Nissin',India
+982,982,'Cup Rice Vermicelli Shrimp Creamy Tom Yum',17,'Cup','Mama',Thailand
+983,983,'Original Chow Mein Premium Spicy Chicken Flavor',20,'Tray','Nissin',USA
+984,984,'White Curry Noodle More Spicy',19,'Pack','Uncle Sun',Malaysia
+985,985,'Emporer Instant Noodles Spicy Chicken',15,'Pack','JML',China
+986,986,'Jan Jan Dashi Shoyu Yakisoba',45,'Cup','Acecook',Japan
+987,987,'Tteokgukmyun',30,'Pack','Nongshim',South Korea
+988,988,'Vegan Chilli With Sesame Sauce',9,'Pack','Mom's Dry Noodle',Taiwan
+989,989,'Perisa Sayuran',24,'Pack','Mi E-Zee',Malaysia
+990,990,'Perisa Kari Sayuran',64,'Pack','Mi E-Zee',Malaysia
+991,991,'Mi Perencah Ayam Jagung',75,'Pack','E-mi',Malaysia
+992,992,'Perisa Bayam',86,'Pack','Mi E-Zee',Malaysia
+993,993,'Plain Noodles',17,'Pack','Mi E-Zee',Malaysia
+994,994,'Snek Mi Perisa Ayam',42,'Pack','J.J.',Malaysia
+995,995,'Nyonya Curry Laksa',89,'Pack','CarJEN',Malaysia
+996,996,'Mi Perencah Asam Pedas',94,'Pack','E-mi',Malaysia
+997,997,'Snek Mi Perisa BBQ',46,'Pack','J.J.',Malaysia
+998,998,'Perisa Kari / Curry Flavour',23,'Pack','Mi E-Zee',Malaysia
+999,999,'3 Con Tom Instant Noodles Thailand Sour Shrimp Flavor',94,'Pack','United',Vietnam
+1000,1000,'Dare You! Habanero Ramen (New Edition)',44,'Pack','Emart',South Korea
+1001,1001,'Penang Authentic White Curry Noodle',5,'Pack','Curry Prince',Malaysia
+1002,1002,'Gonbuto Tempura Udon',39,'Bowl','Nissin',Japan
+1003,1003,'Pork Flavour Whole Wheat Noodle',12,'Pack','Mama',Thailand
+1004,1004,'Authentic Indian Noodles Vegetable Atta Masala',8,'Pack','Maggi',India
+1005,1005,'Jjajangmen Chajang Noodle King Bowl',79,'Bowl','Paldo',South Korea
+1006,1006,'Steam Vegetarian Flavor Noodles',18,'Pack','Chering Chang',Taiwan
+1007,1007,'Penang White Curry Instant Bowl Noodles',93,'Bowl','Hao Way',Malaysia
+1008,1008,'Artificial Seafood Flavor Instant Noodle',9,'Pack','Master Kong',China
+1009,1009,'Choice Instant Noodles Curry Flavour',59,'Pack','Econsave',Malaysia
+1010,1010,"'Big Cup Ramen Corn, Salt & Butter Flavor'",68,'Bowl','Maruchan',Japan
+1011,1011,'Mi Goreng Perencah Kari Ori',36,'Pack','Maggi',Malaysia
+1012,1012,'Instant Noodles Cup Beef Flavour',31,'Cup','Mama',Thailand
+1013,1013,'Emergency Cup Noodle',15,'Cup','Nissin',Japan
+1014,1014,'Cup Noodles Tomato Enjoy Noodles With Hot Soup',40,'Cup','Nissin',India
+1015,1015,'Baby Star Snack Noodle Chicken Flavour',45,'Pack','Oyatsu',Japan
+1016,1016,'Mì Ly Instant Noodles Mì Thịt Xào Pork Flavor',85,'Cup','A-One',Vietnam
+1017,1017,'Shin Ramyun Noodle Soup (New Edition)',40,'Pack','Nongshim',USA
+1018,1018,'Purple Wheat Noodles Soy & Vinegar Flavor',68,'Pack','Koka',Singapore
+1019,1019,'White Curry Noodle',72,'Pack','Uncle Sun',Malaysia
+1020,1020,'Instant Rice Noodle Spicy Seafood',23,'Tray','Kin-Dee',Thailand
+1021,1021,'Spicy Beef Flavor Instant Noodle',6,'Pack','Master Kong',China
+1022,1022,'Beef Flavour Oriental Noodles And Soup Mix',89,'Cup','No Name',Canada
+1023,1023,'Penang Laksa ',16,'Pack','Hao Way',Malaysia
+1024,1024,'Hot Garlic Instant Noodles',89,'Pack','Ching's Secret',India
+1025,1025,'Instant Noodles Taste Sensation Mixed Vegetable Flavour',15,'Pack','Ko-Lee',UK
+1026,1026,'Asia Fast Noodles Snabbnudlar Räksmak',14,'Pack','ICA',Sweden
+1027,1027,'Mi Segera Perisa Itik',38,'Pack','Mamee',Malaysia
+1028,1028,'Oriental Style Instant Noodles Pa-Lo Duck Flavour',34,'Pack','Bamee',Thailand
+1029,1029,'Men Black Seafood Tonkotsu',3,'Bowl','Myojo',Japan
+1030,1030,'Penang White CurryMee',46,'Pack','Ibumie',Malaysia
+1031,1031,'Chow Mein Japanese Style Noodles Yakisoba',37,'Pack','Sapporo Ichiban',Canada
+1032,1032,'Curry Noodle',91,'Cup','Samyang Foods',Japan
+1033,1033,'Volcano Spicy Pork Noodle',69,'Bowl','Vedan',Taiwan
+1034,1034,'Demae Rice Vermicelli Beef Flavour',32,'Pack','Nissin',Hong Kong
+1035,1035,'Penang Asam Pedas Hot & Sour Noodle',50,'Pack','Nanyang Chef',Malaysia
+1036,1036,'Pad Thai Instant rice Noodles & Sauce',92,'Tray','Thai Pavilion',USA
+1037,1037,'2 Minute Noodles Hungrooo Masala Spicy',34,'Pack','Maggi',India
+1038,1038,'Noodles Beef Flavour',87,'Cup','Koka',Singapore
+1039,1039,'Steam Pork Flavour',9,'Pack','Wu-Mu',Taiwan
+1040,1040,'Instant Noodles Artificial Shallot Beef Flavour',71,'Pack','Unif-100',China
+1041,1041,'Kimchi Noodle',42,'Bowl','New Touch',Japan
+1042,1042,'Oat Noodle Tomato Soup Flavored',79,'Pack','Sau Tao',Hong Kong
+1043,1043,'Quick Zabb Chili Paste Tom Yum Flavour Instant Noodles',63,'Pack','Wai Wai',Thailand
+1044,1044,'Koreno Premium Shrimp Flavor',31,'Pack','Paldo Vina',Vietnam
+1045,1045,'Oat Noodle Pork Rib Flavored',70,'Pack','Sau Tao',Hong Kong
+1046,1046,'Seafood Instant Noodles',54,'Pack','Vit's',Malaysia
+1047,1047,'Sate Flavor Instant Noodles',90,'Pack','Miliket',Vietnam
+1048,1048,'Special Instant Noodles Jjamppong Flavor',67,'Pack','Lucky Me!',Philippines
+1049,1049,'Special Instant sopas Chicken Flavor',40,'Pack','Lucky Me!',Philippines
+1050,1050,'Spicy Beef Mami Instant Noodle Soup',32,'Pack','Lucky Me!',Philippines
+1051,1051,'Special Instant Curly Spaghetti With Yummy Red Sauce',90,'Pack','Lucky Me!',Philippines
+1052,1052,'Supreme Pinoy Chicken Instant Noodles',73,'Cup','Lucky Me!',Philippines
+1053,1053,'Special Baked Mac Style Instant Macaroni',63,'Pack','Lucky Me!',Philippines
+1054,1054,'La Paz Batchoy Instant Noodle Soup',32,'Pack','Lucky Me!',Philippines
+1055,1055,'Instant Kua Teow Tom Yam',23,'Cup','Pama',Malaysia
+1056,1056,'Chu Qian Yi Ding Spicy Sesame Flavour Instant Noodles With Soup Base',38,'Pack','Nissin',Singapore
+1057,1057,'Jjamppong Seafood Noodle King Bowl',24,'Bowl','Paldo',South Korea
+1058,1058,'Instant Porridge Seafood Flavour',22,'Pack','Vifon',Vietnam
+1059,1059,'Gotsumori Sauce Yakisoba',8,'Tray','Maruchan',Japan
+1060,1060,'Oriental Style Instant Noodles Wasabi Flavour',93,'Pack','Yum Yum',Thailand
+1061,1061,'Manchurian Instant Noodles',7,'Pack','Ching's Secret',India
+1062,1062,'Chef Gold Recipe Bihun Kari Seribu Rasa',72,'Pack','Mamee',Malaysia
+1063,1063,'Instant Noodles Spicy Chili',93,'Pack','Katoz',Sweden
+1064,1064,'Miso Ramen',20,'Pack','Men-Sunaoshi',Japan
+1065,1065,'Neoguri Udon Seafood & Mild',58,'Pack','Nongshim',South Korea
+1066,1066,'Royale Penang Seafood Curry',37,'Pack','Maggi',Malaysia
+1067,1067,'Instant Noodles Tom Yum Pork Flavour',98,'Pack','Mama',Thailand
+1068,1068,'Japanese Fried Ramen Noodles Kyoto Barbecue Sauce Flavour',78,'Pack','Chewy',Hong Kong
+1069,1069,'Tainan Yi Mien With Sesame Oil Sauce',11,'Pack','Long Jun Hang',Taiwan
+1070,1070,'Quick Serve Macaroni Wonton Broth',90,'Pack','Knorr',Hong Kong
+1071,1071,'Donbei Kitsune Udon Mini',82,'Bowl','Nissin',Japan
+1072,1072,'Chef Gold Recipe Mi Kari Seribu Rasa',31,'Pack','Mamee',Malaysia
+1073,1073,'Chu Qian Yi Ding Prawn Flavour Instant Noodles With Soup Base',16,'Pack','Nissin',Singapore
+1074,1074,'Cup Noodles Mug Noodles Spicy Vegetable',37,'Pack','Nissin',India
+1075,1075,'Shoop Instant Noodles BBQ Flavour',48,'Pack','Shan',Pakistan
+1076,1076,'Stewed Beef Flavor Cooking Noodle',14,'Pack','Master Kong',China
+1077,1077,'Bowl Noodle Soup Shrimp Habanero Lime Flavor',81,'Bowl','Nongshim',USA
+1078,1078,'Artificial Pork Flavor Noodles',39,'Pack','JML',China
+1079,1079,'Ohmori Chukafu Yakisoba',3,'Tray','Acecook',Japan
+1080,1080,'Penang Red Tom Yum Goong Noodle',26,'Pack','MyKuali',Malaysia
+1081,1081,'Instant Noodles Xi Gon Artificial Stewed Beef Flavor',67,'Pack','United',Vietnam
+1082,1082,'Sogokimyun Hot Flavor Noodle Soup',32,'Pack','Samyang Foods',South Korea
+1083,1083,'Easy Fideos Picante Lime Shrimp Flavor Ramen Noodle Soup',6,'Cup','Nissin',USA
+1084,1084,'Mianba Pork Ribs Flavor Instant Noodles',9,'Pack','Master Kong',China
+1085,1085,'Instant Noodles Mee Goreng',37,'Cup','Super',Malaysia
+1086,1086,'Pop Mie Chicken Flavour Cup Noodles',20,'Cup','Indomie',Indonesia
+1087,1087,'Magomi-an Kitsune Udon (Eastern Japan Flavor)',71,'Bowl','Maruchan',Japan
+1088,1088,'Quick Zabb Tom Yum Shrimp Flavour Instant Noodles',3,'Pack','Wai Wai',Thailand
+1089,1089,'Potato Ramen',58,'Pack','Ottogi',South Korea
+1090,1090,'Soba Chili Noodles With Japanese Yakisoba Sauce',57,'Cup','Nissin',Germany
+1091,1091,'Multigrainz Noodles Spice Remix',56,'Pack','Maggi',India
+1092,1092,'Sichuan Spicy Flavor',20,'Pack','Mom's Dry Noodle',Taiwan
+1093,1093,'Asia Snabbnudlar Kycklingsmak',36,'Pack','ICA',Sweden
+1094,1094,'Onion Oil & Shrimp Flavor',76,'Pack','Mom's Dry Noodle',Taiwan
+1095,1095,'Spicy Tonkotsu Noodle Soup',16,'Pack','Nongshim',USA
+1096,1096,'Mee Baa..Gus Mi Goreng Spicier Original Flavour',23,'Pack','Ibumie',Malaysia
+1097,1097,'Hot & Spicy Instant Noodle (Mushroom & Beef Flavour)',45,'Pack','Four Seas',Hong Kong
+1098,1098,'I Want To Eat Ramen' Shoyu Flavor',22,'Pack','Maruchan',Japan
+1099,1099,'Mushroom Stew Chicken Ramen',9,'Pack','Master Kong',China
+1100,1100,'Jjol Bibim Men',75,'Pack','Paldo',South Korea
+1101,1101,'Cup Noodles Easy Fideos Tomato Chicken Flavor Ramen Noodle Soup',39,'Cup','Nissin',USA
+1102,1102,'Tom Yam Flavour Instant Noodles',33,'Pack','Ruski',Thailand
+1103,1103,'Instant Noodles Moo Nam Tok Flavour',28,'Pack','Mama',Thailand
+1104,1104,'Instant Nudelsuppe Shrimp Flavour',30,'Pack','Thai Chef',Germany
+1105,1105,'Cup Oriental Style Instant Noodles Chicken Flavour',15,'Cup','Bamee',Thailand
+1106,1106,'Instant Noodle Shrimp Tom Yum Flavour Jumbo Pack',34,'Pack','Mama',Thailand
+1107,1107,'Instant Cup Noodles Shrimp Tom Yum Flavour (Extreme)',60,'Cup','Mama',Thailand
+1108,1108,'Chicken Masala Flavour Instant Fried Noodles',74,'Pack','Ruski',Thailand
+1109,1109,'Instant Noodles Shrimp Creamy Tom Yum Flavour Jumbo Pack',21,'Pack','Mama',Thailand
+1110,1110,'Instant Cup Noodles Spicy Cheese Flavour',70,'Cup','Mama',Thailand
+1111,1111,'Oriental Style Instant Noodles Beef Flavour',68,'Pack','Bamee',Germany
+1112,1112,'Instant Cup Noodles Seafood Pad Kee Mao Flavour',44,'Cup','Mama',Thailand
+1113,1113,'Creamy Tom Yam Instant Noodles',47,'Pack','Ruski',Thailand
+1114,1114,'Oriental Style Instant Noodles Green Curry Flavour Jumbo Pack',65,'Pack','Mama',Thailand
+1115,1115,"'Shrimp ""Tom Yum"" Instant Nudelsuppe'",76,'Pack','Thai Chef',Germany
+1116,1116,'Penang White curry Noodle With Nanyang Chilli Paste',8,'Pack','Nanyang Chef',Malaysia
+1117,1117,'Instant Lunch California Vegetable Ramen Noodles With Vegetables',91,'Cup','Maruchan',USA
+1118,1118,'Steam Instant Noodles Korean Salt & Rib Soup Flavour',16,'Bowl','Wei Lih',Taiwan
+1119,1119,'Cup Noodles Black Pepper Crab Flavour',38,'Cup','Nissin',Singapore
+1120,1120,'Premium Instant Noodles Spicy Beef Flavour',96,'Pack','Nissin',Singapore
+1121,1121,'Cup Noodles Tom Yam Veg Flavour',77,'Cup','Nissin',Singapore
+1122,1122,'Premium Instant Noodles Roasted Beef Flavour',13,'Bowl','Nissin',Singapore
+1123,1123,'Chu Qian Yi Ding Sesame Oil Flavour',51,'Pack','Nissin',Singapore
+1124,1124,'Cup Noodles Chicken Flavour',61,'Cup','Nissin',Singapore
+1125,1125,'Premium Instant Noodles XO Sauce Seafood Flavour',73,'Pack','Nissin',Singapore
+1126,1126,'Cup Noodles Chilli Crab Flavour',93,'Cup','Nissin',Singapore
+1127,1127,'Japanese Ramen Kyushu Black Instant Noodles With Soup Base',65,'Pack','Nissin',Singapore
+1128,1128,'Premium Instant Noodles Spicy Beef Flavour',46,'Bowl','Nissin',Singapore
+1129,1129,'Cup Noodles Tom Yam Seafood Flavour',43,'Cup','Nissin',Singapore
+1130,1130,'Japanese Ramen Tokyo Shoyu Instant Noodles With Soup Base',57,'Pack','Nissin',Singapore
+1131,1131,'Cup Noodles Seafood Curry Flavour',50,'Cup','Nissin',Singapore
+1132,1132,'Premium Instant Noodles Roasted Beef Flavour',70,'Pack','Nissin',Singapore
+1133,1133,'Cup Noodles Cream Of Chicken Flavour',23,'Cup','Nissin',Singapore
+1134,1134,'Ippei-Chan Jumbo Night Market Style Yakisoba',40,'Tray','Myojo',Japan
+1135,1135,'Penang Hokkien Prawn Noodle',82,'Pack','MyKuali',Malaysia
+1136,1136,'Instant Lunch Jalapeno Cheddar Flavor Ramen Noodles',9,'Cup','Maruchan',USA
+1137,1137,'Harmony Korean Spicy Noodle Dish With Chipotle',91,'Pack','Nongshim',USA
+1138,1138,'2 Minute Noodles Tom Yam Flavour',50,'Pack','Maggi',Singapore
+1139,1139,'Souper Meal Chili Picante Chicken With Lime Flavor Ramen Noodle Soup',62,'Bowl','Nissin',USA
+1140,1140,'Dried Noodle With Beef Flavor Sauce',93,'Pack','Wu-Mu',Taiwan
+1141,1141,'Mi Segera Mi Goreng Pedas Instant Noodles',97,'Pack','Adabi',Malaysia
+1142,1142,'Old Style Miso Ramen',34,'Pack','Maruchan',Japan
+1143,1143,'Quick Serve Macaroni Abalone & Chicken Flavour',96,'Pack','Knorr',Hong Kong
+1144,1144,'Rice Noodle Beef With Brown Sauce',25,'Cup','Chencun',China
+1145,1145,'2 Minute Noodles Assam Laksa Flavour',26,'Pack','Maggi',Singapore
+1146,1146,'Hot Cup Perisa Kari',18,'Cup','Maggi',Malaysia
+1147,1147,'2 Minute Noodles Curry Flavour',71,'Pack','Maggi',Singapore
+1148,1148,'Senses Laksa Instant Noodles',84,'Pack','Maggi',Singapore
+1149,1149,'Extra Spicy Curry Instant Noodles',29,'Pack','Maggi',Singapore
+1150,1150,'Buldak Bokkummyeon',92,'Bowl','Samyang Foods',South Korea
+1151,1151,'Sabor A Gallina Fideos Con Instantanea',89,'Pack','Nissin',Colombia
+1152,1152,'Chukazanmai Beijing Style Salt Ramen',48,'Pack','Myojo',Japan
+1153,1153,'Miso Ramen',68,'Bowl','Osaka Ramen',USA
+1154,1154,'Cheese Bokki',25,'Bowl','Ottogi',South Korea
+1155,1155,'Instant Penang White Curry Noodles',43,'Pack','Hao Way',Malaysia
+1156,1156,'Curry Flavour Instant Noodles',25,'Pack','Sainsbury's',UK
+1157,1157,'King Chef Seafood With Kimchi Flavour',76,'Pack','Vina Acecook',Vietnam
+1158,1158,'Pan Asian Kitchen Spicy Szechuan Chicken Flavor Ramen Noodles',79,'Tray','Nissin',USA
+1159,1159,'Korean Clay Pot Ramyun Noodle',45,'Cup','Nongshim',China
+1160,1160,'I Want To Eat Ramen Shio',34,'Pack','Maruchan',Japan
+1161,1161,'Ngon-Ngon Tom Yum Minced Pork Noodle',32,'Cup','Vifon',Vietnam
+1162,1162,'Ppushu Ppushu Grilled Chicken Flavor',87,'Pack','Ottogi',South Korea
+1163,1163,'Oat Noodle Abalone Flavored',55,'Pack','Sau Tao',Taiwan
+1164,1164,'Chukazanmai Szechuan Style Miso',78,'Pack','Myojo',Japan
+1165,1165,'Instant Rice Vermicelli Original Flavour',68,'Pack','Chewy',Hong Kong
+1166,1166,'Cheese Ramyun (for US market)',78,'Pack','Paldo',South Korea
+1167,1167,'Curry La-Men',19,'Pack','Chering Chang',Taiwan
+1168,1168,'Non-Fried Ramen Noodles Taiwan Roast Pork Flavour',96,'Pack','Chewy',Hong Kong
+1169,1169,'Prince Katsu Snack Noodles',16,'Pack','A-Sha Dry Noodle',Taiwan
+1170,1170,'Mi Segera Tom Yam Instant Noodles',81,'Pack','Adabi',Malaysia
+1171,1171,'Spicy Artificial Beef Flavour Instant Noodles With Soup Base',7,'Pack','Baixiang Noodles',China
+1172,1172,'Chicken Sopas Creamy Macaroni Soup',76,'Cup','Pamana',Philippines
+1173,1173,'Ramen House Thai Coconut Ramen',41,'Pack','Annie Chun's',USA
+1174,1174,'Spaghetti With Mushroom Sauce',18,'Pack','La Fonte',Indonesia
+1175,1175,'Masala Dumdaar Noodles',28,'Pack','Maggi',India
+1176,1176,'Instant Noodles Seafood Flavour',87,'Cup','Thai Choice',Thailand
+1177,1177,'Everyday Value Chicken & Mushroom Flavour',97,'Cup','Tesco',UK
+1178,1178,'Spesial Rasa Kari Ayam Pedas',75,'Pack','Pop Bihun',Indonesia
+1179,1179,'Yomise No Yakisoba Shiodare Flavor With Black Pepper Mayonnaise',21,'Tray','Myojo',Japan
+1180,1180,'Nature Is Delicious Non-Fried Ramyun (Spicy Flavor) (New Version)',80,'Pack','Pulmuone',South Korea
+1181,1181,'Oh! Ricey Pho Bo Instant Rice Noodles',74,'Bowl','Vina Acecook',Vietnam
+1182,1182,'Fried Noodle Specialist Tom Yam Mee Goreng Flavour',6,'Pack','Nissin',Singapore
+1183,1183,'Steam Seafood Flavor Ramen',16,'Pack','Wu-Mu',Taiwan
+1184,1184,'Baby Star Snack Noodle Yakisoba Flavor',14,'Pack','Oyatsu',Japan
+1185,1185,'Singapore Laksa Curry Soup Bowl',71,'Bowl','Snapdragon',USA
+1186,1186,'Mild Kokomen (Prototype)',31,'Pack','Paldo',South Korea
+1187,1187,'Sajimee Curry Soup Flavour',38,'Pack','Saji',Malaysia
+1188,1188,'Miso Marvellous Soup',39,'Pack','Miracle Noodle',USA
+1189,1189,'Shoop Instant Noodles Chicken Flavour',78,'Pack','Shan',Pakistan
+1190,1190,'Mi Goreng Rasa Iga Penyet',79,'Pack','Indomie',Indonesia
+1191,1191,'Traveller's Choice Thai Red Curry Flavour Instant Noodles',8,'Pack','Tiger Tiger',UK
+1192,1192,'Barbecue Ramyun (Prototype)',85,'Pack','Paldo',South Korea
+1193,1193,'Red Pepper 7 Garlic Peperoncino',14,'Pack','Takamori Kosan',Japan
+1194,1194,'Sukiyaki Style Noodle Stew',22,'Pack','Takamori Kosan',Japan
+1195,1195,'Yaki-Udon Roast Soy Sauce',73,'Pack','Takamori Kosan',Japan
+1196,1196,'Hiyashi Udon Bonito Sauce',12,'Pack','Takamori Kosan',Japan
+1197,1197,'Futomen Yakisoba',54,'Pack','Takamori Kosan',Japan
+1198,1198,'Hiyashi Chuka Lemon Sauce',78,'Pack','Takamori Kosan',Japan
+1199,1199,'Curry Udon',95,'Pack','Takamori Kosan',Japan
+1200,1200,'Chanpon',92,'Pack','Takamori Kosan',Japan
+1201,1201,'Shio Yakisoba',8,'Pack','Takamori Kosan',Japan
+1202,1202,'Yakisoba',5,'Pack','Takamori Kosan',Japan
+1203,1203,'Yaki-Udon Mild Spicy Sauce',25,'Pack','Takamori Kosan',Japan
+1204,1204,'Katsuo Dashi Udon',50,'Pack','Takamori Kosan',Japan
+1205,1205,'Spaghetti Napolitan',20,'Pack','Takamori Kosan',Japan
+1206,1206,'Spicy Garlic Ramen',38,'Pack','Tokyo Noodle',Japan
+1207,1207,'Everyday Value Beef & Tomato Flavour Noodles',68,'Cup','Tesco',UK
+1208,1208,'Nagasaki Jjamppong',91,'Cup','Samyang Foods',South Korea
+1209,1209,'Hearty Noodles Thai Flavour',10,'Cup','Campbell's',Canada
+1210,1210,'Oriental Style Instant 'Kua-Chap'',47,'Pack','Papa',Thailand
+1211,1211,'Hello Kitty Za Jiang (Soybean Sauce)',27,'Pack','A-Sha Dry Noodle',Taiwan
+1212,1212,'Soba Teriyaki Noodles With Japanese Yakisoba Sauce',54,'Cup','Nissin',Germany
+1213,1213,'Instant Noodles Vegetable & Mushroom Flavour',6,'Pack','Sawadee',UK
+1214,1214,'Sir Long Tang Creamy Beef Noodle Soup',51,'Cup','Nongshim',USA
+1215,1215,'Seaweed Hot & Spicy Instant Noodle Mushroom & Beef Flavour',63,'Bowl','Four Seas',Hong Kong
+1216,1216,'Korean Style Stew Pork Flavour Noodle Soup',13,'Bowl','Golden Wheat',China
+1217,1217,'Instant Noodle King Won Ton Flavor',17,'Pack','Sau Tao',Hong Kong
+1218,1218,'Instant Noodles Curry Flavour',76,'Pack','Mamee',Malaysia
+1219,1219,'Chef Creamy Tom Yam Flavour',24,'Pack','Mamee',Malaysia
+1220,1220,'Monster BBQ Flavour Snack Noodles',65,'Pack','Mamee',Malaysia
+1221,1221,'Chef Curry Laksa Flavour',6,'Cup','Mamee',Malaysia
+1222,1222,'SLLRRRP! Asam Laksa',65,'Pack','Mamee',Malaysia
+1223,1223,'Mie Goreng Indonesia Spicy Sambal',4,'Cup','Mamee',Malaysia
+1224,1224,'Chef Spicy Chicken Shiitake Flavour',84,'Pack','Mamee',Malaysia
+1225,1225,'Instant Vermicelli Chicken Flavour',12,'Pack','Mamee',Malaysia
+1226,1226,'Chef Creamy Tom Yam Flavour',33,'Cup','Mamee',Malaysia
+1227,1227,'Instant Noodles Vegetarian Flavour',45,'Pack','Mamee',Malaysia
+1228,1228,'SLLRRRP! Kari Berapi',4,'Pack','Mamee',Malaysia
+1229,1229,'Monster Chicken Flavour Snack Noodles',71,'Pack','Mamee',Malaysia
+1230,1230,'Chef Curry Laksa Flavour',47,'Pack','Mamee',Malaysia
+1231,1231,'Mie Goreng Indonesia Original Flavour',27,'Cup','Mamee',Malaysia
+1232,1232,'Instant Vermicelli Tom Yam Flavour',56,'Pack','Mamee',Malaysia
+1233,1233,'Bulnak Bokkummyun Spicy Fried Octopus Ramyun',14,'Pack','Paldo',South Korea
+1234,1234,'Baby Star Ramen Round Consomme Mini',45,'Pack','Oyatsu',Japan
+1235,1235,'Forbidden Rice Ramen',72,'Pack','Lotus Foods',USA
+1236,1236,'Millet & Brown Rice Ramen',57,'Pack','Lotus Foods',USA
+1237,1237,'Jade Pearl Rice Ramen',70,'Pack','Lotus Foods',USA
+1238,1238,'White Curry Noodle',9,'Pack','Ah Lai',Malaysia
+1239,1239,'Cuisine Adventures Chicken Pho Soup',55,'Bowl','Plats Du Chef',Canada
+1240,1240,'Taste Of Asia Mi Goreng Rasa Bulgogi Ala Korea',2,'Pack','Indomie',Indonesia
+1241,1241,'Instant Rice Noodle Pad Thai',39,'Tray','Kin-Dee',Thailand
+1242,1242,'Super Noodles Peppered Steak Flavour',82,'Pack','Batchelors',UK
+1243,1243,'Chikara Brand Udon Beef Flavor',25,'Pack','Sakura Noodle',USA
+1244,1244,'Fresh Chow Mein Noodles With Seasoning',40,'Pack','Shirakiku',USA
+1245,1245,'Chikara Brand Udon Hot & Spicy Flavor',89,'Pack','Sakura Noodle',USA
+1246,1246,'Chikara Brand Udon Mushroom Flavor',70,'Pack','Sakura Noodle',USA
+1247,1247,'Chikara Brand Udon Oriental Flavor',21,'Pack','Sakura Noodle',USA
+1248,1248,'Chikara Brand Udon Chicken Flavor',79,'Pack','Sakura Noodle',USA
+1249,1249,'Taste Of Asia Mi Kuah Rasa Tom Yum Ala Thailand',86,'Pack','Indomie',Indonesia
+1250,1250,'Otafuku Okonomi Sauce Yakisoba',93,'Tray','Sapporo Ichiban',Japan
+1251,1251,'Oriental Style Instant Noodle Mi Ga Chicken Flavor',30,'Cup','Vifon',Vietnam
+1252,1252,'Hello Kitty La Wei (Spicy Flavor)',65,'Pack','A-Sha Dry Noodle',Taiwan
+1253,1253,'Unif-100 Instant Noodles Artificial Tart Beef Flavor',78,'Pack','Unif',China
+1254,1254,'Mi Segera SLLRRRP! Perencah Kari Xtra Pedas',69,'Pack','Mamee',Malaysia
+1255,1255,'Spicy Shrimp Tom Yam Flavour',62,'Cup','Koka',Singapore
+1256,1256,'Instant Noodles Stewed Beef Flavour',74,'Pack','Ruski',Thailand
+1257,1257,'Korean Style Mushroom Chicken Flavour Cooking Noodle',47,'Pack','Golden Wheat',China
+1258,1258,'Instant Noodle Udon Hot & Spicy',74,'Pack','Hi-Myon',South Korea
+1259,1259,'Fresh Chow Mein Noodles With Seasoning',32,'Pack','Takamori Kosan',Japan
+1260,1260,'Instant Noodles Cup Seafood Flavour',72,'Cup','Mama',Thailand
+1261,1261,'Mi Segera Kari Ayam Instant Noodles',60,'Pack','Adabi',Malaysia
+1262,1262,'Spa Oh Tarako Spaghetti',19,'Bowl','Nissin',Japan
+1263,1263,'Little Prince Brand Snack Noodles Original Flavor',3,'Pack','Ve Wong',Taiwan
+1264,1264,'Japchae Vermicelli Noodle',49,'Pack','Ottogi',South Korea
+1265,1265,'Chicken Flavour Instant Noodles',33,'Pack','Sainsbury's',UK
+1266,1266,'Korean Traditional Beef Gomtangmen',57,'Pack','Paldo',South Korea
+1267,1267,'Green Barley Noodle Vegetable Soup',33,'Pack','Healtimie',Indonesia
+1268,1268,'I Want To Eat Ramen Miso Flavor',88,'Pack','Maruchan',Japan
+1269,1269,'Spesial Rasa Soto Ayam',59,'Pack','Pop Bihun',Indonesia
+1270,1270,'Rice Noodle Cart Thai Peanut',60,'Tray','Thai Kitchen',USA
+1271,1271,'Oriental Style Instant Noodles Seafood Flavour',41,'Cup','Yum Yum',Thailand
+1272,1272,'Soon Veggie Noodle Soup',58,'Pack','Nongshim',South Korea
+1273,1273,'Cup Noodle Cheese Curry',2,'Cup','Nissin',Japan
+1274,1274,'Oriental Style Instant Noodles Tom Yam Flavour',73,'Pack','Koka',Singapore
+1275,1275,'Instant Noodle Original Flavor',80,'Pack','A-Sha Dry Noodle',Taiwan
+1276,1276,'Demae Ramen Shoyu Tonkotsu Artificial Pork Flavour',21,'Pack','Nissin',Hong Kong
+1277,1277,'Instant Noodles In A Cup Chicken Flavour',15,'Cup','Western Family',Canada
+1278,1278,'Instant Noodles Yentafo Tom Yum Mohfai Flavour',76,'Pack','Mama',Thailand
+1279,1279,'Quick Serve Macaroni Shrimp Broth',66,'Pack','Knorr',Hong Kong
+1280,1280,'Red Nagasaki Jjampong',55,'Pack','Samyang Foods',South Korea
+1281,1281,'Noodles In A Cup Spicy Chicken Simulated Flavour',58,'Cup','Mr. Noodles',Canada
+1282,1282,'Lightning Beef Bone Tteokguk Rice Cake Soup',71,'Bowl','Good Tto Leu Foods',South Korea
+1283,1283,'Mie Gepeng Kuah Rasa Ayam Lada Hitam',44,'Pack','GaGa',Indonesia
+1284,1284,'Ramen With Pickled Mustard Flavor',66,'Pack','Wu-Mu',Taiwan
+1285,1285,'Steam Mushroom Flavor Ramen',89,'Pack','Wu-Mu',Taiwan
+1286,1286,'Instant Noodles Chicken Flavour',81,'Cup','Thai Choice',Thailand
+1287,1287,'Prawn Noodles',78,'Pack','Myojo',Singapore
+1288,1288,'Cup Noodles Sabor A Carne Sopa Con Fideos',21,'Cup','Nissin',Colombia
+1289,1289,'Mì Ly Instant Noodles Mì Tôm Shrimp Flavor',7,'Cup','A-One',Vietnam
+1290,1290,'Sain Sain Garlic Teriyaki Fresh Cooked Udon Pasta',45,'Tray','Nongshim',South Korea
+1291,1291,'Braised Beef Noodles',8,'Pack','JML',China
+1292,1292,'QQ Scallop Seafood Vermicelli',65,'Bowl','Sau Tao',Hong Kong
+1293,1293,'Kumamoto Tonkotsu Ramen',63,'Pack','Kimura',Japan
+1294,1294,'Super Noodles Roast Beef & Onion Flavour',23,'Pack','Batchelors',UK
+1295,1295,'Supreme Chow Mein Seafood Flavor Instant Stir-Fried Noodles',36,'Bowl','Lucky Me!',Philippines
+1296,1296,'Rice Noodle Cart Sweet Citrus Ginger',67,'Tray','Thai Kitchen',USA
+1297,1297,'Oolongmen Kimchi Cup Noodle Soup Mix',9,'Cup','Nongshim',South Korea
+1298,1298,'Purple Wheat Noodles Aglio Olio',28,'Pack','Koka',Singapore
+1299,1299,'Jet Black Sesame Oil Pork Tonkotsu',96,'Bowl','Tokachimen Koubou',Japan
+1300,1300,'Sun Dried Noodle Chlorella Powder Noodle With Curry Sauce',48,'Pack','Deshome',Taiwan
+1301,1301,'Instant Noodles Mixed Vegetable',17,'Pack','Ko-Lee',UK
+1302,1302,'Ppushu Ppushu Noodle Snack Bulgogi Flavor',11,'Pack','Ottogi',South Korea
+1303,1303,'Mì Gà Tìm Chua Cay Hot & Sour Chicken Flavor Instant Noodles',87,'Pack','Vifon',Vietnam
+1304,1304,'Mi Bandung Prawn Mee',20,'Pack','Adabi',Malaysia
+1305,1305,'Ramen With Stewed Pork Flavor',96,'Pack','Wu-Mu',Taiwan
+1306,1306,'Shiitake Flavor Spinach Ramen',81,'Pack','Wu-Mu',Taiwan
+1307,1307,'Basics Instant Noodles Chicken Curry Flavour',81,'Pack','Sainsbury's',UK
+1308,1308,'Baked Noodle Spicy Grilled Beef Ramyun',49,'Pack','Samyang Foods',South Korea
+1309,1309,'Singapore Chilli Crab La Mian',48,'Pack','Prima Taste',Singapore
+1310,1310,'Instant Noodles Taste Sensations Creamy Shrimp Tom Yum Flavour',41,'Pack','Ko-Lee',UK
+1311,1311,'Rice Vermicelli Scallop With XO Sauce Flavour',88,'Pack','Chewy',Hong Kong
+1312,1312,'Dried Noodle With Jah Jan Sauce',17,'Pack','Wu-Mu',Taiwan
+1313,1313,'Mi Cup Rasa Soto Ayam Chicken Soto Flavour',25,'Cup','ABC',Indonesia
+1314,1314,'Selera Pedas Mi Goreng Cup Rasa Gulai Ayam Pedas Hot Gulai Chicken',57,'Cup','ABC',Indonesia
+1315,1315,'Rasa Ayam Bawang Chicken Onion Flavour',69,'Cup','ABC',Indonesia
+1316,1316,'Selera Pedas Mi Goreng Cup Rasa Ayam Pedas Limau Hot Chicken Lemon Flavour',2,'Cup','ABC',Indonesia
+1317,1317,'Cup Noodle Curry X Gunpla RX-78-2 Gundam',89,'Cup','Nissin',Japan
+1318,1318,'Mi Cup Rasa Kari Ayam Chicken Curry Flavour',6,'Cup','ABC',Indonesia
+1319,1319,'Rasa Baso Sapi Meat Ball Mi Instan Cup',43,'Cup','Eat & Go',Indonesia
+1320,1320,'Mi Goreng Pangsit Fried Noodle With Dumpling',71,'Pack','ABC',Indonesia
+1321,1321,'Chicken Onion Mi Instan Cup',92,'Cup','Eat & Go',Indonesia
+1322,1322,'Mi Goreng Rasa Ayam Chicken Flavoured Fried Noodle',82,'Pack','President',Indonesia
+1323,1323,'Mi Goreng Spesial Special Fried Noodle',77,'Cup','ABC',Indonesia
+1324,1324,'Curry Chicken Mi Instan Cup',34,'Cup','Eat & Go',Indonesia
+1325,1325,'Instant Noodles Shrimp Flavour',21,'Cup','Thai Choice',Thailand
+1326,1326,'Sesame Oil Chicken Flavour Instant Noodle',3,'Bowl','Four Seas',Hong Kong
+1327,1327,'Chow Mein Teriyaki Chicken Flavor Chow Mein Noodles',44,'Tray','Nissin',USA
+1328,1328,'Instant Noodles Chow Mein Flavour',35,'Pack','Tesco',UK
+1329,1329,'Instant Noodles Tom Saab Flavour',13,'Pack','Mama',Thailand
+1330,1330,'三養라면 (Samyang Ramyun) (South Korean Version)',29,'Bowl','Samyang Foods',South Korea
+1331,1331,'Sabor A Pollo Sopa Con Fideos',15,'Cup','Nissin',Colombia
+1332,1332,'Beef Flavour Tomato Ramen',68,'Pack','Wu-Mu',Taiwan
+1333,1333,'I Want To Eat Ramen Pork Tonkotsu Flavor',38,'Pack','Maruchan',Japan
+1334,1334,'Ramen House Chicken Vegetable Flavored Ramen',59,'Pack','Annie Chun's',USA
+1335,1335,'Instant Noodle King Abalone & Chicken Flavoured',69,'Pack','Sau Tao',Hong Kong
+1336,1336,'Unif-100 Pickled Cayenne Flavor Beef Ramen',82,'Pack','Unif',China
+1337,1337,'Demae Rice Vermicelli Chicken Flavour Instant Rice Vermicelli With Soup Base',23,'Pack','Nissin',Hong Kong
+1338,1338,'Garlic Chili Instant Rice Noodles & Sauce',85,'Tray','Thai Pavilion',USA
+1339,1339,'Donbei Kansai Soy Sauce Flavor Udon',36,'Pack','Nissin',Japan
+1340,1340,'Big Kari Perencah (Big Curry Flavor) 2 Minute Noodles',40,'Pack','Maggi',Malaysia
+1341,1341,'Rasa Ayam Spesial',83,'Pack','SuperMi',Indonesia
+1342,1342,'Sesame Ramen',24,'Pack','Sapporo Ichiban',Japan
+1343,1343,'Instant Noodles Creamy Tom Yum Minced Pork Flavour',75,'Pack','Mama',Thailand
+1344,1344,'Dare You Habanero Ramyun',87,'Cup','Emart',South Korea
+1345,1345,'Demae Ramen Miso Tonkotsu Artificial Pork Flavor Ramen Noodle',53,'Pack','Nissin',Hong Kong
+1346,1346,'Barbecue Beef Flavour Instant Noodles',8,'Pack','Sainsbury's',UK
+1347,1347,'Sabor A Pollo Sopa Instantánea Con Fideos',84,'Pack','Nissin',Colombia
+1348,1348,'Mie Gepeng Kuah Rasa Ayam Bawang Pedas',38,'Pack','GaGa',Indonesia
+1349,1349,'Instant Noodle Shallot Flavor',95,'Pack','A-Sha Dry Noodle',Taiwan
+1350,1350,'Sajimee Original Soto Soup Flavor',69,'Pack','Saji',Malaysia
+1351,1351,'Tonkotsu Ramen MEGA Dragon',68,'Pack','Kumamoto',Japan
+1352,1352,'Seimen Japanese Instant Ramen Noodles Shio Aji',10,'Pack','Maruchan',Japan
+1353,1353,'Chicken Kimchi Oriental Style Noodles With Soup Base',68,'Bowl','Mr. Noodles',Canada
+1354,1354,'Artificial Braised Beef Flavor Instant Noodle',60,'Bowl','Master Kong',China
+1355,1355,'Pan Asian Kitchen Sweet & Sour Chicken Flavor Ramen Noodles',79,'Tray','Nissin',USA
+1356,1356,'Premium Noodle House Seafood Ramyun',2,'Pack','HoMyeonDang',South Korea
+1357,1357,'Instant Noodles Prawn Oriental Flavour',48,'Pack','Sawadee',Malaysia
+1358,1358,'Soba Classic Noodles With Japanese Yakisoba Sauce',3,'Cup','Nissin',Germany
+1359,1359,'Selera Pedas Hot Semur Chicken Flavour',40,'Pack','ABC',Indonesia
+1360,1360,'Ultraman Instant Noodle Pork Flavour',4,'Cup','Nissin',Japan
+1361,1361,'Mini Instant Noodle Spicy Flavor',41,'Pack','Tokyo Noodle',Japan
+1362,1362,'Ho Fan Beef Soup Flavored',6,'Pack','Sau Tao',China
+1363,1363,'Hello Kitty Dim Sum Noodle Japanese Curry Flavour',48,'Cup','Doll',Hong Kong
+1364,1364,'Super Low Fat Noodles Chilli Chicken Flavour',14,'Pack','Batchelors',UK
+1365,1365,'Mi Instan Cup Milk Chicken Soup',56,'Cup','GaGa',Indonesia
+1366,1366,'Rendang Beef Flavour Fried Instant Noodle',76,'Cup','Eat & Go',Indonesia
+1367,1367,'Hot -Dry Instant Noodles Chilli Flavour',93,'Tray','Nan Jie Cun',China
+1368,1368,'Instant Noodles Tom Yum Flavour',2,'Pack','Ruski',Thailand
+1369,1369,'Demae Iccho Instant Noodle With Soup Base Artificial Chicken Flavour',68,'Bowl','Nissin',Hong Kong
+1370,1370,'Hell Spicy Mala',89,'Pack','A-Sha Dry Noodle',Taiwan
+1371,1371,'Super Noodles Chicken Mushroom Flavour',8,'Pack','Batchelors',UK
+1372,1372,'Korean Style Stew Prok Flavour Cooking Noodle',41,'Pack','Golden Wheat',China
+1373,1373,'UFO Yakisoba With Wasabi Mayonnaise',2,'Bowl','Nissin',Japan
+1374,1374,'Frozen Satay Sauce Noodle',32,'Pack','China Best',Taiwan
+1375,1375,'Instant Noodles Pork Flavour With Black Pepper',61,'Pack','Mama',Thailand
+1376,1376,'Cup Noodles Sabor A Gallina',77,'Cup','Nissin',Colombia
+1377,1377,'Mie Gepeng Kuah Rasa Soto Cabe Hijau',32,'Pack','GaGa',Indonesia
+1378,1378,'Udon Miso Stew',31,'Pack','Sugakiya Foods',Japan
+1379,1379,'Instant Noodle Curry Flavour',95,'Pack','A-Sha Dry Noodle',Taiwan
+1380,1380,'Tonkotsu Ramen',66,'Pack','Men-Sunaoshi',Japan
+1381,1381,'Instant Noodles Chicken Green Curry Flavour',46,'Pack','Mama',Thailand
+1382,1382,'Maesaengyitangmyun Baked Noodle',47,'Pack','Samyang Foods',South Korea
+1383,1383,'Cup Noodle Chilli Tomato',17,'Cup','Nissin',Japan
+1384,1384,'Bowl Noodles Chicken Flavor',88,'Bowl','Nissin',USA
+1385,1385,'Instant Noodles Spicy Tomato Flavour',60,'Pack','Sawadee',Malaysia
+1386,1386,'Namja Ramyun (US Version)',88,'Bowl','Paldo',South Korea
+1387,1387,'Soba Curry Noodles With Japanese Yakisoba Sauce',7,'Cup','Nissin',Germany
+1388,1388,'Ramen With Simmered Pork Flavor',78,'Pack','Wu-Mu',Taiwan
+1389,1389,'Seribu 1000 Goreng Spesial',53,'Pack','GaGa',Indonesia
+1390,1390,'Hello Kitty Hakata Shoyutonkotsu Ramen',10,'Bowl','Sanrio',Japan
+1391,1391,'Comet Mori Yukino Tan-tan men',67,'Bowl','Acecook',Japan
+1392,1392,'Braised Pork Ribs',6,'Cup','Chencun',China
+1393,1393,'Shin Ramyun Cup',61,'Cup','Nongshim',South Korea
+1394,1394,'Sabor A Carne Sopa Instantánea Con Fideos',94,'Pack','Nissin',Colombia
+1395,1395,'Basics Instant Noodles Chicken Flavour',96,'Pack','Sainsbury's',UK
+1396,1396,'Pokemon Shoyu Ramen',50,'Cup','Sapporo Ichiban',Japan
+1397,1397,'Cheese Noodle',35,'Pack','Paldo',South Korea
+1398,1398,'Go Noodles Xtreme Hot & Spicy Flavour',11,'Pack','Ko-Lee',UK
+1399,1399,'Star Popeye Ramyun Snack',41,'Pack','Samyang Foods',South Korea
+1400,1400,'What’s That? Leisure Meatballs Spicy Chicken Flavor',48,'Pack','Wei Lih',Taiwan
+1401,1401,'Chukazanmai Guangdong Style Ramen',65,'Pack','Myojo',Japan
+1402,1402,'Shin Black Spicy Pot-au-feu Flavor Premium Noodle Soup',59,'Cup','Nongshim',USA
+1403,1403,'Mi ABC Rasa Ayam Bawang (Onion Chicken)',28,'Pack','ABC',Indonesia
+1404,1404,'Old Style Shio Ramen',34,'Pack','Maruchan',Japan
+1405,1405,'Green Barley Noodle Milk Chicken Soup',47,'Pack','Healtimie',Indonesia
+1406,1406,'Crab Flavor Instant Ramen',39,'Pack','Itomen',Japan
+1407,1407,'Spesial Goreng Special',56,'Pack','Pop Bihun',Indonesia
+1408,1408,'Seaweed Ramen Made With Organic Noodles',4,'Pack','Koyo',USA
+1409,1409,'Traveller's Choice Indian Tikka Masala Flavour',6,'Pack','Tiger Tiger',UK
+1410,1410,'Jan Jan Yakisoba',95,'Cup','Acecook',Japan
+1411,1411,'Noodles In A Cup Beef Simulated Flavour',74,'Cup','Mr. Noodles',Canada
+1412,1412,'Donbei Curry Udon (West Japanese)',55,'Bowl','Nissin',Japan
+1413,1413,'Miso Ramen',74,'Cup','Kabuto Noodles',UK
+1414,1414,'Man Han Feast Sichuan Chilli Eel Flavor',17,'Bowl','Unif',Taiwan
+1415,1415,'Chow Mein With Shrimp Chow Mein Noodles',62,'Tray','Nissin',USA
+1416,1416,'Bowl Chicken Simulated Flavour',56,'Bowl','Mr. Noodles',Canada
+1417,1417,'Rice Vermicelli Spicy Beef With Chilli Flavour',22,'Pack','Chewy',China
+1418,1418,'Chanpon Ramen',11,'Pack','Nissin',Japan
+1419,1419,'100 Green Chilli Soto Flavour',26,'Pack','GaGa',Indonesia
+1420,1420,'Chacharoni',29,'Pack','Samyang Foods',South Korea
+1421,1421,'Yakisoba',45,'Tray','Peyang',Japan
+1422,1422,'Demae Iccho XO Sauce Seafood Flavour',4,'Bowl','Nissin',Hong Kong
+1423,1423,'The Nation's Noodle Beef & Tomato Flavour',18,'Cup','Golden Wonder',UK
+1424,1424,'Oriental Style Instant Vermicelli Sour Crab Flavour Soup',10,'Pack','Vifon',Vietnam
+1425,1425,'Savory Ramen ',27,'Bar','Komforte Chockolates',USA
+1426,1426,'Korean Style Shrimp Flavour Cooking Noodle',12,'Pack','Golden Wheat',China
+1427,1427,'Spicy Flavor Tomato Ramen',40,'Pack','Wu-Mu',Taiwan
+1428,1428,'Tomato & Basil Shio Ramen',68,'Pack','Sapporo Ichiban',Japan
+1429,1429,'Fatafat Vegetable Flavor',10,'Pack','Asian Thai Foods',Nepal
+1430,1430,'Krrish Instant Noodles Chicken Flavor',46,'Pack','Asian Thai Foods',Nepal
+1431,1431,'Preeti Instant Noodles Chicken Soup Base',37,'Pack','Asian Thai Foods',Nepal
+1432,1432,'Miteri Instant Noodles Vegetable Flavor',87,'Pack','Asian Thai Foods',Nepal
+1433,1433,'Rumpum Chicken Soup Base',72,'Pack','Asian Thai Foods',Nepal
+1434,1434,'2pm Precooked Noodles Chicken Curry Delight',11,'Pack','Asian Thai Foods',Nepal
+1435,1435,'Fatafat Chicken Flavor',34,'Pack','Asian Thai Foods',Nepal
+1436,1436,'Krrish Instant Noodles Vegetable Curry Flavor',39,'Pack','Asian Thai Foods',Nepal
+1437,1437,'Rumpum Vegetable Soup Base',32,'Pack','Asian Thai Foods',Nepal
+1438,1438,'Miteri Instant Noodles Chicken Flavor',34,'Pack','Asian Thai Foods',Nepal
+1439,1439,'Joker Ready To Eat Noodles',80,'Pack','Asian Thai Foods',Nepal
+1440,1440,'Preeti Instant Noodles Veg Soup Base',34,'Pack','Asian Thai Foods',Nepal
+1441,1441,'Gaurav Chicken Seasoning',28,'Pack','Asian Thai Foods',Nepal
+1442,1442,'Downtown Ramen Shop Shoyu',82,'Pack','Tablemark',Japan
+1443,1443,'Oriental Style Instant Noodles Crab Flavour',2,'Pack','Koka',Singapore
+1444,1444,'Yakisoba',90,'Pack','Nissin',Japan
+1445,1445,'Instant Noodle Beef & Lime Flavour',34,'Pack','Indomie',Indonesia
+1446,1446,'Katsuo Udon',81,'Pack','Hi-Myon',South Korea
+1447,1447,'E-Men Noodles Abalone Soup Flavor',86,'Pack','Kamfen',Hong Kong
+1448,1448,'Everyday Value Spicy Curry Flavour Noodles',57,'Cup','Tesco',UK
+1449,1449,'What’s That? Leisure Meatballs Chicken Flavor',35,'Pack','Wei Lih',Taiwan
+1450,1450,'Big Cup Noodles Habanero Lime Shrimp Flavor Ramen Noodle Soup',26,'Cup','Nissin',USA
+1451,1451,'Baby Star Ramen Round Chikinmini',92,'Pack','Oyatsu',Japan
+1452,1452,'Special Instant Pancit Bihon With Kalamansi',10,'Pack','Lucky Me!',Philippines
+1453,1453,'Hearty Noodles Chicken Flavour',82,'Cup','Campbell's',Canada
+1454,1454,'Mie Jepeng Goreng Rasa Ayam Lada Hitam',50,'Pack','GaGa',Indonesia
+1455,1455,'Japanese Style Noodles Shio Flavor',79,'Pack','Myojo',USA
+1456,1456,'Ganjjampong',76,'Bowl','Samyang Foods',South Korea
+1457,1457,'Fresh Yaki-Soba Stir Fry Noodles With Seasoning Sauce Base',33,'Pack','Maruchan',Japan
+1458,1458,'Ramen Kamen Thasos Galle Pork Bone',41,'Pack','Nagao Noodle',Japan
+1459,1459,'Oat Noodle Sesame Oil Flavored',34,'Pack','Sau Tao',China
+1460,1460,'Selera Pedas Mi Rebus Hot Gulai Flavor',17,'Pack','ABC',Indonesia
+1461,1461,'Taste Sensation Instant Noodles Curry Flavour',45,'Pack','Ko-Lee',UK
+1462,1462,'Kimchi Bowl Noodles Oriental Noodle With Soup Base',58,'Bowl','Mr. Noodles',Canada
+1463,1463,'spicy Pad Thai Instant Noodles & Sauce',75,'Tray','Thai Pavilion',USA
+1464,1464,'Mini Instant Noodles Artificial Chicken Flavor',48,'Pack','Tokyo Noodle',Japan
+1465,1465,'Pan Asian Kitchen Sukiyaki Beef Flavor Savory Soy Sauce Ramen Noodles',29,'Tray','Nissin',USA
+1466,1466,'Vegetarian Fried Noodles (Mie Goreng)',69,'Pack','Maitri',Indonesia
+1467,1467,'Samyang Ramyun (SK Version)',26,'Cup','Samyang Foods',South Korea
+1468,1468,'Oriental Style Instant Kua-Chap Clear Soup',90,'Pack','Mama',Thailand
+1469,1469,'Korean Style Stew Beef Cooking Noodle',80,'Pack','Golden Wheat',China
+1470,1470,'Gonghwachun Jjajangmyun',26,'Pack','GS25',South Korea
+1471,1471,'Spaghetti With Bolognese Sauce',31,'Box','La Fonte',Indonesia
+1472,1472,'Spicy Beef',43,'Cup','Chencun',China
+1473,1473,'Demae Ramen Kimchi Flavour Instant Noodle With Soup Base',37,'Bowl','Nissin',Hong Kong
+1474,1474,'Raoh Rich Soy Sauce With Roast Pork (2 Slices)',26,'Bowl','Nissin',Japan
+1475,1475,'Doong Ji Authentic Korean Cold Noodles With Chili Sauce',90,'Tray','Nongshim',South Korea
+1476,1476,'Instant Noodles Chicken Flavour',97,'Pack','Western Family',Canada
+1477,1477,'Ippei-chan Yomise No Yakisoba Teriyaki Mayo Flavor',91,'Tray','Myojo',Japan
+1478,1478,'Super Noodles Mild Mexican Chilli',4,'Pack','Batchelors',UK
+1479,1479,'Spicy Chicken Mi Instan Cup',57,'Cup','Eat & Go',Indonesia
+1480,1480,'Instant Noodles With Chicken Flavour Broth',28,'Pack','Baltix',Estonia
+1481,1481,'Instant Noodles With Beef Flavour Broth',24,'Pack','Baltix',Estonia
+1482,1482,'Low Fat Noodles Hainan Chicken',86,'Pack','Tropicana Slim',Indonesia
+1483,1483,'Homely Dried Noodles - Sesame Pate',41,'Pack','Amianda',Taiwan
+1484,1484,'Tachia Noodles - Hot & Spicy Sauce',59,'Pack','Amianda',Taiwan
+1485,1485,'Tachia Dried Noodles - Fried Shallot',64,'Pack','Amianda',Taiwan
+1486,1486,'Thin Noodles - Sesame Oil',86,'Pack','Amianda',Taiwan
+1487,1487,'Hakka Flat Noodles - Satay Sauce',23,'Pack','Amianda',Taiwan
+1488,1488,'Tachia Dried Noodles - Rou Zhou Meat Sauce',92,'Pack','Amianda',Taiwan
+1489,1489,'Homely Dried Noodles - Original Flavor ',46,'Pack','Amianda',Taiwan
+1490,1490,'Dried Noodles - Spicy Sauerkraut',74,'Pack','Amianda',Taiwan
+1491,1491,'Hakka Flat Noodles - Fried Bean Sauce',83,'Pack','Amianda',Taiwan
+1492,1492,'Tachia Dried Noodles - Peppery',36,'Pack','Amianda',Taiwan
+1493,1493,'Penang White Curry Noodle',31,'Pack','MyKuali',Malaysia
+1494,1494,'Indian Curry Flavour',15,'Pack','Sawadee',UK
+1495,1495,'Hao Hao Mi Goreng Shrimp & Onion Flavour',35,'Pack','Vina Acecook',Vietnam
+1496,1496,'Noodles In A Cup Chicken Simulated Flavour',75,'Cup','Mr. Noodles',Canada
+1497,1497,'GooTa Demi Hamburg-Men',86,'Cup','Nissin',Japan
+1498,1498,'Mi Goreng Cabe Ijo',95,'Pack','Indomie',Indonesia
+1499,1499,'Aloe Noodle Sesame Sauce',86,'Pack','Deshome',Taiwan
+1500,1500,'Black Eyed Beans Noodle Basil Sauce & Sesame Sauce',67,'Pack','Deshome',Taiwan
+1501,1501,'Aloe Noodle Vegetable Sauce',92,'Pack','Deshome',Taiwan
+1502,1502,'Black Eyed Beans Noodle Spicy Soybean Sauce & Sesame Sauce',44,'Pack','Deshome',Taiwan
+1503,1503,'Aloe Noodle Red Onion & Sesame Sauce',68,'Pack','Deshome',Taiwan
+1504,1504,'Black Eyed Beans Noodle Vegetable Sauce & Sesame Sauce',16,'Pack','Deshome',Taiwan
+1505,1505,'Aloe Noodle With Basil Sauce',78,'Pack','Deshome',Taiwan
+1506,1506,'Pollen Noodles Sesame Sauce & Soy Sauce',98,'Pack','Deshome',Taiwan
+1507,1507,'Black Eyed Bean Noodle Red Onion Sauce & Sesame Sauce',63,'Pack','Deshome',Taiwan
+1508,1508,'Aloe Noodle With Spicy Soybean Sauce',7,'Pack','Deshome',Taiwan
+1509,1509,'Raoh Soy Sauce Taste',64,'Pack','Nissin',Japan
+1510,1510,'Premium Noodle House Pork & Seafood Flavor',4,'Pack','HoMyeonDang',South Korea
+1511,1511,'Raoh Rich Miso Flavor',18,'Bowl','Nissin',Japan
+1512,1512,'Oriental Instant Noodles Stir Fried Noodles',48,'Pack','Koka',Singapore
+1513,1513,'Cup Noodle Red Shock',87,'Cup','Nissin',Japan
+1514,1514,'1 Step-1 Minute Asian Noodles Pad Thai',93,'Pack','Tasty Bite',USA
+1515,1515,'1 Step-1 Minute Asian Noodles Kung Pao',94,'Pack','Tasty Bite',USA
+1516,1516,'1 Step-1 Minute Asian Noodles Mushroom Lo Mein',85,'Pack','Tasty Bite',USA
+1517,1517,'1 Step-1 Minute Asian Noodles Thai Basil',22,'Pack','Tasty Bite',USA
+1518,1518,'1 Step-1 Minute Asian Noodles Lemongrass Ginger',49,'Pack','Tasty Bite',USA
+1519,1519,'1 Step-1 Minute Asian Noodles Toasted Sesame',81,'Pack','Tasty Bite',USA
+1520,1520,'Happy Pho Vietnamese Brown Rice Noodle Soup Garlic Goodness',93,'Pack','Star Anise Foods',USA
+1521,1521,'Oriental Noodles Curry Flavour',33,'Pack','Mamee',Malaysia
+1522,1522,'Dry Noodle Mandarin Noodle - Original Sauce',31,'Pack','A-Sha Dry Noodle',Taiwan
+1523,1523,'Dry Noodle Hakka Noodle - Spicy Sesame Oil Sauce',11,'Pack','A-Sha Dry Noodle',Taiwan
+1524,1524,'Dry Noodle Mandarin Noodle - Onion Oil Sauce',72,'Pack','A-Sha Dry Noodle',Taiwan
+1525,1525,'Dry Noodle QQ Thin Noodle - BBQ Sauce',91,'Pack','A-Sha Dry Noodle',Taiwan
+1526,1526,'No. 10 Mandarin Noodle - Black Pepper Sauce',65,'Pack','A-Sha Dry Noodle',Taiwan
+1527,1527,'Dry Noodle Tainan Noodle - Sesame Sauce',40,'Pack','A-Sha Dry Noodle',Taiwan
+1528,1528,'Dry Noodle Hakka Noodle - Chili Sauce',92,'Pack','A-Sha Dry Noodle',Taiwan
+1529,1529,'Seimen Japanese Instant Ramen Noodles Soy Sauce Taste',82,'Pack','Maruchan',Japan
+1530,1530,'Japanese Pork Bone Flavour Quick Serve Macaroni',9,'Pack','Knorr',Hong Kong
+1531,1531,'Bowl Beef Simulated Flavor',35,'Bowl','Mr. Noodles',Canada
+1532,1532,'Cheese Bokki',69,'Cup','Ottogi',South Korea
+1533,1533,'Yakisoba Noodle',14,'Tray','New Touch',Japan
+1534,1534,'Stir Fry Noodles Japanese Style Noodles With Sauce',82,'Pack','Myojo',USA
+1535,1535,'Chow Mein Chicken',28,'Tray','Nissin',USA
+1536,1536,'Shin Ramyun Noodle Spicy Mushroom',77,'Bowl','Nongshim',China
+1537,1537,'Rice Vermicelli Satay Chicken',51,'Pack','Chewy',China
+1538,1538,'Potato Pork Ramyun',54,'Pack','Nongshim',China
+1539,1539,'Instant Noodles Super Chow Mein',2,'Pack','Ko-Lee',UK
+1540,1540,'Instant Noodles Vegetable Flavour',38,'Pack','Western Family',Canada
+1541,1541,'Bowl Hot & Spicy Shrimp Flavor Ramen Noodles With Vegetables',75,'Bowl','Maruchan',USA
+1542,1542,'Chanponmen',16,'Pack','Itomen',Japan
+1543,1543,'Dare You Habanero Jjamppong',30,'Pack','Emart',South Korea
+1544,1544,'Korean Style Spicy Shrimp Noodle Soup',42,'Bowl','Golden Wheat',China
+1545,1545,'Spicy Sichuan Flavor Instant Noodle',52,'Bowl','Wei Lih',Taiwan
+1546,1546,'Instant Noodles In A Cup Spicy Chicken',24,'Cup','Western Family',Canada
+1547,1547,'King Cup Noodle BBQ Chicken & Onion',34,'Cup','Nissin',Japan
+1548,1548,'Authentic Thai Cuisine Pad Thai',23,'Pack','Mama',Thailand
+1549,1549,'Premium Noodle House Don Ramyun',68,'Pack','HoMyeonDang',South Korea
+1550,1550,'60 Ingredients Assorted Vegetable SK Version',48,'Pack','Samyang Foods',South Korea
+1551,1551,'Nagasaki Crab Jjampong',22,'Pack','Samyang Foods',South Korea
+1552,1552,'Buldalk Bokkeummyeon (Hot Fried Chicken Ramyun)',48,'Pack','Samyang Foods',South Korea
+1553,1553,'Yukgaejang Beef Ramyun',98,'Bowl','Samyang Foods',South Korea
+1554,1554,'Bajirak Kalgugsu',57,'Pack','Samyang Foods',South Korea
+1555,1555,'Hot Chacharoni',77,'Pack','Samyang Foods',South Korea
+1556,1556,'Premium Noodle House Tofu Fried Noodle',49,'Pack','HoMyeonDang',South Korea
+1557,1557,'Samyang Ramyun',22,'Pack','Samyang Foods',South Korea
+1558,1558,'Premuim Noodle House Crab Jjampong',18,'Pack','HoMyeonDang',South Korea
+1559,1559,'Beef Flavor Ramyun (SK Version)',40,'Pack','Samyang Foods',South Korea
+1560,1560,'Nagasaki Jjampong',67,'Bowl','Samyang Foods',South Korea
+1561,1561,'Kimchi Ramyun (SK Version)',31,'Pack','Samyang Foods',South Korea
+1562,1562,'Ganjjampong',7,'Pack','Samyang Foods',South Korea
+1563,1563,'Sutah (SK Version)',98,'Pack','Samyang Foods',South Korea
+1564,1564,'Big Cup Noodles Habanero Lime Chicken Flavor Ramen Noodle Soup',21,'Cup','Nissin',USA
+1565,1565,'Oriental Style Ramen Noodle Soup',60,'Pack','Tradition',USA
+1566,1566,'King Spa Oh Peperoncino Spaghetti (日清生タイプSpa王 ペペロンチーノ)',9,'Bowl','Nissin',Japan
+1567,1567,'Oh! Ricey Hủ Tiếu Sườn Heo (Pork Spareribs Flavour)',22,'Pack','Vina Acecook',Vietnam
+1568,1568,'Good Noodles Oosterse Kip (Oriental Chicken)',47,'Pack','Unox',Holland
+1569,1569,'Bowl Hot & Spicy Chicken Flavor Ramen Noodles With Vegetables',89,'Bowl','Maruchan',USA
+1570,1570,'Korean Style Spicy Beef Noodle Soup',27,'Bowl','Golden Wheat',China
+1571,1571,'Instant Noodles In A Cup Oriental',57,'Cup','Western Family',Canada
+1572,1572,'Sesame Flavor Noodle Bowl',9,'Bowl','Ottogi',South Korea
+1573,1573,'Demae Ramen Sesame Oil Flavour Noodles With Soup Base',72,'Bowl','Nissin',Hong Kong
+1574,1574,'Barszcz czerwony (Borscht)',91,'Pack','Amino',Poland
+1575,1575,'Chicken Flavour',89,'Bowl','Four Seas',China
+1576,1576,'Artificial Pork Flavour',17,'Pack','Wai Wai',Thailand
+1577,1577,'Chow Mein Spicy Teriyaki Beef',49,'Tray','Nissin',USA
+1578,1578,'Bowl Spicy Chicken Simulated Flavour',62,'Bowl','Mr. Noodles',Canada
+1579,1579,'ДОШИРАК (Dosirac) Beef Flavor',66,'Pack','Paldo',South Korea
+1580,1580,'Yakisoba Beef Taco Flavor',13,'Tray','Maruchan',USA
+1581,1581,'Tony's Doner Kebab',19,'Cup','Pot Noodle',UK
+1582,1582,'Shin Ramyun Black Spicy Beef',81,'Cup','Nongshim',South Korea
+1583,1583,'Miso Stew Instant Udon (Winter)',58,'Pack','Sakurai Foods',Japan
+1584,1584,'Bowl Chicken Flavor',33,'Bowl','Maruchan',USA
+1585,1585,'Instant Noodles Beef',13,'Pack','Ko-Lee',UK
+1586,1586,'Tom Yum Shrimp Flavour',2,'Pack','Wai Wai',Thailand
+1587,1587,'Sate',49,'Pack','Unox',Holland
+1588,1588,'Singapore Laksa La Mian',68,'Pack','Prima Taste',Singapore
+1589,1589,'Singapore Curry La Mian',73,'Pack','Prima Taste',Singapore
+1590,1590,'Pan Asian Kitchen Spicy Pad Thai',23,'Tray','Nissin',USA
+1591,1591,'Gonghwachun Jjamppong',68,'Pack','GS25',South Korea
+1592,1592,'Ogorkowa',40,'Pack','Amino',Poland
+1593,1593,'Singapore Soft Noodles',7,'Pack','Trident',Australia
+1594,1594,'Jong-Gah-Jip Kimchi Ramen',71,'Pack','Paldo',South Korea
+1595,1595,'Go Noodles Thai Hot & Spicy Tom Yum',51,'Cup','Ko-Lee',UK
+1596,1596,'Ramen Shoyu Flavor',75,'Tray','Sun Noodle',USA
+1597,1597,'Tantanmen Spicy Sesame (Mild)',89,'Tray','Sun Noodle',USA
+1598,1598,'Ramen Miso Flavor',10,'Tray','Sun Noodle',USA
+1599,1599,'Saimin',18,'Pack','S&S',USA
+1600,1600,'Cold Ramen Soy Sauce Vinaigrette',70,'Tray','Sun Noodle',USA
+1601,1601,'Nama Soba Buckwheat Noodle',91,'Tray','Sun Noodle',USA
+1602,1602,'Ramen Pork Flavor',44,'Tray','Sun Noodle',USA
+1603,1603,'Yakisoba',24,'Pack','Sun Noodle',USA
+1604,1604,'Donbei Tensoba',82,'Bowl','Nissin',Japan
+1605,1605,'Spaghetti Ramen',12,'Bowl','Ottogi',South Korea
+1606,1606,'Chilli Beef Flavour',54,'Cup','Pot Noodle',UK
+1607,1607,'Ramen House Spicy Chicken Ramen',31,'Pack','Annie Chun's',USA
+1608,1608,'Spinach With Organic Noodles',44,'Pack','Springlife',China
+1609,1609,'Soup Bowl Chinese Chicken',48,'Bowl','Annie Chun's',USA
+1610,1610,'Noodle Express Spicy Szechuan',34,'Tray','Annie Chun's',USA
+1611,1611,'Soup Bowl Vietnamese Pho',95,'Bowl','Annie Chun's',USA
+1612,1612,'Noodle Express Teriyaki',6,'Tray','Annie Chun's',USA
+1613,1613,'Soup Bowl South Korean Kimchi',27,'Bowl','Annie Chun's',USA
+1614,1614,'Ramen House Spring Vegetable Ramen',34,'Pack','Annie Chun's',USA
+1615,1615,'Noodle Express Chinese Chow Mein',43,'Tray','Annie Chun's',USA
+1616,1616,'Raoh Backfat Rich Soy Sauce Flavor',54,'Bowl','Nissin',Japan
+1617,1617,'Mr. Chu’s Golden Noodle No. 7 Sticky Rib',47,'Cup','Pot Noodle',UK
+1618,1618,'Bowl Noodle Soup Spicy Seafood Flavor (New Version)',42,'Bowl','Nongshim',USA
+1619,1619,'Chow Mein Soft Noodles',81,'Pack','Trident',Australia
+1620,1620,'Bowl Noodles Hot & Spicy Super Picante',50,'Bowl','Nissin',USA
+1621,1621,'ARCHE Naturküche Ramen Mit Ingwer',46,'Pack','Sakurai Foods',Japan
+1622,1622,'Soy Sauce Ramen',55,'Bowl','Sakurai Foods',Japan
+1623,1623,'100% Vegetarian Soy Sauce Flavor',51,'Pack','Sakurai Foods',Japan
+1624,1624,'Sesame Noodles',32,'Pack','Sakurai Foods',Japan
+1625,1625,'Miso Ramen',70,'Bowl','Sakurai Foods',Japan
+1626,1626,'ARCHE Naturküche Japanische Nudelsuppe',42,'Pack','Sakurai Foods',Japan
+1627,1627,'Soy Sauce Ramen',84,'Pack','Sakurai Foods',Japan
+1628,1628,'Sweet & Spicy',4,'Cup','Pot Noodle',UK
+1629,1629,'Pomidorowa (Mild Tomato)',41,'Pack','Vifon',Poland
+1630,1630,'Kiss Myon',30,'Cup','Ottogi',South Korea
+1631,1631,'Instant Noodles Chicken ',51,'Pack','Ko-Lee',UK
+1632,1632,'Hot & Spicy 2 Minute Noodles',2,'Pack','Trident',Australia
+1633,1633,'Yakisoba Jalapeno Cheddar',36,'Tray','Maruchan',USA
+1634,1634,'Dr. McDougall's Vegan Chicken Ramen',14,'Cup','Right Foods',USA
+1635,1635,'Jamaican Jerk!',19,'Cup','Pot Noodle',UK
+1636,1636,'Oriental Style Instant Noodles (Dry method)',81,'Pack','Wai Wai',Thailand
+1637,1637,'Zurek',50,'Pack','Amino',Poland
+1638,1638,'E-men Lobster Soup',72,'Pack','Kamfen',China
+1639,1639,'Go Noodles Chicken Special',87,'Pack','Ko-Lee',UK
+1640,1640,'Sour Soup Flavor',98,'Pack','Wai Wai',Thailand
+1641,1641,'Sweet & Sour',92,'Cup','Pot Noodle',UK
+1642,1642,'Yakisoba Four Cheese',28,'Tray','Maruchan',USA
+1643,1643,'Shrimp (TOM YUM)',11,'Pack','Mama',Thailand
+1644,1644,'Mild Tonkotsu',12,'Pack','Yamachan',USA
+1645,1645,'Beef',6,'Cup','Maruchan',USA
+1646,1646,'Jinjja Jinjja Flamin' Hot & Nutty',97,'Pack','Nongshim',USA
+1647,1647,'Kokomen Spicy Chicken',17,'Cup','Paldo',South Korea
+1648,1648,'Namja Ramen (USA version)',90,'Pack','Paldo',South Korea
+1649,1649,'dried Mix Noodles Soya Bean Paste',72,'Tray','Kamfen',China
+1650,1650,'35% Less Sodium Beef',85,'Cup','Maruchan',USA
+1651,1651,'Good Artificial Minced Pork Bean Vermicelli',85,'Pack','Vina Acecook',Vietnam
+1652,1652,'Dried Mix Noodles Artificial Spicy Pork',93,'Tray','Kamfen',China
+1653,1653,'Kokomen Spicy Chicken',9,'Bowl','Paldo',South Korea
+1654,1654,'VegeMee Vegetarian Flavour',96,'Pack','Ibumie',Malaysia
+1655,1655,'Dare You! Habanero Ramen',6,'Pack','Emart',South Korea
+1656,1656,'35% Less Sodium Chicken',10,'Pack','Maruchan',USA
+1657,1657,'LadMee Hot Pepper',17,'Pack','Ibumie',Malaysia
+1658,1658,'Shitake Mushroom Vernicalli',8,'Bowl','Sunlee',Thailand
+1659,1659,'Jjajang Bokki',46,'Bowl','Ottogi',South Korea
+1660,1660,'Hot & Spicy Udon',40,'Pack','Shirakiku',USA
+1661,1661,'35% Less Sodium Beef',36,'Pack','Maruchan',USA
+1662,1662,'Tempura Udon Flavor Cup Ramyun',45,'Cup','Nongshim',South Korea
+1663,1663,'Good Chicken Abalone Bean Vermicelli',95,'Pack','Vina Acecook',Vietnam
+1664,1664,'Seafood Flavor Japanese Noodles',79,'Bowl','Goku Uma',Japan
+1665,1665,'Casserole Beef Flavour',34,'Pack','Wai Wai',Thailand
+1666,1666,'Ramen Shop Sapporo Miso',57,'Pack','Nissin',Japan
+1667,1667,'Spicy Shrimp Cup Ramyun',64,'Cup','Nongshim',South Korea
+1668,1668,'Instant Lunch Shrimp',88,'Cup','Maruchan',USA
+1669,1669,'Top Ramen Cucharealo Habanero Shrimp',32,'Pack','Nissin',USA
+1670,1670,'Namja Ramyun',12,'Bowl','Paldo',South Korea
+1671,1671,'Kriuuk Bawang',72,'Pack','Indomie',Indonesia
+1672,1672,'Original Flavor',54,'Cup','Sapporo Ichiban',USA
+1673,1673,'Neoguri Spicy Seafood',74,'Cup','Nongshim',South Korea
+1674,1674,'Kari 365 Curry Flavour',36,'Pack','Daddy',Malaysia
+1675,1675,'Vegetable Instant Noodle soup',15,'Cup','Tradition',USA
+1676,1676,'Ippei-chan Yomise-No Yakisoba Oriental',81,'Tray','Myojo',Japan
+1677,1677,'Rice Noodle With Seafood Flavored Soup',52,'Tray','Han's South Korea',South Korea
+1678,1678,'Pho Bo Beef Flavour Rice Stick',45,'Bowl','Sunlee',Thailand
+1679,1679,'Rasa Ayam Bawang',19,'Pack','Sarimi',Indonesia
+1680,1680,'Instant Lunch Chicken',9,'Cup','Maruchan',USA
+1681,1681,'Chow Tomato ',58,'Pack','FMF',Fiji
+1682,1682,'Crystal Noodles Savory Shoyu',62,'Cup','Long Kow',China
+1683,1683,'Chow Masala',97,'Pack','FMF',Fiji
+1684,1684,'Good Tomyum Kung Bean Vermicelli',51,'Pack','Vina Acecook',Vietnam
+1685,1685,'Sedaaap Mi Goreng',19,'Pack','SuperMi',Indonesia
+1686,1686,'Rice Noodle With Kimchi Flavored Soup',97,'Tray','Han's South Korea',South Korea
+1687,1687,'Bowl Noodle Shrimp Flavor',80,'Bowl','Paldo',South Korea
+1688,1688,'Selera Pedas Hot Tomato Soup Flavor',46,'Pack','ABC',Indonesia
+1689,1689,'Hao Hao Mushroom',63,'Pack','Vina Acecook',Vietnam
+1690,1690,'Mushroom Flavor Ramen Noodles',86,'Pack','Unif / Tung-I',Vietnam
+1691,1691,'Rich Shoyu Ramen',89,'Pack','Yamachan',USA
+1692,1692,'Nagasaki Sara Udon Chicken ',51,'Pack','Yamachan',USA
+1693,1693,'Cold Noodles With Lemon Soy Dressing',97,'Pack','Yamachan',USA
+1694,1694,'Tonkotsu-Shoyu Rich Pork Flavor Ramen',93,'Pack','Yamachan',USA
+1695,1695,'Miso Ramen Rich Sapporo Miso',88,'Pack','Yamachan',USA
+1696,1696,'Miso Ramen - Mild',95,'Pack','Yamachan',USA
+1697,1697,'Shio Ramen Seafood Mild',60,'Pack','Yamachan',USA
+1698,1698,'GoBang',47,'Pack','SuperMi',Indonesia
+1699,1699,'Rice Noodle With Hot & Spicy',88,'Tray','Han's South Korea',South Korea
+1700,1700,'South Korean Style Seafood',63,'Cup','Golden Wheat',China
+1701,1701,'Rice Topokki',91,'Bowl','Song Hak',South Korea
+1702,1702,'Top Ramen Short Cuts Lime Chili',62,'Pack','Nissin',USA
+1703,1703,'Shin Bowl (New)',18,'Bowl','Nongshim',USA
+1704,1704,'Soto Koya Pedasss',57,'Pack','Sarimi',Indonesia
+1705,1705,'Artificial Chicken Rice Vermicelli',45,'Bowl','Sunlee',Thailand
+1706,1706,'Nabeyaki Udon',43,'Bowl','Fuji Mengyo',Japan
+1707,1707,'Viet Rice Noodles Chicken',69,'Pack','Vifon',Vietnam
+1708,1708,'Chapagetti',87,'Bowl','Nongshim',USA
+1709,1709,'Artificial Hot & Sour Shrimp',68,'Pack','Dragonfly',China
+1710,1710,'Mi Keriting Rasa Ayam Bawang',87,'Pack','SuperMi',Indonesia
+1711,1711,'Good Chicken Bean Vermicelli',96,'Pack','Vina Acecook',Vietnam
+1712,1712,'Katsuobushi Udon',60,'Bowl','CJ CheilJedang',South Korea
+1713,1713,'Rasa Coto Makassar',20,'Pack','Indomie',Indonesia
+1714,1714,'Mianba',31,'Pack','Master Kong',China
+1715,1715,'Stewed Duck',28,'Cup','Little Cook',Thailand
+1716,1716,'Chinese Spices Tong Tsai Bean Vermicelli',31,'Pack','Unif / Tung-I',Taiwan
+1717,1717,'Special Fried Curly Noodle (Local)',76,'Pack','Indomie',Indonesia
+1718,1718,'Top Ramen Short Cuts Roast Chicken',39,'Pack','Nissin',USA
+1719,1719,'Hao Hao Mi Chay Vegetarian',28,'Pack','Vina Acecook',Vietnam
+1720,1720,'Artificial Pickled Cabbage Fish',92,'Pack','Baijia',China
+1721,1721,'Imitation Chicken Vegetarian',25,'Cup','Tradition',USA
+1722,1722,'Rasa Mi Cakalang',65,'Pack','Indomie',Indonesia
+1723,1723,'Seafood Vermicelli Anchovy',15,'Bowl','Sempio',South Korea
+1724,1724,'Mushroom Vegetarian',21,'Bowl','Little Cook',Thailand
+1725,1725,'Bestcook Hot & Sour Shrimp',6,'Bowl','Vina Acecook',Vietnam
+1726,1726,'Crystal Noodles Hot & Sour',38,'Bowl','Long Kow',China
+1727,1727,'RaUdong Unfried Noodle With Kimchi',87,'Bowl','Dongwon',South Korea
+1728,1728,'Sedaaap Mi Kuah Rasa Kari Ayam',38,'Pack','SuperMi',Indonesia
+1729,1729,'Artificial Pork Ribs',5,'Bowl','Dragonfly',China
+1730,1730,'Top Ramen Short Cuts Chicken',52,'Pack','Nissin',USA
+1731,1731,'Top Ramen Cucharealo Tomato Chicken',82,'Pack','Nissin',USA
+1732,1732,'South Korean Style Spicy Pork',33,'Cup','Golden Wheat',China
+1733,1733,'Sansai Soba Edible Wld Plant',51,'Bowl','Itomen',Japan
+1734,1734,'Mi Kim Chee',32,'Pack','Vifon',Vietnam
+1735,1735,'Doong Ji Cold Noodle Chilled Broth',25,'Pack','Nongshim',South Korea
+1736,1736,'2 Minute Noodles Perencah Asam Laksa',52,'Pack','Maggi',Malaysia
+1737,1737,'Top Ramen Short Cuts Beef',75,'Pack','Nissin',USA
+1738,1738,'Artificial Stew Beef',10,'Bowl','JML',China
+1739,1739,'Chapagetti (South Korean)',22,'Pack','Nongshim',South Korea
+1740,1740,'Stir Rice Vermicelli Singaporean Laksa',41,'Tray','Chewy',China
+1741,1741,'Mild Bean Curd Stew',16,'Cup','CJ CheilJedang',South Korea
+1742,1742,'Soto Koya Gurih',84,'Pack','Sarimi',Indonesia
+1743,1743,'Top Ramen Cucharealo Picante Chicken',75,'Pack','Nissin',USA
+1744,1744,'Mi Chay Vegetarian',27,'Pack','Binh Tay',Vietnam
+1745,1745,'Shrimp',49,'Pack','Mr. Noodles',Canada
+1746,1746,'Mi Goreng Kriuuk Pedas',17,'Pack','Indomie',Indonesia
+1747,1747,'Vegetarian',13,'Pack','Wai Wai',Thailand
+1748,1748,'Mee Goreng Dry Ramen Noodles',20,'Pack','Dragonfly',China
+1749,1749,'Instant Porridge Chicken',62,'Pack','Vifon',Vietnam
+1750,1750,'Seven & I Shoyu',10,'Cup','Seven-Eleven',Japan
+1751,1751,'Kko Kko Myun King Cup',43,'Bowl','Paldo',South Korea
+1752,1752,'Seolleongtangmyeon',83,'Pack','Paldo',South Korea
+1753,1753,'Rabokki',90,'Pack','Paldo',South Korea
+1754,1754,'Namja',26,'Pack','Paldo',South Korea
+1755,1755,'Shoyu',49,'Cup','Paldo',Japan
+1756,1756,'Bibim Men Cucumber',6,'Pack','Paldo',South Korea
+1757,1757,'Kokomen Spicy Chicken',59,'Pack','Paldo',South Korea
+1758,1758,'Speed King Bowl (Prototype)',30,'Bowl','Paldo',South Korea
+1759,1759,'Potatoes & Stewed Beef',23,'Pack','Master Kong',China
+1760,1760,'Tom Yum Shrimp Rice Stick',41,'Bowl','Sunlee',Thailand
+1761,1761,'Tempura Soba',14,'Pack','Maruchan',Japan
+1762,1762,'Sedaaap Mi Kuah Rasa Soto',35,'Pack','SuperMi',Indonesia
+1763,1763,'Bowl Ramen Shrimp',81,'Bowl','Souper',Taiwan
+1764,1764,'Oh! Ricey Phnom Penh Rice Noodle',34,'Pack','Vina Acecook',Vietnam
+1765,1765,'Stewde Chicken Of Mushroom',73,'Cup','Chencun',China
+1766,1766,'Beef',73,'Pack','Indomie',Indonesia
+1767,1767,'Spicy Chicken',10,'Pack','Mr. Noodles',Canada
+1768,1768,'Spicy Beef',25,'Pack','Master Kong',China
+1769,1769,'Vegetable',33,'Pack','Mr. Noodles',Canada
+1770,1770,'Selera Pedas Mi Goreng Hot Chicken Lemon',69,'Pack','ABC',Indonesia
+1771,1771,'Neoguri Mild (South Korea)',62,'Pack','Nongshim',South Korea
+1772,1772,'Vegetarian Tom Yum',36,'Bowl','Kim's Bowl',Thailand
+1773,1773,'Super Rasa Ayam Bawang',44,'Pack','SuperMi',Indonesia
+1774,1774,'Hot Spicy Bowl With Soy Peptide',68,'Bowl','Ohsung',South Korea
+1775,1775,'Super Big Ramen Soy Sauce',64,'Bowl','Acecook',Japan
+1776,1776,'Abalone Chicken',31,'Cup','Little Cook',Thailand
+1777,1777,'Premium Taste Roasted Beef',85,'Bowl','Master Kong',China
+1778,1778,'Isi 2 Mi Goreng Rasa Ayam Kecap',83,'Pack','Sarimi',Indonesia
+1779,1779,'Hot Sour Shrimp',12,'Pack','Gau Do',Vietnam
+1780,1780,'Chicken',51,'Pack','Mr. Noodles',Canada
+1781,1781,'Bowl Noodle Savory Chicken (New)',98,'Bowl','Nongshim',USA
+1782,1782,'South Korean Style Pork',55,'Cup','Golden Wheat',China
+1783,1783,'Vegetable',28,'Pack','Golden Mie',Dubai
+1784,1784,'Kingcook Vegetable',55,'Pack','Vina Acecook',Vietnam
+1785,1785,'Red Oil Dan Dan',63,'Tray','Master Kong',China
+1786,1786,'Soto Koya Jeruk Nipis',90,'Pack','Sarimi',Indonesia
+1787,1787,'Spicy Beef',37,'Pack','Mr. Noodles',Canada
+1788,1788,'Bowl Noodle Spicy Chicken (New)',51,'Bowl','Nongshim',USA
+1789,1789,'Super Big Ramen Tonkotsu',50,'Bowl','Acecook',Japan
+1790,1790,'Shiitake & Soy Sauce',2,'Pack','GreeNoodle',Thailand
+1791,1791,'GoKar',51,'Pack','SuperMi',Indonesia
+1792,1792,'100 Beef With Sauerkraut',50,'Pack','Uni-President',Taiwan
+1793,1793,'Ramen E Ramen White Broth',86,'Pack','Emart',South Korea
+1794,1794,'Beef',2,'Pack','Mr. Noodles',Canada
+1795,1795,'Isi 2 Rasa Soto',34,'Pack','Sarimi',Indonesia
+1796,1796,'Cai Lin Ji Dry Noodles',61,'Tray','Hankow',China
+1797,1797,'Cup Noodles Salsa Picante Chicken',3,'Cup','Nissin',USA
+1798,1798,'Bowl Noodle Savory Shrimp (New)',73,'Bowl','Nongshim',USA
+1799,1799,'Kingcook Beef',24,'Pack','Vina Acecook',Vietnam
+1800,1800,'Jin Ramen (Mild) (Import)',9,'Pack','Ottogi',South Korea
+1801,1801,'Mi Goreng Kriuuk Ayam',30,'Pack','Indomie',Indonesia
+1802,1802,'Express Cup Curry',77,'Cup','Mamee',Malaysia
+1803,1803,'Oriental',65,'Pack','Mr. Noodles',Canada
+1804,1804,'Isi 2 Rasa Kari spesial',85,'Pack','Sarimi',Indonesia
+1805,1805,'Seafood',40,'Bowl','JML',China
+1806,1806,'Rasa Sup Sayuran Vegan',79,'Pack','Indomie',Indonesia
+1807,1807,'TVP Stewed Pork',70,'Bowl','Little Cook',Thailand
+1808,1808,'Bowl Noodle Hot & Spicy Beef (New)',9,'Pack','Nongshim',USA
+1809,1809,'Mi Kuah Rasa Ayam Bawang',51,'Pack','Mi Sedaap',Indonesia
+1810,1810,'Chicken',25,'Pack','Kailo',Hong Kong
+1811,1811,'Cup Noodles Shrimp Picante Style',27,'Cup','Nissin',USA
+1812,1812,'Oriental',46,'Bowl','Fashion Foods',Thailand
+1813,1813,'Mushroom Vegetarian',28,'Bowl','Fashion Foods',Thailand
+1814,1814,'Beef Pho',14,'Bowl','Fashion Foods',Thailand
+1815,1815,'Kuah Rice Noodles',37,'Pack','Super Bihun',Indonesia
+1816,1816,'Seafood Noodle Cup',57,'Bowl','Sempio',South Korea
+1817,1817,'2 Minute Noodles Tricky Tomato',53,'Pack','Maggi',India
+1818,1818,'Kimchi Pickle Bean Vermicelli',33,'Pack','Long Kow',Taiwan
+1819,1819,'Garlic Vegetable Rice Noodle',73,'Pack','Thai Kitchen',USA
+1820,1820,'Big Cup Noodles Roast Chicken',21,'Cup','Nissin',USA
+1821,1821,'Bowl Noodle Savory Lobster (New)',91,'Bowl','Nongshim',USA
+1822,1822,'Artificial Stew Pork',53,'Bowl','JML',China
+1823,1823,'Mi Goreng Vegan',2,'Pack','Indomie',Indonesia
+1824,1824,'Bikkuchigekara Big Chige',95,'Bowl','Daikoku',Japan
+1825,1825,'Udon ',22,'Bowl','Nongshim',South Korea
+1826,1826,'Ansungtangmyun (US Version)',86,'Pack','Nongshim',USA
+1827,1827,'Soba',94,'Pack','Nongshim',South Korea
+1828,1828,'Bowl Noodle Savory Tempura Udon',11,'Bowl','Nongshim',USA
+1829,1829,'Shin Ramyun Black Onion',26,'Cup','Nongshim',South Korea
+1830,1830,'Bowl Noodle Spicy Kimchi (New)',35,'Bowl','Nongshim',USA
+1831,1831,'Chow Mein (New)',26,'Pack','Sapporo Ichiban',USA
+1832,1832,'Naengmyeon Combo',2,'Bowl','Hosoonyi',USA
+1833,1833,'Spoon-it Chicken',90,'Pack','Nissin',USA
+1834,1834,'Artificial Mushroom Chicken',94,'Bowl','JML',China
+1835,1835,'Jinjja Jinjja',78,'Pack','Nongshim',South Korea
+1836,1836,'Instant Mami Beef',11,'Pack','Payless',Philippines
+1837,1837,'Express Cup Tom Yum',79,'Cup','Mamee',Malaysia
+1838,1838,'chicken',50,'Pack','Golden Mie',Dubai
+1839,1839,'Good Good Eat Super Ramen Vegetable',67,'Pack','Wei Lih',Taiwan
+1840,1840,'Mi Goreng Sate (Local)',3,'Pack','Indomie',Indonesia
+1841,1841,'Artificial Spicy Beef',9,'Bowl','JML',China
+1842,1842,'U.F.O. Yakiosoba',87,'Bowl','Nissin',Japan
+1843,1843,'Chicken Shrimp',3,'Pack','Gau Do',Vietnam
+1844,1844,'Yakisoba Spicy Vegetable',66,'Tray','Maruchan',USA
+1845,1845,'Odongtong Myon Seafood',80,'Bowl','Ottogi',South Korea
+1846,1846,'Mi Goreng Rasa Ayam Panggang Jumbo (Local)',74,'Pack','Indomie',Indonesia
+1847,1847,'Rasa Soto Betawi',72,'Pack','Indomie',Indonesia
+1848,1848,'Curly Noodle With Chicken Chilli Paddi',97,'Pack','Indomie',Indonesia
+1849,1849,'Rasa Mi Kocok Bandung',26,'Pack','Indomie',Indonesia
+1850,1850,'Rasa Soto Banjar Limau Kulit',61,'Pack','Indomie',Indonesia
+1851,1851,'Mi Goreng Jumbo Beef',67,'Pack','Indomie',Indonesia
+1852,1852,'Rasa Kari Ayam Medan',3,'Pack','Indomie',Indonesia
+1853,1853,'Rasa Empal Gentong',12,'Pack','Indomie',Indonesia
+1854,1854,'Mi Goreng Cakalang',13,'Pack','Indomie',Indonesia
+1855,1855,'Mi Goreng Instant Cup Noodles',6,'Cup','Indomie',Indonesia
+1856,1856,'Curly Noodle With Laksa Chilli',98,'Pack','Indomie',Indonesia
+1857,1857,'Mi Goreng Barbecue Chicken',25,'Pack','Indomie',Indonesia
+1858,1858,'Seafood Ramen',53,'Bowl','Yamamoto',Japan
+1859,1859,'Bowl Noodle Savory Beef',3,'Bowl','Nongshim',USA
+1860,1860,'Chicken Curry',20,'Pack','Golden Mie',Dubai
+1861,1861,'Spoon-it Beef',70,'Pack','Nissin',USA
+1862,1862,'Kiss Myon',19,'Pack','Ottogi',South Korea
+1863,1863,'Ramen Bowl Spicy Chicken',47,'Bowl','Nissin',USA
+1864,1864,'Hu Tieu Ca Stewed Fish',66,'Bowl','Vifon',Vietnam
+1865,1865,'Mi Goreng Rendang (Import)',12,'Pack','Indomie',Indonesia
+1866,1866,'Nature Is Delicious Spicy',16,'Pack','Pulmuone',South Korea
+1867,1867,'Spoon-it Creamy Chicken',28,'Pack','Nissin',USA
+1868,1868,'Seaweed',80,'Bowl','Four Seas',Hong Kong
+1869,1869,'Hearty Rice Noodle Beef',71,'Pack','Nongshim',South Korea
+1870,1870,'Kung Fu Mixed Foods',89,'Bowl','Saigon Ve Wong',Vietnam
+1871,1871,'Chow Mein Spicy Chicken',25,'Tray','Nissin',USA
+1872,1872,'Pork Flavor Ramen',16,'Pack','Wu Mu',Taiwan
+1873,1873,'Noodle Soup Spicy Beef Garlic Onion',98,'Bowl','Mee Jang',Thailand
+1874,1874,'Man Han Feast Spring Onion Eel',49,'Bowl','Unif',Taiwan
+1875,1875,'South Korean Style Beef',10,'Cup','Golden Wheat',China
+1876,1876,'Chow Mein Chinese Chicken Vegetable',3,'Tray','Nissin',USA
+1877,1877,'Spoon-it Rich Hearty Beef Stew',70,'Pack','Nissin',USA
+1878,1878,'Demae Ramen Black Garlic Oil Tonkotsu',57,'Pack','Nissin',Japan
+1879,1879,'Big Cup Noodles Lime Chili Shrimp',54,'Cup','Nissin',USA
+1880,1880,'Chikin Ramen (Local)',65,'Pack','Nissin',Japan
+1881,1881,'Cup Noodles Salsa Picante Shrimp',78,'Cup','Nissin',USA
+1882,1882,'Chow Mein Orange Chicken',37,'Tray','Nissin',USA
+1883,1883,'Spoon-it Rich Hearty Savory Chicken',93,'Pack','Nissin',USA
+1884,1884,'Big Cup Noodles Spicy Chicken',92,'Cup','Nissin',USA
+1885,1885,'Japanese Style Noodle Curry',49,'Bowl','JFC',Japan
+1886,1886,'Kingcook Chicken',69,'Pack','Vina Acecook',Vietnam
+1887,1887,'Stir Rice Vermicelli Indonesian Gado Gado',38,'Tray','Chewy',China
+1888,1888,'Assorted Vegetable Ramen',67,'Pack','Samyang',South Korea
+1889,1889,'Express Cup Vegetarian',20,'Cup','Mamee',Malaysia
+1890,1890,'Yakisoba Savory Soy Sauce',51,'Tray','Maruchan',USA
+1891,1891,'Noodle Soup Sour Spicy Shrimp Tom Yum',12,'Bowl','Mee Jang',Thailand
+1892,1892,'Hong Ramyun Soy Peptide Hot Spicy',12,'Pack','Ohsung',South Korea
+1893,1893,'Cup Noodles Xo Sauce Seafood',46,'Cup','Nissin',Hong Kong
+1894,1894,'Mi Segera Mi Goreng Perisa Sambal Goreng',35,'Pack','Mi Sedaap',Indonesia
+1895,1895,'Rasa Sup Buntut Oxtail Soup',59,'Pack','Indomie',Indonesia
+1896,1896,'Artificial Seafood',25,'Pack','Dragonfly',China
+1897,1897,'Udon Garlic Teriyaki',55,'Pack','Nongshim',South Korea
+1898,1898,'Instant Cup Noodles Mi Goreng Satay',22,'Cup','Indomie',Indonesia
+1899,1899,'Hearty Rice Noodle Black Bean Vegetable',83,'Pack','Nongshim',South Korea
+1900,1900,'Kingcook Shrimp',32,'Pack','Vina Acecook',Vietnam
+1901,1901,'Express Cup Fried Onion Chicken',95,'Cup','Mamee',Malaysia
+1902,1902,'Kitsune Udon',58,'Bowl','Wang',South Korea
+1903,1903,'Shin Ramyun Shrimp',15,'Pack','Nongshim',China
+1904,1904,'Spicy Coconut Shrimp',52,'Pack','Indomie',Indonesia
+1905,1905,'Nagasaki Jjampong',63,'Pack','Samyang',South Korea
+1906,1906,'Kko Kko Myun',61,'Pack','Paldo',South Korea
+1907,1907,'Hong Ramyun Soup Soy Peptide Mild',58,'Pack','Ohsung',South Korea
+1908,1908,'Chicken',93,'Pack','Mug Shot',UK
+1909,1909,'Spicy Sweet & Sour',30,'Pack','Mug Shot',UK
+1910,1910,'Kung Fu Artificial Chicken Rice Noodle',64,'Bowl','Saigon Ve Wong',Vietnam
+1911,1911,'Gozen Tempura',23,'Bowl','Nissin',Japan
+1912,1912,'Kung Fu Vegetarian',56,'Bowl','Saigon Ve Wong',Vietnam
+1913,1913,'Ramen Bowl Kimchi',84,'Bowl','Nissin',USA
+1914,1914,'Black Rooster Chicken',78,'Pack','Lishan',Taiwan
+1915,1915,'Moo Nam Tok Rice Vermicelli',72,'Pack','Mama',Thailand
+1916,1916,'Bangkok Curry Rice Noodle',19,'Pack','Thai Kitchen',USA
+1917,1917,'Jjajangmen Black Bean',38,'Pack','Paldo',South Korea
+1918,1918,'Shokuh Kitsune Udon',58,'Bowl','Daikoku',Japan
+1919,1919,'Ponpoko Tempura Soba',6,'Bowl','Yamamoto',Japan
+1920,1920,'Beef Na Beef',66,'Pack','Lucky Me!',Philippines
+1921,1921,'Ramen Bowl Spicy Shrimp',76,'Bowl','Nissin',USA
+1922,1922,'Hwa King Cup',80,'Cup','Paldo',South Korea
+1923,1923,'Onion',61,'Pack','Dragonfly',China
+1924,1924,'Ramen Bowl Hot & Spicy',95,'Bowl','Nissin',USA
+1925,1925,'Mie Telor Asli',59,'Pack','Cap Atoom Bulan',Indonesia
+1926,1926,'Sour Spicy Chicken Tom Yum',31,'Bowl','Mee Jang',Thailand
+1927,1927,'Artificial Pork Ribs',33,'Pack','Dragonfly',China
+1928,1928,'Shio',40,'Pack','Sapporo Ichiban',Japan
+1929,1929,'Mi Segera Mi Sup Perisa Kari Ayam',63,'Pack','Mi Sedaap',Indonesia
+1930,1930,'Artificial Chicken',98,'Pack','Dragonfly',China
+1931,1931,'Chicken & Mushroom',74,'Cup','Pot Noodle',UK
+1932,1932,'Seafood Ramyun',11,'Pack','Nongshim',South Korea
+1933,1933,'Tom Yum Shrimp Noodle',30,'Bowl','Sunlee',Thailand
+1934,1934,'Shoyu',60,'Bowl','Yamamoto',Japan
+1935,1935,'Oolongmen Artificial Chicken',95,'Cup','Nongshim',South Korea
+1936,1936,'Knife Cut Rice Noodle',53,'Bowl','Sura',South Korea
+1937,1937,'Miso Vegetables',72,'Pack','Wei Chuan',Taiwan
+1938,1938,'Spicy Beef',31,'Cup','Little Cook',Thailand
+1939,1939,'Hao Hao Shrimp Onion',13,'Pack','Vina Acecook',Vietnam
+1940,1940,'Artificial Spicy Beef',30,'Pack','Master Kong',China
+1941,1941,'Gozen Kitsune Udon',38,'Bowl','Nissin',Japan
+1942,1942,'Yakisoba',8,'Pack','GreeNoodle',Thailand
+1943,1943,'Chinese Mushroom Rice Noodle',76,'Cup','Snapdragon',Singapore
+1944,1944,'Tom Yam Ramen Pork',33,'Pack','Yamamori',Japan
+1945,1945,'Buckwheat Bibim Ramyon',10,'Pack','Ottogi',South Korea
+1946,1946,'Sichuan Hot Pot Sweet Potato Thread',20,'Bowl','Baijia',China
+1947,1947,'Seafood Selection',60,'Pack','Mr. Udon',South Korea
+1948,1948,'Japanese Miso',13,'Pack','Mr. Udon',South Korea
+1949,1949,'XO Sauce',45,'Bowl','Fashion Foods',Thailand
+1950,1950,'Kung Fu Artificial Mushroom Pork',61,'Bowl','Ve Wong',Taiwan
+1951,1951,'Artificial Braised Beef',62,'Pack','Master Kong',China
+1952,1952,'Supreme La Paz Batchoy Beef Garlic',93,'Bowl','Lucky Me!',Philippines
+1953,1953,'Spaghetti',30,'Pack','Omachi',Vietnam
+1954,1954,'Yeul Hot Taste',30,'Bowl','Ottogi',South Korea
+1955,1955,'Bombay Bad Boy',68,'Cup','Pot Noodle',UK
+1956,1956,'Artificial Pork',78,'Pack','Master Kong',China
+1957,1957,"'""A"" Series Vegetarian'",69,'Pack','Wei Wei',Taiwan
+1958,1958,'My Friend Vic Tanuki Udon',54,'Bowl','Daikoku',Japan
+1959,1959,'Jin Ramen Big Bowl (Hot)',61,'Bowl','Ottogi',South Korea
+1960,1960,'Phu Gia Bamboo Shoot Artificial Pork Bean Thread',4,'Pack','Vifon',Vietnam
+1961,1961,'Ponpoko Tempura Udon',18,'Bowl','Yamamoto',Japan
+1962,1962,'Cold Noodles By Dad',40,'Pack','Pulmuone',South Korea
+1963,1963,'Demae Iccho Sesame Oil Chicken Macaroni',21,'Pack','Nissin',Japan
+1964,1964,'2 Minute Noodles Thrillin' Curry',2,'Pack','Maggi',India
+1965,1965,'Tom Yam Prawn',34,'Pack','Yamamori',Japan
+1966,1966,'Superior Soup Rice Noodle',63,'Pack','Fuku',Hong Kong
+1967,1967,'Kung Fu Artificial Pork Flavor',77,'Bowl','Saigon Ve Wong',Vietnam
+1968,1968,'Yakisoba Spicy Chicken',33,'Tray','Maruchan',USA
+1969,1969,'Super Noodles Low Fat Sweet Thai Chilli',56,'Pack','Batchelors',UK
+1970,1970,"'""A"" Series Artificial Chicken'",61,'Pack','Wei Wei',Taiwan
+1971,1971,"'""A"" Series Artificial Hot Beef'",54,'Pack','Wei Wei',Taiwan
+1972,1972,'Spicy Black Pepper',68,'Pack','Koka',Singapore
+1973,1973,'Beef Tomato',34,'Cup','Pot Noodle',UK
+1974,1974,'U-Dong',73,'Pack','Six Fortune',South Korea
+1975,1975,'Artificial Onion',89,'Cup','Little Cook',Thailand
+1976,1976,'Super Noodles Low Fat Chicken Herb',62,'Pack','Batchelors',UK
+1977,1977,'Goog Good Eat Super Ramen Hot Chili',22,'Pack','Wei Lih',Taiwan
+1978,1978,'Oolongmen Artificial Seafood',26,'Cup','Nongshim',South Korea
+1979,1979,'Tomato Vegetables',84,'Pack','Wei Chuan',Taiwan
+1980,1980,'Ramen Noodle Soup Beef',94,'Pack','Maruchan',USA
+1981,1981,'Pancit Canton Extra Hot Chili',62,'Pack','Lucky Me!',Philippines
+1982,1982,'Vegetarian',20,'Cup','Little Cook',Thailand
+1983,1983,'Super Noodles Sweet & sour',48,'Pack','Batchelors',UK
+1984,1984,'Lemongrass Chili Rice Noodle',43,'Pack','Thai Kitchen',USA
+1985,1985,'Spring Onion Rice Noodle',84,'Pack','Thai Kitchen',USA
+1986,1986,'Asian Style Noodles Seafood',84,'Bowl','Haioreum',South Korea
+1987,1987,'Chapagetti Chajang',7,'Pack','Nongshim',South Korea
+1988,1988,'Super Noodles Mild Curry',68,'Pack','Batchelors',UK
+1989,1989,'Super Noodles To Go Chinese Space Rib',75,'Bowl','Batchelors',UK
+1990,1990,'Chand Clear Soup',54,'Bowl','Mama',Thailand
+1991,1991,'South Korean Style Kim Chee',88,'Bowl','Vifon',Vietnam
+1992,1992,'Tu Quy Pork',69,'Pack','Vifon',Vietnam
+1993,1993,'Steam Vermicelli',28,'Pack','Sunlight',Taiwan
+1994,1994,'Bah Kut Tea Noodle For Vegetarians',69,'Pack','Vedan',Taiwan
+1995,1995,'Artificial Onion Flavor Bean Thread',82,'Bowl','Ve Wong',Taiwan
+1996,1996,'Single Noble Black Bone Chicken Sweet Potato Thread',58,'Cup','Baijia',China
+1997,1997,'Phu Gia Cua Crab Bean Thread',31,'Pack','Vifon',Vietnam
+1998,1998,'Tofu & Miso',53,'Pack','Koyo',USA
+1999,1999,'Mushroom',86,'Pack','Koyo',USA
+2000,2000,'Hot & Sour Casserole Stewed Rice Noodle',20,'Pack','Baijia',China
+2001,2001,'Sichuan Pickled Sweet Potato Thread',31,'Pack','Baijia',China
+2002,2002,'Shin Ramyun Black',77,'Pack','Nongshim',South Korea
+2003,2003,'Chinese Chow Mein',90,'Cup','Pot Noodle',UK
+2004,2004,'Tempura Soba',5,'Bowl','Menraku',Japan
+2005,2005,'Super Noodles Barbecue Beef',67,'Pack','Batchelors',UK
+2006,2006,'2 Minute Noodles Tricky Tomato',22,'Pack','Maggi',India
+2007,2007,'Phoya Chicken',89,'Bowl','Noah Foods',Vietnam
+2008,2008,'Yakisoba Tomato Basil',27,'Tray','Maruchan',USA
+2009,2009,'Japanese Style Tokusen Sio',12,'Pack','Shirakiku',Japan
+2010,2010,'Keopnurungji Rice Snack',18,'Cup','O Sung',South Korea
+2011,2011,'Kung Fu Suc Song Artificial Pork',66,'Bowl','Saigon Ve Wong',Vietnam
+2012,2012,'Gomtang',70,'Cup','Paldo',South Korea
+2013,2013,'Soy Sauce',47,'Bowl','Goku Uma',Japan
+2014,2014,'DJ DOC Jjolmyeon',14,'Bowl','Foodmon',South Korea
+2015,2015,'Super Noodles To Go Curry',41,'Bowl','Batchelors',UK
+2016,2016,'One More Cup Kimchi',45,'Cup','Uni-President',Taiwan
+2017,2017,'Duck',19,'Pack','Yum Yum',Thailand
+2018,2018,'Super Noodles Bacon',67,'Pack','Batchelors',UK
+2019,2019,'Vegetable',88,'Pack','Sahmyook',South Korea
+2020,2020,'Ippeichan Soy Sauce',75,'Bowl','Myojo',Japan
+2021,2021,'Quick Tom Yum Shrimp',72,'Cup','Wai Wai',Thailand
+2022,2022,'Crystal Noodles Vegetables',83,'Bowl','Long Kow',China
+2023,2023,'Super Noodles Souther Fried Chicken',51,'Pack','Batchelors',UK
+2024,2024,'Mi Goreng Perisa Asli',85,'Pack','Mi Sedaap',Indonesia
+2025,2025,'Super Noodles Chinese Chow Mein',71,'Pack','Batchelors',UK
+2026,2026,'Shrimp Tom Yum Flavor',78,'Pack','Yum Yum',Thailand
+2027,2027,'60 Ingredients',60,'Cup','Samyang',South Korea
+2028,2028,'Kuah Rasa Baso Sapi Rice Noodles',14,'Pack','Super Bihun',Indonesia
+2029,2029,'Super Noodles Chicken',15,'Pack','Batchelors',UK
+2030,2030,'Taisho Fried Noodle Yakisoba',89,'Pack','Nissin',Japan
+2031,2031,'Supreme Soto',66,'Pack','Mi Sedaap',Indonesia
+2032,2032,'Original Curry',75,'Cup','Pot Noodle',UK
+2033,2033,'Pancit Canton Sweet Spicy',32,'Pack','Lucky Me!',Philippines
+2034,2034,'Vegetable',6,'Pack','Yum Yum',Thailand
+2035,2035,'South Korean Style Spicy Beef',30,'Pack','Golden Wheat',China
+2036,2036,'Good Noodles Chicken',19,'Pack','Unox',Holland
+2037,2037,'Curry Udon',96,'Bowl','Menraku',Japan
+2038,2038,'Mi SupArtificial Chicken Special',98,'Pack','Mi Sedaap',Indonesia
+2039,2039,'Chicken',5,'Pack','Yum Yum',Thailand
+2040,2040,'Top Ramen Chicken',29,'Pack','Nissin',USA
+2041,2041,'Demae Ramen Chicken',59,'Pack','Nissin',Japan
+2042,2042,'Lomi Seafood Vegetable',70,'Pack','Lucky Me!',Philippines
+2043,2043,'Pad Kee Mao Drunken',39,'Pack','Mama',Thailand
+2044,2044,'Yeul Ramyun',43,'Pack','Ottogi',South Korea
+2045,2045,'Chicken Flavor',62,'Pack','Wai Wai',Thailand
+2046,2046,'Pho Ga',76,'Pack','Mama',Thailand
+2047,2047,'Gomtang',22,'Pack','Paldo',South Korea
+2048,2048,'Spicy Tomkotsu',87,'Pack','Doll',Hong Kong
+2049,2049,'Beef',64,'Pack','Yum Yum',Thailand
+2050,2050,'Artificial Shrimp Tom yum',7,'Bowl','Mee Jang',Thailand
+2051,2051,'Hot Spicy Chicken',44,'Pack','Sapporo Ichiban',USA
+2052,2052,'Good Noodles Vegetable',24,'Pack','Unox',Holland
+2053,2053,'Wheat Gluten Stewed Duck Flavoured',35,'Bowl','Little Cook',Thailand
+2054,2054,'Soy Ginger Ramen',83,'Pack','Annie Chun's',USA
+2055,2055,'Artificial Spicy Hot Beef',87,'Pack','JML',China
+2056,2056,'Cup Noodles Spicy Seafood',43,'Cup','Nissin',Hong Kong
+2057,2057,'Artificial Hot & Sour Shrimp',92,'Bowl','Dragonfly',China
+2058,2058,'Hot Beef',58,'Pack','Samyang',South Korea
+2059,2059,'Soy Sauce',54,'Bowl','Menraku',Japan
+2060,2060,'Vegetarian Rice Noodles',83,'Bowl','Nan Hsing',Taiwan
+2061,2061,'Beijing Vegetable Rice Noodle',43,'Cup','Snapdragon',Singapore
+2062,2062,'Artificial Chicken',30,'Bowl','Dragonfly',China
+2063,2063,'Thai Ginger Rice Noodle',72,'Pack','Thai Kitchen',USA
+2064,2064,'Champong Spicy Seafood',17,'Bowl','Wang',South Korea
+2065,2065,'Imitation Beef',77,'Cup','Tradition',USA
+2066,2066,'Sanukiya Fresh Spicy Ramen',89,'Bowl','Shirakiku',Japan
+2067,2067,'Artificial Onion',43,'Bowl','Dragonfly',China
+2068,2068,'Big Bowl Noodle',81,'Bowl','Paldo',South Korea
+2069,2069,'Miso',45,'Bowl','Menraku',Japan
+2070,2070,'South Korean Kimchi Rice Noodle',50,'Cup','Snapdragon',Singapore
+2071,2071,'Kung Fu Shrimp',71,'Bowl','Ve Wong',Taiwan
+2072,2072,'Beef',47,'Cup','Samyang',South Korea
+2073,2073,'Artificial Seafood',79,'Bowl','Dragonfly',China
+2074,2074,'Oolongmen Beef',86,'Cup','Nongshim',South Korea
+2075,2075,'Artificial Spicy Beef',24,'Pack','JML',China
+2076,2076,'Pizza',40,'Pack','Knorr',Pakistan
+2077,2077,'Miso',21,'Pack','GreeNoodle',Thailand
+2078,2078,'Beef Rice Stick',65,'Bowl','Sunlee',Thailand
+2079,2079,'Neoguri Mild',70,'Pack','Nongshim',South Korea
+2080,2080,'Soupless Ramen Shallot Teriyaki',77,'Pack','Mexi-Ramen',USA
+2081,2081,'Artificial Beef',42,'Bowl','Dragonfly',China
+2082,2082,'Tiny Noodle With Oyster Flavor',36,'Pack','Hsin Tung Yang',Taiwan
+2083,2083,'Demae Iccho Seafood & Abalone Macaroni',35,'Pack','Nissin',Japan
+2084,2084,'Yakisoba Shrimp',60,'Tray','Maruchan',USA
+2085,2085,'Jin Ramen (Mild)',17,'Pack','Ottogi',South Korea
+2086,2086,'Tomato Seafood Rice Noodle',71,'Cup','Snapdragon',Singapore
+2087,2087,'Fresh Ramen Spicy',57,'Pack','Pulmuone',South Korea
+2088,2088,'Phoya Rice Noodles Beef',5,'Bowl','Noah Foods',Vietnam
+2089,2089,'Artificial Stew Beef',46,'Pack','JML',China
+2090,2090,'DJ DOC Instant rice Ramen Topokki',35,'Bowl','Foodmon',South Korea
+2091,2091,'Stew Pork',83,'Pack','JML',China
+2092,2092,'Big Bowl Crab ',75,'Bowl','Kailo',Hong Kong
+2093,2093,'Big Bowl Artificial Chicken',86,'Bowl','Kailo',Hong Kong
+2094,2094,'Japanese U-Don Lobster Scallop',25,'Pack','Kamfen',China
+2095,2095,'Hot & Spicy Ramen',71,'Cup','Ottogi',South Korea
+2096,2096,'Bekse Curry Myon',60,'Cup','Ottogi',South Korea
+2097,2097,'Yellow Buckwheat',20,'Bowl','Itomen',Japan
+2098,2098,'Shio',39,'Bowl','Menraku',Japan
+2099,2099,'Roasted Garlic Rice Noodle',12,'Bowl','Thai Kitchen',USA
+2100,2100,'Mushroom Rice Noodle',91,'Bowl','Thai Kitchen',USA
+2101,2101,'Potato Noodle Soup',89,'Pack','Nongshim',South Korea
+2102,2102,'Mushroom & Artificial Cuttlefish',18,'Pack','Vedan',Taiwan
+2103,2103,'Malaysian Beef Udon',30,'Pack','Mr. Udon',South Korea
+2104,2104,'Teriyaki Noodle',95,'Bowl','Annie Chun's',USA
+2105,2105,'Vegetable',70,'Pack','Gefen',USA
+2106,2106,'Kung Fu Rice Noodle Shrimp Crab ',92,'Bowl','Saigon Ve Wong',Vietnam
+2107,2107,'Ramen-Desse Miso Soybean Paste',5,'Bowl','Myojo',Japan
+2108,2108,'Spring Onion Rice Noodle',79,'Bowl','Thai Kitchen',USA
+2109,2109,'Lemongrass ginger',65,'Pack','Koyo',USA
+2110,2110,'Ramen Noodle Soup Chicken Mushroom',90,'Pack','Maruchan',USA
+2111,2111,'Chicken',78,'Pack','Gefen',USA
+2112,2112,'Snack Noodle slightly Hot',79,'Pack','Paldo',South Korea
+2113,2113,'Tu Quy Sour Spicy Shrimp',51,'Pack','Vifon',Vietnam
+2114,2114,'Kung Fu Rice Noodle Artificial Beef',3,'Bowl','Saigon Ve Wong',Vietnam
+2115,2115,'Souper Meal Picante Shrimp Hot Spicy',97,'Bowl','Nissin',USA
+2116,2116,'Vegetable',32,'Pack','Mama',Thailand
+2117,2117,'Ppushu Ppushu Barbecue',39,'Pack','Ottogi',South Korea
+2118,2118,'Top Ramen Shrimp',48,'Pack','Nissin',USA
+2119,2119,'Sutah Hot Spicy Beef',25,'Pack','Samyang',South Korea
+2120,2120,'Tempura Udon',13,'Bowl','Menraku',Japan
+2121,2121,'Imitation Chicken Vegetarian',53,'Pack','Gefen',USA
+2122,2122,'Kung Fu Artificial Beef Rice Noodle',55,'Bowl','Ve Wong',Taiwan
+2123,2123,'Harmee Mee goreng Prawn',51,'Pack','Ibumie',Malaysia
+2124,2124,'Kung Fu Artificial Szechuan Pork',8,'Bowl','Ve Wong',Taiwan
+2125,2125,'Single Noble Pickled Radish & Duck',51,'Cup','Baijia',China
+2126,2126,'Asian Vegetable',74,'Pack','Koyo',USA
+2127,2127,'Bowl Noodle Savory Chicken',64,'Bowl','Nongshim',USA
+2128,2128,'Hyoubanya No Chukasoba Soy Sauce',53,'Pack','Myojo',Japan
+2129,2129,'Ippeichan Soybean Paste',93,'Bowl','Myojo',Japan
+2130,2130,'Ppushu Ppushu Tteobokki',79,'Pack','Ottogi',South Korea
+2131,2131,'Beef Flavor Ramen',75,'Pack','Wu Mu',Taiwan
+2132,2132,'Kung Fu Artificial Sesame Chicken',28,'Bowl','Ve Wong',Taiwan
+2133,2133,'Little Prince Bacon',68,'Pack','Ve Wong',Vietnam
+2134,2134,'Noodle King Hong Koing Style Wonton',64,'Bowl','Sao Tao',Hong Kong
+2135,2135,'Taiwan Style Chow Mein',97,'Pack','iNoodle',Taiwan
+2136,2136,'Chicken',11,'Pack','Mr. Udon',South Korea
+2137,2137,'N-Rich Chicken Tinola',47,'Pack','Lucky Me!',Philippines
+2138,2138,'Kalguksoo',13,'Pack','Nongshim',South Korea
+2139,2139,'Spice Seafood',33,'Pack','Ottogi',South Korea
+2140,2140,'Instant Lunch Hot spicy Beef',57,'Cup','Maruchan',USA
+2141,2141,'Tom Yum Seafood Creamy',90,'Bowl','Little Cook',Thailand
+2142,2142,'Beef',45,'Bowl','Samyang',South Korea
+2143,2143,'Big Bowl Spicy Kimchi',66,'Bowl','Nongshim',South Korea
+2144,2144,'Artificial Beef With Sauerkraut',6,'Bowl','Unif',Taiwan
+2145,2145,'Mie Sambal Goreng',39,'Pack','Mi Sedaap',Indonesia
+2146,2146,'Kari Spesial',42,'Pack','Mi Sedaap',Indonesia
+2147,2147,'Supreme Bulalo',98,'Bowl','Lucky Me!',Philippines
+2148,2148,'Instant Bean Thread Seafood',72,'Bowl','Ve Wong',Taiwan
+2149,2149,'Chinese Onion Rice Noodle',50,'Pack','Unif / Tung-I',Taiwan
+2150,2150,'Pancit Canton toyo Mansi',41,'Pack','Quickchow',Philippines
+2151,2151,'Chicken Mami',55,'Pack','Quickchow',Philippines
+2152,2152,'E Menm Chicken',64,'','Kamfen',China
+2153,2153,'Mi Hai Cua Crab Flavor',7,'Pack','Koka',Singapore
+2154,2154,'Tu quy Chicken',12,'Pack','Vifon',Vietnam
+2155,2155,'Shrimp Udon',85,'Pack','Chikara',USA
+2156,2156,'Noodle With Sesame Sauce',17,'Pack','Q',Taiwan
+2157,2157,'Shin Cup',81,'Cup','Noodle Time',South Korea
+2158,2158,'Mi Lau Thai Thai Stle',10,'Bowl','Vifon',Vietnam
+2159,2159,'Kakesoba Desse Soy Sauce',65,'Bowl','Myojo',Japan
+2160,2160,'Beef Flavorc',71,'Cup','Sapporo Ichiban',USA
+2161,2161,'Ramen Desse Shio',88,'Bowl','Myojo',Japan
+2162,2162,'Udon Noodle Soup Oriental',49,'Pack','iNoodle',Taiwan
+2163,2163,'Tu Quy Spicy Beef',65,'Pack','Vifon',Vietnam
+2164,2164,'Chicken Flavor',6,'Cup','Sapporo Ichiban',USA
+2165,2165,'Artificial Classic Beef',58,'Bowl','Ve Wong',Taiwan
+2166,2166,'Artificial Beef Flavor',86,'Pack','Doll',Hong Kong
+2167,2167,'Alimentary Paste Chow Mein',35,'Pack','Souper',Taiwan
+2168,2168,'Midori No Tanuki',9,'Bowl','Maruchan',Japan
+2169,2169,'Crab Vermicelli',42,'Bowl','Sunlee',Thailand
+2170,2170,'Instant Bulalo Bone Marrow',55,'Pack','Lucky Me!',Philippines
+2171,2171,'Instant Mami Chicken',85,'Pack','Payless',Philippines
+2172,2172,'3 Mien Mi Tom Chua Cay Hot sour Shrimp',93,'Pack','Gomex',Vietnam
+2173,2173,'Snack Ramyon',65,'Cup','Ottogi',South Korea
+2174,2174,'Asian Style Instant Noodles Beef',66,'Pack','Vifon',Vietnam
+2175,2175,'Harmee Prawn',94,'Pack','Ibumie',Malaysia
+2176,2176,'Hao Hao Sate Onion',90,'Pack','Vina Acecook',Vietnam
+2177,2177,'Instant Lunch Lime Flavor with Shrimp',21,'Cup','Maruchan',USA
+2178,2178,'Noodle King Scallop Thick',43,'Bowl','Sao Tao',Hong Kong
+2179,2179,'Suudon Desse Soy Sauce',97,'Bowl','Myojo',Japan
+2180,2180,'Cup Noodles Seafood Curry',27,'Cup','Nissin',Hong Kong
+2181,2181,'Spicy Seafood',50,'Cup','Paldo',South Korea
+2182,2182,'Bowl Noodle Beef With Vegetables',38,'Bowl','Paldo',South Korea
+2183,2183,'Quickie Mami La Paz Batchoy',40,'Cup','Quickchow',Philippines
+2184,2184,'Bestcook Hot spicy Tom Yum Shrimp',34,'Bowl','Vina Acecook',Vietnam
+2185,2185,'Jin Ramen (Mild)',67,'Cup','Ottogi',South Korea
+2186,2186,'Hwa Cup Hot Spicy',27,'Cup','Paldo',South Korea
+2187,2187,'Dried Mix Noodles XO Sauce',77,'Tray','Kamfen',China
+2188,2188,'Yakisoba Noodles Karashi',42,'Tray','Nissin',Japan
+2189,2189,'Hyoubanya No Chukasoba Oriental',23,'Pack','Myojo',Japan
+2190,2190,'Curry Soba',2,'Bowl','Menraku',Japan
+2191,2191,'Vegetarian Tom Yum',15,'Pack','Mama',Thailand
+2192,2192,'Instant Lunch Cheddar Cheese',50,'Cup','Maruchan',USA
+2193,2193,'Bowl Noodles Rich & Savory Beef',22,'Bowl','Nissin',USA
+2194,2194,'Fu Chang Chinese Noodle Company Pork Seafood',65,'Tray','US Canning',USA
+2195,2195,'Hot Of Hots Artificial Black Peppered Beef',71,'Bowl','Ve Wong',Taiwan
+2196,2196,'Demae Iccho Tom Yam Goong Macaroni',14,'Pack','Nissin',Japan
+2197,2197,'Chicken Na Chicken',34,'Pack','Lucky Me!',Philippines
+2198,2198,'N-Rich Artificial Chicken With Ginger',60,'Pack','Lucky Me!',Philippines
+2199,2199,'Kung Fu Artificial Beef Rice Noodle',78,'Pack','Saigon Ve Wong',Vietnam
+2200,2200,'Pho Vietnamese Noodle Soup',38,'Tray','Rhee Bros Assi',South Korea
+2201,2201,'Chow Mein Thai Peanut',14,'Tray','Nissin',USA
+2202,2202,'Hot Of Hots Artificial Satay Beef',19,'Bowl','Ve Wong',Taiwan
+2203,2203,'Ho Fan Abalone Chicken',5,'Bowl','Sau Tao',Hong Kong
+2204,2204,'Noodle King Lobster Thick',96,'Bowl','Sau Tao',Hong Kong
+2205,2205,'Pho Bo Beef Rice Noodle',86,'Pack','Vifon',Vietnam
+2206,2206,'Asian Style Instant Noodles Shrimp',50,'Pack','Vifon',Vietnam
+2207,2207,'Cup Noodles Chicken Vegetable',45,'Cup','Nissin',USA
+2208,2208,'Spicy Thai',30,'Bowl','Noodle Time',Canada
+2209,2209,'Chow Noodles Alfredo',92,'Tray','Nissin',USA
+2210,2210,'Superior Soup',97,'Pack','Fuku',Hong Kong
+2211,2211,'Tofu Udon Dosirak',8,'Tray','Bon Go Jang',South Korea
+2212,2212,'Chili Pork',32,'Cup','Knorr',Thailand
+2213,2213,'Kung Fu Artificial Chicken',51,'Pack','Saigon Ve Wong',Vietnam
+2214,2214,'Pancit Shanghai',89,'Pack','Payless',Philippines
+2215,2215,'Cup Noodles Prawn',70,'Cup','Nissin',Singapore
+2216,2216,'Noodle King Beef Hong Kong Style',10,'Bowl','Sao Tao',Hong Kong
+2217,2217,'Demae Iccho Tonkotsu Macaroni',56,'Pack','Nissin',Japan
+2218,2218,'Daily Hot & Sour With Shrimp',26,'Pack','Vina Acecook',Vietnam
+2219,2219,'Vermicelli With Pork',32,'Bowl','Tayho',USA
+2220,2220,'Cup Noodles Hearty Chicken',92,'Cup','Nissin',USA
+2221,2221,'Bowl Noodles Hot & Spicy Beef',13,'Bowl','Nissin',USA
+2222,2222,'Spicy Artificial Pork',31,'Pack','Doll',Hong Kong
+2223,2223,'Xtra Big Kalamansi Pancit Canton',46,'Pack','Payless',Philippines
+2224,2224,'Ramen Noodle Soup Roast Beef',28,'Pack','Maruchan',USA
+2225,2225,'Noodle Lite 275 Udon Mushroom',43,'Bowl','Nongshim',South Korea
+2226,2226,'Instant Lunch Chicken 35% Less Sodium',68,'Cup','Maruchan',USA
+2227,2227,'Top Ramen Chili',27,'Pack','Nissin',USA
+2228,2228,'Ramen Noodle Soup Chili',62,'Pack','Maruchan',USA
+2229,2229,'Top Ramen Picante Beef',35,'Pack','Nissin',USA
+2230,2230,'Souper Meal Tomato Garlic Shrimp',76,'Bowl','Nissin',USA
+2231,2231,'Ramen Bokki',51,'Bowl','Ottogi',South Korea
+2232,2232,'Bowl Noodle Kimchi',18,'Bowl','Paldo',South Korea
+2233,2233,'Mi Chay Vegetarian',44,'Pack','Sunny Maid',Taiwan
+2234,2234,'Bowl Noodle Spicy Artificial Chicken',28,'Bowl','Paldo',South Korea
+2235,2235,'Charumera Shoyu',79,'Pack','Myojo',Japan
+2236,2236,'Stirfried Kimchi',72,'Pack','Paldo',South Korea
+2237,2237,'Goreng Rice Noodles',36,'Pack','Super Bihun',Indonesia
+2238,2238,'Shin Big Bowl',19,'Bowl','Nongshim',South Korea
+2239,2239,'Daily Vegetarian',51,'Pack','Vina Acecook',Vietnam
+2240,2240,'Japanese Style Tokusen Shoyu',75,'Pack','Shirakiku',Japan
+2241,2241,'Xtra Big Chilimansi Pancit Canton',19,'Pack','Payless',Philippines
+2242,2242,'Big Cup Noodles Chicken',88,'Cup','Nissin',USA
+2243,2243,'Ramen Noodle Soup Creamy Chicken',66,'Pack','Maruchan',USA
+2244,2244,'Instant Noodles With Soup',80,'Pack','Six Fortune',South Korea
+2245,2245,'Hot & Spicy Beef',6,'Bowl','Goku Uma',Japan
+2246,2246,'Big Cup Noodles Beef',14,'Cup','Nissin',USA
+2247,2247,'Big Cup Noodles Shrimp',60,'Cup','Nissin',USA
+2248,2248,'Champong Oriental Noodles',75,'Cup','Nongshim',South Korea
+2249,2249,'Crab Noodle',63,'Bowl','Sunlee',Thailand
+2250,2250,'Phu Gia Instant Bean Thread Chicken',17,'Pack','Vifon',Vietnam
+2251,2251,'Artificial Beef Flavor',95,'Bowl','Mee Jang',Thailand
+2252,2252,'Big Bowl Udon',27,'Bowl','Nongshim',South Korea
+2253,2253,'3 Mien Mi Tom Hum Lobster',16,'Pack','Gomex',Vietnam
+2254,2254,'TVP Curry Chicken',48,'Bowl','Little Cook',Thailand
+2255,2255,'Artificial Pork',37,'Bowl','Mee Jang',Thailand
+2256,2256,'Big Bowl Spicy Shrimp',63,'Bowl','Nongshim',South Korea
+2257,2257,'Jin Ramen (Hot)',62,'Cup','Ottogi',South Korea
+2258,2258,'Shrimp Fish',14,'Bowl','Unif',Taiwan
+2259,2259,'TVP Spicy Beef',11,'Bowl','Little Cook',Thailand
+2260,2260,'Ramen Noodle Soup Spicy Picante Chicken',43,'Pack','Maruchan',USA
+2261,2261,'Ramen Noodle Soup Oriental',48,'Pack','Maruchan',USA
+2262,2262,'Super Bowl Artificial Pickled Chilli Beef',19,'Bowl','Unif',Taiwan
+2263,2263,'Yakisoba Cheddar Cheese',29,'Tray','Maruchan',USA
+2264,2264,'Super Bowl Artificial Stewed Pork Chop',72,'Bowl','Unif',Taiwan
+2265,2265,'Super Bowl Artificial Spicy Beef',89,'Bowl','Unif',Taiwan
+2266,2266,'Dosirac Mushroom',92,'Tray','Paldo',South Korea
+2267,2267,'Dosirac Shrimp',7,'Tray','Paldo',South Korea
+2268,2268,'Supreme Bulalo Artificial Bone Marrow',24,'Bowl','Lucky Me!',Philippines
+2269,2269,'Tasty Mushroom',79,'Pack','Vifon',Vietnam
+2270,2270,'La Paz Batchoy Beef',87,'Pack','Lucky Me!',Philippines
+2271,2271,'Dosirac Beef',37,'Tray','Paldo',South Korea
+2272,2272,'Imitation Chicken Vegetarian',61,'Pack','Tradition',USA
+2273,2273,'Vegetarian Tom Yum',19,'Cup','Royal Umbrella',Thailand
+2274,2274,'Rice Noodle Anchovy Flavor',73,'Tray','Rhee Bros Assi',South Korea
+2275,2275,'Supreme Special Beef Carne De Vaca',80,'Bowl','Lucky Me!',Philippines
+2276,2276,'Pho Bo Rice Noodle Artificial Beef',82,'Bowl','Mama',Thailand
+2277,2277,'Dosirac Artificial Chicken',72,'Tray','Paldo',South Korea
+2278,2278,'Bowl Noodle Picante Beef',30,'Bowl','Samyang',South Korea
+2279,2279,'Guilin Style Rice Vermicelli',87,'Bowl','Dragonfly',China
+2280,2280,'Steam Spinach Ramen With Onion',58,'Pack','Wu Mu',Taiwan
+2281,2281,'Supreme Sotanghon Artificial Chicken Vermicelli ',94,'Bowl','Lucky Me!',Philippines
+2282,2282,'Hearty Rice Noodle Spicy Veggie Consomme',16,'Pack','Nongshim',South Korea
+2283,2283,'Rice Noodle Hot & Spicy Kimchi',96,'Tray','Rhee Bros Assi',South Korea
+2284,2284,'Cup Noodles Crab',19,'Cup','Nissin',Hong Kong
+2285,2285,'Soybean Paste',28,'Bowl','Tablemark',Japan
+2286,2286,'South Korean Seafood',54,'Pack','Paldo',South Korea
+2287,2287,'Onion Flaver Rice Noodle',10,'Bowl','Tiger',Taiwan
+2288,2288,'South Korean U Dong',76,'Pack','Paldo',South Korea
+2289,2289,'Shin Bowl',40,'Bowl','Nongshim',South Korea
+2290,2290,'Spicy Artificial Beef',53,'Pack','Doll',Hong Kong
+2291,2291,'South Korean Broad Noodle',8,'Pack','Paldo',South Korea
+2292,2292,'Kung Fu Artificial Beef Rice Noodle',65,'Pack','Saigon Ve Wong',South Korea
+2293,2293,'King Cup Lobster',95,'Cup','Paldo',South Korea
+2294,2294,'Hyoubanya No Yakisoba Oriental',35,'Tray','Myojo',Japan
+2295,2295,'Artificial Chicken',17,'Pack','Doll',Hong Kong
+2296,2296,'Cup Noodles Seafood',39,'Cup','Nissin',Hong Kong
+2297,2297,'King Cup Kimchi Pot Stew',32,'Cup','Paldo',South Korea
+2298,2298,'Pickled Vegetable',47,'Pack','Doll',Hong Kong
+2299,2299,'Oriental Kitchen Hot Spicy',56,'Cup','Mama',Thailand
+2300,2300,'Rice Noodle Katsuo',13,'Tray','Rhee Bros Assi',South Korea
+2301,2301,'Rice Noodles Seafood',16,'Tray','Rhee Bros Assi',South Korea
+2302,2302,'Udon Mushroom',81,'Pack','Fortune',USA
+2303,2303,'Oh! Ricey Beef Rice Noodles',15,'Pack','Vina Acecook',Vietnam
+2304,2304,'Chili Paste Tom Yum',3,'Pack','Wai Wai',Thailand
+2305,2305,'Cup Shrimp Tom Yum Flavor',3,'Cup','Mama',Thailand
+2306,2306,'Kung Fu Artificial Soybean Paste',5,'Pack','Ve Wong',Taiwan
+2307,2307,'Minced Pork Tom Yum',41,'Pack','Wai Wai',Thailand
+2308,2308,'Mi Lau Thai Artificial Chicken',12,'Pack','Vina Acecook',Vietnam
+2309,2309,'South Korean Noodle Kimchi Flavor',53,'Pack','Paldo',South Korea
+2310,2310,'Dried Noodle With BBQ Pork',51,'Pack','Wu Mu',Taiwan
+2311,2311,'Spicy Shrimp Bowl',96,'Bowl','Paldo',South Korea
+2312,2312,'Cup Noodles Spicy Chile Chicken',3,'Cup','Nissin',USA
+2313,2313,'Pork',4,'Cup','Mama',Thailand
+2314,2314,'Mi Lau Thai Shrimp',48,'Pack','Vina Acecook',Vietnam
+2315,2315,'Cup Noodles Chicken',32,'Cup','Nissin',USA
+2316,2316,'Hao Hao Sour Hot Shrimp',20,'Pack','Vina Acecook',Vietnam
+2317,2317,'Chow Mein Kung Pao Chicken',59,'Tray','Nissin',USA
+2318,2318,'Daily Beef Ball',33,'Pack','Vina Acecook',Vietnam
+2319,2319,'Oh! Ricey Chicken',90,'Pack','Vina Acecook',Vietnam
+2320,2320,'Bowl Noodles Hot & Spicy Shrimp',92,'Bowl','Nissin',USA
+2321,2321,'Mi Lau Thai Seafood',84,'Pack','Vina Acecook',Vietnam
+2322,2322,'Tom Yum Shrimp',80,'Cup','Royal Umbrella',Thailand
+2323,2323,'Cup Noodles Beef',35,'Cup','Nissin',USA
+2324,2324,'Cup Noodles Shrimp',17,'Cup','Nissin',USA
+2325,2325,'Oriental Kitchen Spicy Seafood',74,'Cup','Mama',Thailand
+2326,2326,'Daily Hot & Spicy Tom Yun',93,'Pack','Vina Acecook',Vietnam
+2327,2327,'Bowl Noodle Spicy Seafood',78,'Bowl','Nongshim',USA
+2328,2328,'Udon Chicken',98,'Pack','Fortune',USA
+2329,2329,'Udon Beef',80,'Pack','Fortune',USA
+2330,2330,'Steamed Noodle Sesame Oil',94,'Pack','Wu Mu',Taiwan
+2331,2331,'100 Artificial Spicy Beef',4,'Pack','Unif',Taiwan
+2332,2332,'Tomato',22,'Pack','Koka',Singapore
+2333,2333,'Udon Mushroom',28,'Pack','Myojo',Japan
+2334,2334,'Artificial Pork Jumbo',66,'Pack','Mama',Thailand
+2335,2335,'Broad Noodles',5,'Pack','Six Fortune',South Korea
+2336,2336,'Karashi Mayo Yakisoba',79,'Tray','Nissin',Japan
+2337,2337,'Udon Hot & Spicy',7,'Pack','Myojo',Japan
+2338,2338,'Tom Klong',62,'Bowl','Fashion Foods',Thailand
+2339,2339,'Hot & Spicy Beef',85,'Tray','Fu Chang Chinese Noodle Company',USA
+2340,2340,'Aunt Mentaiko Durum Spaghetti',35,'Bowl','Sanyo Foods',Japan
+2341,2341,'Ppushu Ppushu Sweet & Sour',87,'Pack','Ottogi',South Korea
+2342,2342,'Chow Noodles Tomato Basil',71,'Bowl','Nissin',USA
+2343,2343,'Spicy Seafood Marinara',54,'Bowl','Koka',Singapore
+2344,2344,'Spicy Sesame',21,'Pack','Koka',Singapore
+2345,2345,'Curry',37,'Pack','Koka',Singapore
+2346,2346,'Udon Shrimp',49,'Pack','Myojo',Japan
+2347,2347,'Tom Yum Rice Noodles',38,'Bowl','Koka',Singapore
+2348,2348,'Mi Goreng Jumbo Beef',31,'Pack','Indomie',Indonesia
+2349,2349,'Onion Chicken',74,'Pack','Indomie',Indonesia
+2350,2350,'Supreme Instant Mami Noodles With Free Crackers',75,'Bowl','Lucky Me!',Philippines
+2351,2351,'Udon Chicken',72,'Pack','Myojo',Japan
+2352,2352,'Pho Ga Instant rice Noodle',15,'Bowl','Vifon',Vietnam
+2353,2353,'Bihon Guisado Rice Noodle',71,'Pack','Quickchow',Philippines
+2354,2354,'Chow Noodles Cheddar Cheese',75,'Tray','Nissin',USA
+2355,2355,'Snack Ramyon',82,'Pack','Ottogi',South Korea
+2356,2356,'Instant Bowl Noodles Artificial Pork',23,'Bowl','Mama',Thailand
+2357,2357,'Laksa Singapura',33,'Bowl','Koka',Singapore
+2358,2358,'Udon Crab',51,'Pack','Myojo',Japan
+2359,2359,'Top Ramen Beef',87,'Pack','Nissin',USA
+2360,2360,'Good Good Eat Super Ramen Original',84,'Pack','Wei Lih',Taiwan
+2361,2361,'Tom Yam Instant soup Noodle',25,'Pack','Six Fortune',South Korea
+2362,2362,'Yakisoba Sweet & Sour Chicken',29,'Tray','Maruchan',USA
+2363,2363,'Bowl Noodle Kimchi',64,'Bowl','Samyang',South Korea
+2364,2364,'Instant Lunch Roast Chicken Flavor',65,'Cup','Maruchan',USA
+2365,2365,'Yakisoba Chicken',40,'Tray','Maruchan',USA
+2366,2366,'Yakisoba Teriyaki Beef',42,'Tray','Maruchan',USA
+2367,2367,'Bowl Noodle Spicy Artificial Lobster',74,'Bowl','Nongshim',USA
+2368,2368,'Yakisoba Roast chicken',18,'Tray','Maruchan',USA
+2369,2369,'Kingcook Tomato Sauce Pork',71,'Tray','Vina Acecook',Vietnam
+2370,2370,'Satoimo Noodles',3,'Pack','Rocket Brand',China
+2371,2371,'Souper Meal Beef Flavor Minestrone',15,'Bowl','Nissin',USA

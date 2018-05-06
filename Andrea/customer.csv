@@ -1,0 +1,41 @@
+ID,customerEmail,customerFirstName,customerLastName,customerCity,customerState,customerAddress,customerZip,customerPhone,store_ID
+501,auer.marguerite@example.org,Afton,Wintheiser,West Edmund,Oregon,821 Nathan Underpass,73104,(692)468-1499x4332,10
+502,scotty23@example.com,Hailey,Emard,West Kadenside,NewYork,0496 Zola Centers,12240-3410,9675009491,20
+503,garrison.collier@example.com,Lily,Wiegand,Imogenemouth,District of Columbia,693 Bednar Crescent,84152-2165,1-721-853-4066x2625,30
+504,berry.hills@example.org,June,Reinger,Alecstad,Kentucky,684 Cyrus Lake Suite 719,71073-0545,1-706-566-6772x652,40
+505,abshire.virgil@example.net,Mafalda,Emmerich,Port Alexandre,SouthDakota,839 Dan Wells,11239-8810,1-615-537-5318x9116,50
+506,kcronin@example.net,Reggie,Johnston,Luettgenland,Arkansas,94027 Stehr Isle,96834,1-679-093-3785x463,60
+507,rodriguez.karine@example.com,Rudolph,Spencer,Port Moshechester,Arkansas,135 Kshlerin Trace Suite 781,80157,733-285-3477,70
+508,bayer.richmond@example.com,Leilani,Romaguera,East Yasmin,Alabama,8495 Bartell Fort,3587,048.954.0869x7682,80
+509,jhermiston@example.net,Laurianne,Trantow,Schroedermouth,Iowa,312 Roxane Extensions Suite 815,31505,4489929624,90
+510,mclaughlin.jacques@example.org,Jazmyne,Fay,East Forrestfurt,Maryland,06607 Burley Squares Apt. 025,72980-2953,(431)222-7480,100
+511,beier.monserrate@example.com,Milford,Weber,South Thad,Oregon,5915 Joan Row Apt. 579,99378,1-913-483-5520x9359,110
+512,langosh.kyler@example.com,Isabelle,Rau,New Edythville,Louisiana,04330 McGlynn Hollow Apt. 748,97803,076-092-6702x142,120
+513,leffler.karli@example.org,Christ,O'Kon,Barrowschester,Florida,1201 Jamie Curve Suite 154,46053,961.131.1998,130
+514,mohr.vincent@example.org,Sarina,Harvey,Jakobview,Maryland,7407 Mervin Mountain,88222,1-046-100-8463x639,140
+515,jakayla.ritchie@example.net,Clay,Eichmann,North Janefurt,Missouri,7929 Lueilwitz Harbor,45419,1-512-439-6000x9987,150
+516,electa76@example.com,Therese,Steuber,Lake Kelsiemouth,Alaska,95123 Greyson Ranch Suite 474,43941,880.745.9340,160
+517,mable.kerluke@example.org,Adrien,Bradtke,Port Shawnfurt,Oklahoma,6575 Christophe Landing Apt. 097,74225-4059,1-595-679-1496,170
+518,fernando.larkin@example.org,Muriel,Murray,Oriemouth,Indiana,27319 Ward Valley,65109-3108,651-995-7468,180
+519,qfeest@example.net,Yasmin,Kulas,Bahringerland,District of Columbia,574 Mitchell Crescent Suite 496,62724,1-978-388-4533x7369,190
+520,ksanford@example.com,Ken,Grimes,Port Lavonnestad,Florida,95927 Marlene Knoll,26132,8300606917,200
+521,amely81@example.org,Pierce,Flatley,Aniyabury,Oklahoma,95734 Hilll Path Suite 189,12334,+77(0)9802865552,210
+522,herman.alf@example.org,Jaime,Cremin,Lake Keenan,WestVirginia,80800 Wisozk Street,67120,+74(5)5482205277,220
+523,kim.stoltenberg@example.com,Marcia,Friesen,Matildastad,Alabama,99391 Daniel Lodge,21585,(451)720-1135x0845,230
+524,dkassulke@example.com,Peter,Lang,Port Dandre,Oklahoma,86204 Domenic Junction,56303-4806,1-011-519-9454x63621,240
+525,qgrady@example.com,Paula,Bashirian,Ricefort,Kansas,1329 Schneider Roads Apt. 963,05802-6662,405-962-1095,250
+526,ola11@example.net,Breana,Ledner,East Paulineborough,Oklahoma,14352 Abshire Ridges Suite 366,01418-2507,1-281-514-0617,260
+527,enrico12@example.com,Abigayle,Emard,Lake Jamisonshire,Tennessee,03397 Schiller Course,80535-5218,599-035-1790x9266,270
+528,german13@example.net,Lilly,Legros,New Delphia,NorthCarolina,3428 Prosacco Mall Suite 205,47020-3104,(302)735-5576x0407,280
+529,rudy11@example.org,Wellington,Luettgen,Katelinshire,WestVirginia,8445 Wisozk Underpass,32044,1300481718,290
+530,padberg.alfonso@example.com,Cooper,Haag,Katelinshire,Maine,925 Mortimer Grove Apt. 205,85838-4473,1-998-239-2566,300
+531,padberg.alfonso@example.com,Rocky,Haag,Katelinshire,Maine,926 Mortimer Grove Apt. 205,85838-4474,1-998-239-2567,310
+532,padberg.alfonso@example.com,Mel,Haag,Katelinshire,Maine,927 Mortimer Grove Apt. 205,85838-4475,1-998-239-2568,320
+533,padberg.alfonso@example.com,Ryan,Haag,Katelinshire,Maine,928 Mortimer Grove Apt. 205,85838-4476,1-99839-2569,330
+534,padberg.alfonso@example.com,Khanh,Haag,Katelinshire,Maine,929 Mortimer Grove Apt. 205,85838-4477,8-239-2570,340
+535,padberg.alfonso@example.com,Ady,Haag,Katelinshire,Maine,930 Mortimer Grove Apt. 205,85838-4478,998-239-2571,350
+536,padberg.alfonso@example.com,Alicia,Haag,Katelinshire,Maine,931 Mortimer Grove Apt. 205,85838-4479,1-908-239-2572,360
+537,padberg.alfonso@example.com,Greg,Haag,Port Lorine,Maine,932 Mortimer Grove Apt. 205,85838-4480,1-997-239-2573,370
+538,padberg.alfonso@example.com,Gerardo,Haag,Port Lorine,Maine,933 Mortimer Grove Apt. 205,85838-4481,1-998-739-2574,380
+539,padberg.alfonso@example.com,Ali,Haag,Port Lorine,Maine,934 Mortimer Grove Apt. 205,85838-4482,1-609-239-2575,390
+540,padberg.alfonso@example.com,Tyson,Haag,Port Lorine,Maine,935 Mortimer Grove Apt. 205,85838-4483,1-543-239-2576,400

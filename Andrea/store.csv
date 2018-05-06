@@ -1,0 +1,41 @@
+ID,storeName,storeAddress,storeState,storeZip,storeOpenTime,storeCloseTime
+10,Sephora,1700 Jaylin Stream Suite 022,Mississippi,72734,13:02:14,15:22:28
+20,Sephora,67829 Sharon Tunnel Apt. 588,NewJersey,10109,1:35:40,7:56:33
+30,Sephora,985 Vicenta Curve,WestVirginia,10164-0122,19:19:48,0:32:25
+40,Sephora,67024 Ullrich Cliff,Nebraska,49709-3550,4:58:24,4:36:31
+50,Sephora,7483 Schneider Branch,Kansas,522,22:57:03,9:59:30
+60,Sephora,83951 Shanna Expressway Suite 365,Hawaii,08601-9599,17:01:54,2:55:35
+70,Sephora,6402 Pauline Landing,Virginia,61111,0:49:15,15:04:09
+80,Sephora,523 Crona Square,Florida,07647-5541,20:01:55,13:15:24
+90,Sephora,6652 Beahan Street,NewYork,56182,9:03:39,3:51:04
+100,Sephora,6069 Langworth Meadows Suite 789,Nevada,23684,8:52:43,22:46:15
+110,Sephora,00732 Abernathy Shores Suite 733,SouthCarolina,62371-1184,15:34:08,22:39:46
+120,Sephora,9349 Elbert Gardens Suite 302,Washington,41941-1919,1:41:21,8:11:19
+130,Sephora,42962 Rolfson Vista Suite 953,Arkansas,96649,12:21:06,15:18:01
+140,Sephora,5025 Mraz Turnpike,Tennessee,31541,2:32:32,1:33:05
+150,Sephora,98261 Schmitt Island,SouthDakota,65118-1876,8:41:53,14:47:41
+160,Sephora,473 Rippin Plains,California,93742,10:16:12,4:18:13
+170,Sephora,53193 Rohan Pike,Hawaii,12317-0566,17:56:16,15:17:33
+180,Sephora,43973 Quitzon Fork Apt. 926,Florida,31044,22:16:30,18:10:46
+190,Sephora,72891 Mills Park,Tennessee,91439-5228,16:44:14,3:30:22
+200,Sephora,044 Jamir Shoals Apt. 644,WestVirginia,18570,7:04:51,8:16:47
+210,Sephora,801 Kiehn Field,NorthDakota,99061,20:19:03,21:55:20
+220,Sephora,1853 Cayla Pike Apt. 644,Alabama,27758-1060,18:53:35,18:07:55
+230,Sephora,62025 Reynolds Summit Apt. 462,NorthCarolina,74686,13:44:40,18:25:37
+240,Sephora,4956 Klocko Union Apt. 885,Maine,92025,18:03:30,0:13:16
+250,Sephora,2594 Gorczany Streets,Florida,75636-7821,4:00:26,5:38:04
+260,Sephora,343 Leonard Flat,Arizona,25917-6819,15:21:13,8:00:09
+270,Sephora,70418 Keeling Summit Apt. 612,Missouri,88439-4642,21:15:38,19:49:09
+280,Sephora,58003 Mitchell Locks Suite 670,Idaho,27116-7781,5:31:30,19:21:36
+290,Sephora,3608 Riley Glens,Tennessee,83478,11:23:39,8:45:22
+300,Sephora,0978 Schultz Points Suite 866,Alabama,71436-2648,17:29:53,6:51:47
+310,Sephora,979 Schultz Points Suite 865,Michigan,71436-2649,18:29:53,7:51:47
+320,Sephora,980 Schultz Points Suite 864,Georgia,71436-2650,19:29:53,8:51:47
+330,Sephora,981 Schultz Points Suite 8661,Alaska,71436-2651,20:29:53,9:51:47
+340,Sephora,982 Schultz Points Suite 888,Colorado,71436-2652,21:29:53,10:51:47
+350,Sephora,983 Schultz Points Suite 860,Arizona,71436-2653,22:29:53,11:51:47
+360,Sephora,984 Schultz Points Suite 86641,Illionios,71436-2654,23:29:53,12:51:47
+370,Sephora,985 Schultz Points Suite 097,Missouri,71436-2655,0:29:53,13:51:47
+380,Sephora,986 Schultz Points Suite 86,Minnesota,71436-2656,1:29:53,14:51:47
+390,Sephora,987 Schultz Points Suite 66,Wisconston,71436-2657,2:29:53,15:51:47
+400,Sephora,988 Schultz Points Suite 86600,New Mexico,71436-2658,3:29:53,16:51:47

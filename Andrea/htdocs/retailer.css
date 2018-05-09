@@ -1,0 +1,148 @@
+* { margin:0; padding:0; }
+a:hover { cursor:pointer; }
+body {
+  height:100%;
+}
+
+nav { font-family:'Roboto', sans-serif;
+  font-weight:bold; }
+#Nav01 {
+  background:#000; height:2.5em; display:flex;
+  align-items:center; /* align vertical */
+}
+#Nav01 > div {  
+  width:1024px; margin:0 auto; font-size:0.7em;
+  display:flex; flex-direction:row;
+  justify-content:space-between;  
+}
+#Nav01 > div > span {
+  color:white; display:flex; align-items:center;
+}
+#Nav01 a { color:white; }
+#Nav01 a:hover { color:red; }
+nav a { text-decoration:none; }
+#Nav02 {
+  margin:0 auto; width:1024px; 
+  border-bottom:1px solid grey; font-size:0.9em;
+}
+#Nav02_Menu { width: 100%; }
+#Nav02_Menu a {	color:black; }
+#Nav02_Menu a:hover { color:red; }
+#Nav02_Menu > #Nav02_Menu_Flex {
+  display:flex; flex-direction:row;  
+  justify-content:space-between;  
+  align-items:center; /* align vertical */
+}
+#Nav02_Menu li {
+  display:inline; padding-bottom:10px;
+}
+#Nav02_Menu ul li {
+  float:left; list-style-type:none;
+}
+#Nav02_Menu ul li:hover { background-color: white; }
+#Nav02_Menu ul ul {  
+  display:none; position:absolute;
+  margin-top: 10px; padding: 15px 15px;
+  background-color:#fff; border: 1px #aaa solid;
+  width:300px; height:300px;
+  box-shadow: -5px 5px 5px rgba(0,0,0,.3);
+	-moz-box-shadow: -5px 5px 5px rgba(0,0,0,.3);
+	-webkit-box-shadow: -5px 5px 5px rgba(0,0,0,.3);
+	-o-box-shadow:  -5px 5px 5px rgba(0,0,0,.3);
+}
+#Nav02_Menu ul li:hover ul { display:block; }
+#Nav02_Menu ul ul li { float:none; }
+
+header > div {
+  margin:0 auto; width:1024px; height:70px;
+  display:flex; flex-direction:row;
+  justify-content:space-between;  
+  align-items:center; /* align vertical */
+}
+header > div > div {  
+  display:flex; flex-direction:row;  
+  align-items:center; /* align vertical */
+}
+#search_Bar {
+  border:1px solid grey;  
+  padding:0px 0px 0px 5px;
+  height:28px;
+}
+#search_Btn { border:0px solid none; }
+input:focus { outline:none; }
+input[type=submit] {
+  width:30px; height:30px; border:none;
+  background:black;
+  /*background-image: url(https://cahskim.files.wordpress.com/2016/03/search_btn4.png); background-size:cover;*/   
+  text-indent:-9999px;
+}
+input[type=submit]:hover {  
+  background:red;
+ /* background-image: url(https://cahskim.files.wordpress.com/2016/03/search_btn4.png); background-size:cover;*/
+}
+
+
+#mainContents {
+  margin:0 auto; width:1024px;
+  text-align:center; /* border:solid 1px black; */
+  display:flex; flex-direction:row;
+}
+#mainContents > aside { flex-grow: 1; }
+#mainContents > aside > div {
+  height: 200px; display:flex; flex-direction:column;
+  justify-content:space-between; align-items:center;  
+}
+#mainContents > aside > div > p {
+  font-family:'Arial', sans-serif; font-size:12px;
+}
+#mainContents > aside a { color:#000; }
+#mainContents > aside a:hover { color:red; }
+#mainContents > section { flex-grow:9; }
+
+#mainContentsDummy {
+  margin:0 auto; width:1024px; text-align:center;
+  display:flex; flex-direction:row;
+}
+#mainContentsDummy > aside { padding:0 20px; }
+#mainContentsDummy > aside > div {
+  width: 190px; display:flex; flex-direction:column;
+  justify-content:space-between;  
+}
+#mainContentsDummy > aside p, h5 {
+  text-align: left;
+}
+#mainContentsDummy > aside p {
+  font-family:'Arial',sans-serif; font-size:13px;  
+}
+.asideTextLink {
+  font-family:'Roboto',sans-serif; font-weight:800;
+}
+.asideTextLink2 {
+  font-family:'Arial',sans-serif; font-size:12px;
+  margin-top: 10px; font-weight:400;
+}
+.asideTextLinkD {
+  font-family:'Arial',sans-serif; font-size:12px;
+  margin-top: 10px; font-weight:400; color:#777;
+}
+.asideBreak {
+  border-bottom:3px solid #000; margin: 15px 0;
+}
+#mainContentsDummy > aside a {
+  color:#000; text-decoration:none;
+}
+#mainContentsDummy > aside a:hover { color:red; }
+#mainContentsDummy > section { }
+
+#bottomContents {
+  margin:0 auto; width:1024px;  height: 400px;
+}
+
+footer {
+  width:1024px;
+  margin:0 auto; padding:15px 0 20px 0;
+  border-top:1px solid grey; 
+  font-size: 0.7em; text-align:center;
+}
+
+/* https://cahskim.files.wordpress.com/2016/04/sephorasurvey3.pdf */

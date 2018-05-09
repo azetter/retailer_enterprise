@@ -1,0 +1,90 @@
+<html>
+<html lang="en" ng-app="sampleApp">
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,400,500,700' rel='stylesheet' type='text/css'>
+    <link rel="retailer" href="retailer.css">
+    <script src="/js/retailer.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+  </head>
+  
+  <body ng-controller="SampleController">
+ 
+    <nav id="Nav01">
+      <div>
+      
+        <span><a href="#">sign in or register</a></span>
+        <span><a href="#">ACCOUNT</a></span>
+        <span><a href="#">BEAUTY INSIDER</a></span>
+        <span><a href="#">3 FREE SAMPLES</a></span>
+        <span style="width:25%"></span>
+        <span><img src="https://cahskim.files.wordpress.com/2016/03/ico_sephora.gif" style="height:1.5em;">&nbsp;<a href="#">STORES</a></span>
+        <span><img src="https://cahskim.files.wordpress.com/2016/03/ico_favourite.gif" style="height:20px;"></span>
+        <span><img src="https://cahskim.files.wordpress.com/2016/03/ico_basket.gif" style="height:20px;">&nbsp;<a href="#">BASKET</a></span>
+        <span><div style="padding:5px 10px;background:#111;color:#333;">CHECKOUT</div></span>
+      </div>
+    </nav>
+    
+
+    <header>
+      <div>
+        <div>
+          <div id="search_Bar">
+            <input type="text" style="border:none" value="SEARCH">
+          </div>
+          <div id="search_Btn">
+            <input type="submit" value="search">
+          </div>
+        </div>        
+        <span></span>
+        <span ng-click="home()"><a href="#"><center><img src="http://www.sephora.com/contentimages/homepage/homepage_sephoralogo_040915_image.png" style="height:30px;"></center></a></span>
+        <span></span>
+        <span><center><img src="http://www.sephora.com/contentimages/homepage/CAN_FreeReturns_FreeShip.gif"></center></span>
+     
+      </div>
+    </header>
+
+  <header>
+      <div>
+            <center><h2><font color="red">Links to Queries: </font></h2></center>
+            <center><h3><font color="red"><a href="url">http://localhost:7777/query1.php</a></font></h3></center>
+            <center><h3><font color="red"><a href="url">http://localhost:7777/query2.php</a></font></h3></center>
+            <center><h3><font color="red"><a href="url">http://localhost:7777/query3.php</a></font></h3></center>
+            <center><h3><font color="red"><a href="url">http://localhost:7777/query4.php</a> </font></h3></center>
+            <center><h3><font color="red"><a href="url">http://localhost:7777/query5.php</a> </font></h3></center>
+      </div>
+    </header>
+
+    
+    <nav id="Nav02">
+      <div id="Nav02_Menu">
+        <ul id="Nav02_Menu_Flex">
+
+
+    <section id="mainContents" ng-show="page_03">
+      <img src="https://cahskim.files.wordpress.com/2016/04/page_01_makeup.png">
+    </section>
+    <section id="mainContents" ng-show="page_04">
+      <img src="https://cahskim.files.wordpress.com/2016/04/page_04_justarrive.png">
+    </section>
+   
+
+
+
+<!-- Dummy contents for button swap -->
+    <section id="bottomContents">
+      <img src="https://cahskim.files.wordpress.com/2016/03/bottom_contents1.gif">
+    </section>
+               
+  
+    <footer>
+      <!--Source for website. https://codepen.io/anon/pen/ZoXxEY-->
+    <!-- <center> <p>Copyright © 2016 HyunsooKim. All rights reserved.</p>
+      <p>All the contents in this sitee are created by Hyunsoo Kim, Gustavo Blanco, Lin Shi and Jianli Qi.</p>
+      <p>This website made for an assignmnet of INM405 course in SENECA COLLEGE.</p></center>-->
+      <center><p><h4>>Andrea Zetter, CSC 411 Database.</h4></p>
+      <p><h4>This website was created to mock a retail enterprise and to display queries.</h4></p>
+      <p><h4>University of Southern Mississippi</h4></p></center>
+    </footer>
+  
+  </body>
+</html>

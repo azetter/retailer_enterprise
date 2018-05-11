@@ -13,7 +13,7 @@ Andrea - Sephora deployed [Website](https://serene-castle-27562.herokuapp.com/Se
 
 Isaac - Ikea deployed [Website](https://serene-depths-85562.herokuapp.com/home_page.php)
 
-Hameed - HMart deployed [Website](https://morning-chamber-83520.herokuapp.com/)
+Hameed - HMart deployed [Website](https://limitless-sierra-76998.herokuapp.com/hmart.php)
 
 # Queries
 Connect to the remote Database. Credentials provided with submision, databasename is __projectcoffee__. Run the follow to get our results yourself.
